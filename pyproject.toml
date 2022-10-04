@@ -1,0 +1,8 @@
+[project]
+name = "betge"
+version = "1.1.0"
+description = "A simple package to drop inaccurate epochs during EEG analysis"
+authors = [
+    { name = "Stephane Mabille", email = "stephane.mabille@epita.fr" },
+    { name = "Hugo Boux", email = "hugo.boux@epita.fr"}
+    ]
