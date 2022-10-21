@@ -1,0 +1,117 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+UZU_ALA_053,100,1,0,Les nuages sont gris. ,0,0,1,2.62,100.89
+UZU_ALA_053,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.5,112.87
+UZU_ALA_053,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.95,130.06
+UZU_ALA_053,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,0.89,138.42
+UZU_ALA_053,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,10.09,171.57
+UZU_ALA_053,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.64,175.26
+UZU_ALA_053,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.72,181.06
+UZU_ALA_053,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.53,181.63
+UZU_ALA_053,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.7,187.47
+UZU_ALA_053,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.01,198.39
+UZU_ALA_053,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.24,200.67
+UZU_ALA_053,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.71,202.42
+UZU_ALA_053,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.2,212.59
+UZU_ALA_053,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,3.45,216.08
+UZU_ALA_053,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.18,223.37
+UZU_ALA_053,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.36,226.78
+UZU_ALA_053,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.11,227.92
+UZU_ALA_053,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.78,233.26
+UZU_ALA_053,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.23,234.53
+UZU_ALA_053,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.98,235.54
+UZU_ALA_053,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.94,242.12
+UZU_ALA_053,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.68,245.85
+UZU_ALA_053,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,3.0,256.87
+UZU_ALA_053,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.81,258.72
+UZU_ALA_053,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.75,267.78
+UZU_ALA_053,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.12,268.95
+UZU_ALA_053,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.58,276.0
+UZU_ALA_053,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.13,279.18
+UZU_ALA_053,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.28,285.6
+UZU_ALA_053,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.88,286.53
+UZU_ALA_053,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,3.1,296.28
+UZU_ALA_053,8,2,0,De quelle couleur est le t�l�phone ? ,0,0,1,0.66,304.66
+UZU_ALA_053,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.95,311.88
+UZU_ALA_053,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.79,313.71
+UZU_ALA_053,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.82,320.27
+UZU_ALA_053,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.56,322.87
+UZU_ALA_053,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.08,329.54
+UZU_ALA_053,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.88,330.46
+UZU_ALA_053,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.79,337.48
+UZU_ALA_053,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.93,339.45
+UZU_ALA_053,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.6,341.08
+UZU_ALA_053,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.48,346.38
+UZU_ALA_053,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.36,357.73
+UZU_ALA_053,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.28,359.05
+UZU_ALA_053,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.76,361.84
+UZU_ALA_053,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,3.99,365.89
+UZU_ALA_053,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.64,377.04
+UZU_ALA_053,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.25,378.33
+UZU_ALA_053,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,1.58,379.97
+UZU_ALA_053,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.27,381.27
+UZU_ALA_053,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.34,395.64
+UZU_ALA_053,14,1,1,Avez-vous vu une �ponge ?,0,6,0,3.61,399.3
+UZU_ALA_053,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.49,400.85
+UZU_ALA_053,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.52,403.42
+UZU_ALA_053,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.38,414.13
+UZU_ALA_053,14,2,1,Avez-vous vu une �ponge ?,0,6,0,0.56,414.73
+UZU_ALA_053,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,0.95,415.72
+UZU_ALA_053,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.29,417.06
+UZU_ALA_053,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.8,428.85
+UZU_ALA_053,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.23,431.12
+UZU_ALA_053,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.4,443.95
+UZU_ALA_053,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.78,445.77
+UZU_ALA_053,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.97,459.02
+UZU_ALA_053,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,2.01,461.08
+UZU_ALA_053,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.81,462.95
+UZU_ALA_053,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.62,475.27
+UZU_ALA_053,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.32,476.64
+UZU_ALA_053,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.89,477.58
+UZU_ALA_053,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.79,484.32
+UZU_ALA_053,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.46,493.33
+UZU_ALA_053,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,16.76,510.15
+UZU_ALA_053,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.23,518.37
+UZU_ALA_053,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.28,521.7
+UZU_ALA_053,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.6,531.09
+UZU_ALA_053,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,8.27,539.41
+UZU_ALA_053,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.51,550.1
+UZU_ALA_053,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.68,553.83
+UZU_ALA_053,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,5.25,566.25
+UZU_ALA_053,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.97,569.28
+UZU_ALA_053,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.67,571.0
+UZU_ALA_053,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,5.9,585.35
+UZU_ALA_053,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.44,586.84
+UZU_ALA_053,20,2,2,On peut apercevoir un clocher. ,0,0,1,3.8,590.69
+UZU_ALA_053,21,1,0,Les toits sont bleus. ,6,6,1,2.52,598.75
+UZU_ALA_053,21,2,0,Les toits sont bleus. ,6,6,1,1.5,605.69
+UZU_ALA_053,22,1,0,Il y a 5 bateaux. ,6,6,1,2.87,616.59
+UZU_ALA_053,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.45,620.09
+UZU_ALA_053,22,1,2,On peut voir un chien. ,6,0,0,1.65,621.79
+UZU_ALA_053,22,2,0,Il y a 5 bateaux. ,6,6,1,1.87,632.13
+UZU_ALA_053,22,2,1,Il y a  des bateaux a 2 voiles. ,0,6,0,4.86,637.03
+UZU_ALA_053,22,2,2,On peut voir un chien. ,0,0,1,0.97,638.04
+UZU_ALA_053,22,3,0,Il y a 5 bateaux. ,6,6,1,1.46,647.55
+UZU_ALA_053,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.03,648.64
+UZU_ALA_053,22,3,2,On peut voir un chien. ,0,0,1,0.89,649.57
+UZU_ALA_053,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,2.46,656.78
+UZU_ALA_053,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,0.53,662.67
+UZU_ALA_053,24,1,0,Les tapis sont align�s. ,0,0,1,3.8,675.54
+UZU_ALA_053,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.96,677.55
+UZU_ALA_053,24,1,2,L'armoire est ouverte. ,0,0,1,1.57,679.16
+UZU_ALA_053,24,2,0,Les tapis sont align�s. ,0,0,1,0.74,689.13
+UZU_ALA_053,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.1,690.27
+UZU_ALA_053,24,2,2,L'armoire est ouverte. ,0,0,1,0.79,691.12
+UZU_ALA_053,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.22,699.12
+UZU_ALA_053,26,1,0,Les costumes sont identiques. ,6,6,1,2.55,706.96
+UZU_ALA_053,26,2,0,Les costumes sont identiques. ,6,6,1,1.6,715.02
+UZU_ALA_053,26,3,0,Les costumes sont identiques. ,6,6,1,1.23,720.94
+UZU_ALA_053,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.9,728.72
+UZU_ALA_053,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,0.97,734.81
+UZU_ALA_053,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,1.96,741.77
+UZU_ALA_053,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.64,750.18
+UZU_ALA_053,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.8,759.07
+UZU_ALA_053,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.56,767.62
+UZU_ALA_053,31,1,0,Il y a du ma�s sur l'image. ,0,6,0,1.73,776.24
+UZU_ALA_053,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.28,778.58
+UZU_ALA_053,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.08,787.26
+UZU_ALA_053,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.63,787.94

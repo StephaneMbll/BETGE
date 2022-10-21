@@ -1,0 +1,96 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+FAR_FAR_062,100,1,0,Les nuages sont gris. ,0,0,1,2.71,35.84
+FAR_FAR_062,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,5.93,49.29
+FAR_FAR_062,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.84,61.15
+FAR_FAR_062,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.6,68.94
+FAR_FAR_062,102,3,0,Avez-vous vu un éléphant ? ,6,6,1,1.0,76.7
+FAR_FAR_062,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,18.08,113.03
+FAR_FAR_062,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,0,6,0,5.08,118.17
+FAR_FAR_062,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.84,124.58
+FAR_FAR_062,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.56,130.18
+FAR_FAR_062,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.18,136.89
+FAR_FAR_062,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,8.91,153.78
+FAR_FAR_062,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.51,156.34
+FAR_FAR_062,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.1,157.47
+FAR_FAR_062,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.33,168.49
+FAR_FAR_062,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.76,169.3
+FAR_FAR_062,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,0.91,170.25
+FAR_FAR_062,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.02,179.4
+FAR_FAR_062,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,4.43,183.87
+FAR_FAR_062,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.73,188.89
+FAR_FAR_062,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,7.5,196.42
+FAR_FAR_062,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.67,198.13
+FAR_FAR_062,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.53,203.38
+FAR_FAR_062,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.34,204.76
+FAR_FAR_062,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.74,207.55
+FAR_FAR_062,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.17,216.36
+FAR_FAR_062,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.44,219.85
+FAR_FAR_062,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,38.6,267.04
+FAR_FAR_062,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.99,270.08
+FAR_FAR_062,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,11.76,289.92
+FAR_FAR_062,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.38,291.34
+FAR_FAR_062,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.06,300.98
+FAR_FAR_062,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,7.49,308.53
+FAR_FAR_062,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.16,315.46
+FAR_FAR_062,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.27,316.78
+FAR_FAR_062,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,7.41,330.51
+FAR_FAR_062,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.47,338.06
+FAR_FAR_062,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.32,347.91
+FAR_FAR_062,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.39,350.35
+FAR_FAR_062,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.98,358.95
+FAR_FAR_062,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.35,362.34
+FAR_FAR_062,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.48,371.87
+FAR_FAR_062,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.95,375.87
+FAR_FAR_062,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,4.13,380.05
+FAR_FAR_062,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.45,384.88
+FAR_FAR_062,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.35,395.86
+FAR_FAR_062,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.07,398.97
+FAR_FAR_062,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,4.03,403.04
+FAR_FAR_062,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,5.61,408.7
+FAR_FAR_062,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.88,420.92
+FAR_FAR_062,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.87,422.83
+FAR_FAR_062,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.65,424.52
+FAR_FAR_062,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,4.23,428.79
+FAR_FAR_062,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,5.56,444.12
+FAR_FAR_062,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.43,447.59
+FAR_FAR_062,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.12,460.4
+FAR_FAR_062,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,0.55,461.0
+FAR_FAR_062,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,6.18,476.09
+FAR_FAR_062,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.12,478.25
+FAR_FAR_062,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.58,481.88
+FAR_FAR_062,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.39,489.8
+FAR_FAR_062,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.52,500.03
+FAR_FAR_062,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.44,503.54
+FAR_FAR_062,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,0.58,512.43
+FAR_FAR_062,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,0.53,513.01
+FAR_FAR_062,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,8.99,527.99
+FAR_FAR_062,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,5.65,533.7
+FAR_FAR_062,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,12.58,555.03
+FAR_FAR_062,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,5.41,560.49
+FAR_FAR_062,20,1,2,On peut apercevoir un clocher. ,6,0,0,6.37,566.9
+FAR_FAR_062,21,1,0,Les toits sont bleus. ,6,6,1,2.85,574.91
+FAR_FAR_062,22,1,0,Il y a 5 bateaux. ,6,6,1,1.39,584.62
+FAR_FAR_062,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,5.8,590.46
+FAR_FAR_062,22,1,2,On peut voir un chien. ,0,0,1,6.71,597.22
+FAR_FAR_062,22,2,0,Il y a 5 bateaux. ,6,6,1,0.96,606.72
+FAR_FAR_062,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.9,609.66
+FAR_FAR_062,22,2,2,On peut voir un chien. ,0,0,1,1.33,611.03
+FAR_FAR_062,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,3.76,619.99
+FAR_FAR_062,24,1,0,Les tapis sont alignés. ,6,0,0,5.32,634.62
+FAR_FAR_062,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,5.91,640.57
+FAR_FAR_062,24,1,2,L'armoire est ouverte. ,0,0,1,2.36,642.97
+FAR_FAR_062,24,2,0,Les tapis sont alignés. ,0,0,1,1.35,653.65
+FAR_FAR_062,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,4.33,658.02
+FAR_FAR_062,24,2,2,L'armoire est ouverte. ,0,0,1,1.11,659.17
+FAR_FAR_062,24,3,0,Les tapis sont alignés. ,0,0,1,0.27,668.91
+FAR_FAR_062,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,0.2,669.17
+FAR_FAR_062,24,3,2,L'armoire est ouverte. ,0,0,1,0.15,669.36
+FAR_FAR_062,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.62,675.88
+FAR_FAR_062,26,1,0,Les costumes sont identiques. ,6,6,1,3.79,684.92
+FAR_FAR_062,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,4.42,694.79
+FAR_FAR_062,28,1,0,Les toits sont à la même hauteur. ,0,0,1,6.27,706.17
+FAR_FAR_062,28,2,0,Les toits sont à la même hauteur. ,0,0,1,0.85,712.22
+FAR_FAR_062,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,5.61,723.6
+FAR_FAR_062,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.99,734.91
+FAR_FAR_062,31,1,0,Il y a du maïs sur l'image. ,6,6,1,3.66,745.87
+FAR_FAR_062,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.67,748.59

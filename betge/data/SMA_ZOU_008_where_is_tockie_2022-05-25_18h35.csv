@@ -1,0 +1,100 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SMA_ZOU_008,100,1,0,Les nuages sont gris. ,0,0,1,6.94,83.06
+SMA_ZOU_008,100,2,0,Les nuages sont gris. ,0,0,1,5.14,98.65
+SMA_ZOU_008,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,6.04,116.49
+SMA_ZOU_008,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,3.97,133.02
+SMA_ZOU_008,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.4,162.17
+SMA_ZOU_008,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,6.85,169.08
+SMA_ZOU_008,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.14,181.11
+SMA_ZOU_008,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.69,185.86
+SMA_ZOU_008,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.05,196.14
+SMA_ZOU_008,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.92,198.12
+SMA_ZOU_008,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.96,206.91
+SMA_ZOU_008,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.74,220.99
+SMA_ZOU_008,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.31,227.36
+SMA_ZOU_008,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.34,229.76
+SMA_ZOU_008,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,4.87,244.1
+SMA_ZOU_008,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,5.6,249.75
+SMA_ZOU_008,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.83,260.11
+SMA_ZOU_008,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.0,262.17
+SMA_ZOU_008,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.71,267.77
+SMA_ZOU_008,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,4.14,271.98
+SMA_ZOU_008,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,3.57,275.61
+SMA_ZOU_008,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.6,283.97
+SMA_ZOU_008,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,4.33,288.34
+SMA_ZOU_008,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,3.28,291.68
+SMA_ZOU_008,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.37,301.04
+SMA_ZOU_008,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.24,305.34
+SMA_ZOU_008,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.58,314.29
+SMA_ZOU_008,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.02,317.35
+SMA_ZOU_008,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.21,329.67
+SMA_ZOU_008,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.88,334.62
+SMA_ZOU_008,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.98,345.8
+SMA_ZOU_008,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.17,348.03
+SMA_ZOU_008,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.49,356.11
+SMA_ZOU_008,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,6.61,362.78
+SMA_ZOU_008,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.35,373.33
+SMA_ZOU_008,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.34,376.72
+SMA_ZOU_008,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,5.65,388.45
+SMA_ZOU_008,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.67,398.27
+SMA_ZOU_008,8,3,0,De quelle couleur est le téléphone ? ,6,0,0,0.87,405.59
+SMA_ZOU_008,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,5.68,416.28
+SMA_ZOU_008,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,4.62,420.95
+SMA_ZOU_008,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.41,428.68
+SMA_ZOU_008,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.92,429.66
+SMA_ZOU_008,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,5.16,438.78
+SMA_ZOU_008,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.69,442.52
+SMA_ZOU_008,10,2,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.91,450.59
+SMA_ZOU_008,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.06,452.72
+SMA_ZOU_008,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,5.64,463.33
+SMA_ZOU_008,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,7.68,471.06
+SMA_ZOU_008,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,3.91,475.03
+SMA_ZOU_008,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.54,483.73
+SMA_ZOU_008,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.68,485.47
+SMA_ZOU_008,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,1.01,486.54
+SMA_ZOU_008,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.82,493.18
+SMA_ZOU_008,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.54,507.56
+SMA_ZOU_008,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.19,510.81
+SMA_ZOU_008,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,5.24,516.11
+SMA_ZOU_008,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,5.57,521.76
+SMA_ZOU_008,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,4.13,537.63
+SMA_ZOU_008,13,2,1,La pièce est-elle rangée ? ,6,0,0,1.98,539.67
+SMA_ZOU_008,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.29,542.02
+SMA_ZOU_008,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,4.12,546.2
+SMA_ZOU_008,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,4.22,561.31
+SMA_ZOU_008,14,1,1,Avez-vous vu une éponge ?,0,6,0,4.15,565.51
+SMA_ZOU_008,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.21,568.79
+SMA_ZOU_008,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.91,572.76
+SMA_ZOU_008,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.71,586.29
+SMA_ZOU_008,14,2,1,Avez-vous vu une éponge ?,0,6,0,2.06,588.41
+SMA_ZOU_008,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.86,591.34
+SMA_ZOU_008,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.54,594.93
+SMA_ZOU_008,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,5.17,610.39
+SMA_ZOU_008,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.84,613.3
+SMA_ZOU_008,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.5,628.54
+SMA_ZOU_008,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,6.63,635.22
+SMA_ZOU_008,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,3.64,638.93
+SMA_ZOU_008,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.39,663.37
+SMA_ZOU_008,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,4.21,667.63
+SMA_ZOU_008,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,3.35,671.04
+SMA_ZOU_008,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.76,680.89
+SMA_ZOU_008,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,5.65,693.81
+SMA_ZOU_008,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,6.67,700.55
+SMA_ZOU_008,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.73,712.52
+SMA_ZOU_008,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,5.08,717.67
+SMA_ZOU_008,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,6.27,731.86
+SMA_ZOU_008,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,4.34,736.26
+SMA_ZOU_008,20,1,2,On peut apercevoir un clocher. ,6,0,0,4.01,740.33
+SMA_ZOU_008,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.21,751.71
+SMA_ZOU_008,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.32,754.09
+SMA_ZOU_008,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.72,755.86
+SMA_ZOU_008,21,1,0,Les toits sont bleus. ,0,6,0,4.76,767.29
+SMA_ZOU_008,22,1,0,Il y a 5 bateaux. ,6,6,1,2.7,779.11
+SMA_ZOU_008,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,5.47,784.64
+SMA_ZOU_008,22,1,2,On peut voir un chien. ,6,0,0,2.97,787.68
+SMA_ZOU_008,22,2,0,Il y a 5 bateaux. ,6,6,1,3.44,799.91
+SMA_ZOU_008,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.19,804.19
+SMA_ZOU_008,22,2,2,On peut voir un chien. ,0,0,1,1.46,805.7
+SMA_ZOU_008,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,4.61,815.9
+SMA_ZOU_008,24,1,0,Les tapis sont alignés. ,6,0,0,4.1,830.04
+SMA_ZOU_008,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.35,833.47

@@ -1,0 +1,95 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SMI_MAR_028,100,1,0,Les nuages sont gris. ,0,0,1,2.19,44.33
+SMI_MAR_028,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.9,54.3
+SMI_MAR_028,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,4.01,67.74
+SMI_MAR_028,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.21,94.79
+SMI_MAR_028,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.01,99.85
+SMI_MAR_028,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.47,110.38
+SMI_MAR_028,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.99,111.41
+SMI_MAR_028,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.01,119.87
+SMI_MAR_028,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.39,131.12
+SMI_MAR_028,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.53,137.69
+SMI_MAR_028,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.19,141.91
+SMI_MAR_028,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.19,149.42
+SMI_MAR_028,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.64,151.1
+SMI_MAR_028,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.38,157.19
+SMI_MAR_028,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.94,159.17
+SMI_MAR_028,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.75,160.96
+SMI_MAR_028,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.91,168.21
+SMI_MAR_028,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.57,170.81
+SMI_MAR_028,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.29,181.47
+SMI_MAR_028,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.01,184.52
+SMI_MAR_028,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,0.82,195.33
+SMI_MAR_028,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.79,198.17
+SMI_MAR_028,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,4.77,207.68
+SMI_MAR_028,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,5.11,212.84
+SMI_MAR_028,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.67,221.66
+SMI_MAR_028,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,5.4,234.2
+SMI_MAR_028,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,0.98,235.22
+SMI_MAR_028,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.86,243.22
+SMI_MAR_028,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.32,247.58
+SMI_MAR_028,9,3,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.98,254.07
+SMI_MAR_028,9,3,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.59,254.7
+SMI_MAR_028,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,4.22,263.54
+SMI_MAR_028,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.7,265.28
+SMI_MAR_028,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.83,272.39
+SMI_MAR_028,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.13,274.58
+SMI_MAR_028,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.03,277.65
+SMI_MAR_028,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.53,282.81
+SMI_MAR_028,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.96,293.66
+SMI_MAR_028,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.54,295.23
+SMI_MAR_028,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.3,298.58
+SMI_MAR_028,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.13,300.75
+SMI_MAR_028,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.49,312.97
+SMI_MAR_028,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.32,315.33
+SMI_MAR_028,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,4.33,319.71
+SMI_MAR_028,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.97,321.73
+SMI_MAR_028,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.49,333.3
+SMI_MAR_028,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.65,333.99
+SMI_MAR_028,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.74,334.78
+SMI_MAR_028,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.58,336.41
+SMI_MAR_028,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,5.99,352.92
+SMI_MAR_028,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,5.23,358.19
+SMI_MAR_028,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.1,369.13
+SMI_MAR_028,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.38,370.56
+SMI_MAR_028,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.43,384.36
+SMI_MAR_028,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,4.16,388.55
+SMI_MAR_028,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.11,390.71
+SMI_MAR_028,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.19,397.49
+SMI_MAR_028,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.13,406.4
+SMI_MAR_028,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.92,410.36
+SMI_MAR_028,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,5.76,422.54
+SMI_MAR_028,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.82,426.41
+SMI_MAR_028,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.67,437.4
+SMI_MAR_028,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,4.09,441.54
+SMI_MAR_028,20,1,2,On peut apercevoir un clocher. ,6,0,0,4.16,445.74
+SMI_MAR_028,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.86,454.95
+SMI_MAR_028,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.71,457.71
+SMI_MAR_028,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.23,458.99
+SMI_MAR_028,21,1,0,Les toits sont bleus. ,0,6,0,4.38,468.91
+SMI_MAR_028,21,2,0,Les toits sont bleus. ,0,6,0,0.91,475.89
+SMI_MAR_028,22,1,0,Il y a 5 bateaux. ,6,6,1,1.95,485.97
+SMI_MAR_028,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.41,489.43
+SMI_MAR_028,22,1,2,On peut voir un chien. ,0,0,1,3.85,493.33
+SMI_MAR_028,22,2,0,Il y a 5 bateaux. ,6,6,1,1.86,503.99
+SMI_MAR_028,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.91,506.96
+SMI_MAR_028,22,2,2,On peut voir un chien. ,0,0,1,0.75,507.75
+SMI_MAR_028,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,3.95,517.08
+SMI_MAR_028,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.38,526.16
+SMI_MAR_028,24,1,0,Les tapis sont alignés. ,6,0,0,3.1,538.6
+SMI_MAR_028,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,3.48,542.12
+SMI_MAR_028,24,1,2,L'armoire est ouverte. ,0,0,1,1.6,543.77
+SMI_MAR_028,24,2,0,Les tapis sont alignés. ,0,0,1,0.89,553.96
+SMI_MAR_028,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.33,555.35
+SMI_MAR_028,24,2,2,L'armoire est ouverte. ,0,0,1,1.26,556.64
+SMI_MAR_028,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.33,563.95
+SMI_MAR_028,26,1,0,Les costumes sont identiques. ,6,6,1,1.82,571.18
+SMI_MAR_028,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.82,579.6
+SMI_MAR_028,28,1,0,Les toits sont à la même hauteur. ,0,0,1,3.99,589.0
+SMI_MAR_028,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,4.65,599.35
+SMI_MAR_028,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,5.77,612.29
+SMI_MAR_028,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.48,621.51
+SMI_MAR_028,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.09,630.88
+SMI_MAR_028,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.65,634.59
+SMI_MAR_028,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.05,644.69
+SMI_MAR_028,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.77,645.5

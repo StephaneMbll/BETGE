@@ -1,0 +1,90 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+RAF_JUL_014,100,1,0,Les nuages sont gris. ,0,0,1,1.07,40.41
+RAF_JUL_014,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.67,50.47
+RAF_JUL_014,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.33,61.59
+RAF_JUL_014,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.17,83.64
+RAF_JUL_014,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.9,89.59
+RAF_JUL_014,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.35,95.44
+RAF_JUL_014,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.8,96.27
+RAF_JUL_014,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.95,103.1
+RAF_JUL_014,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.02,113.97
+RAF_JUL_014,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.26,117.27
+RAF_JUL_014,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.44,118.76
+RAF_JUL_014,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.29,126.26
+RAF_JUL_014,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.45,127.75
+RAF_JUL_014,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.16,133.3
+RAF_JUL_014,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.09,136.43
+RAF_JUL_014,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.57,139.04
+RAF_JUL_014,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.14,145.68
+RAF_JUL_014,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,0.94,146.66
+RAF_JUL_014,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.86,147.56
+RAF_JUL_014,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,2.43,154.58
+RAF_JUL_014,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.27,155.89
+RAF_JUL_014,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.48,169.35
+RAF_JUL_014,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.77,171.17
+RAF_JUL_014,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.55,178.62
+RAF_JUL_014,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,5.84,184.51
+RAF_JUL_014,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.16,191.53
+RAF_JUL_014,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.93,192.5
+RAF_JUL_014,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,1.69,200.89
+RAF_JUL_014,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.68,208.81
+RAF_JUL_014,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.56,210.41
+RAF_JUL_014,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.55,216.74
+RAF_JUL_014,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.68,218.46
+RAF_JUL_014,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.97,226.02
+RAF_JUL_014,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.72,227.78
+RAF_JUL_014,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.72,230.54
+RAF_JUL_014,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.04,234.78
+RAF_JUL_014,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.02,245.19
+RAF_JUL_014,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.34,246.58
+RAF_JUL_014,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.66,249.28
+RAF_JUL_014,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.99,252.32
+RAF_JUL_014,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.67,262.64
+RAF_JUL_014,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.02,263.7
+RAF_JUL_014,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.53,265.28
+RAF_JUL_014,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.41,266.75
+RAF_JUL_014,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.71,282.16
+RAF_JUL_014,14,1,1,Avez-vous vu une éponge ?,6,6,1,3.84,286.04
+RAF_JUL_014,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,2.03,288.12
+RAF_JUL_014,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.52,289.69
+RAF_JUL_014,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.89,300.81
+RAF_JUL_014,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.74,301.6
+RAF_JUL_014,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.14,302.78
+RAF_JUL_014,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,0.9,303.74
+RAF_JUL_014,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.32,315.39
+RAF_JUL_014,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.23,316.67
+RAF_JUL_014,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.71,327.72
+RAF_JUL_014,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,3.34,331.11
+RAF_JUL_014,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.81,332.97
+RAF_JUL_014,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,0.91,343.53
+RAF_JUL_014,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.22,344.79
+RAF_JUL_014,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.77,345.61
+RAF_JUL_014,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.07,352.75
+RAF_JUL_014,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.07,360.12
+RAF_JUL_014,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.37,363.54
+RAF_JUL_014,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.04,372.99
+RAF_JUL_014,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,7.35,380.39
+RAF_JUL_014,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.73,389.8
+RAF_JUL_014,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,1.92,391.76
+RAF_JUL_014,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.38,393.19
+RAF_JUL_014,21,1,0,Les toits sont bleus. ,0,6,0,2.11,401.06
+RAF_JUL_014,22,1,0,Il y a 5 bateaux. ,6,6,1,1.13,411.31
+RAF_JUL_014,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.43,412.79
+RAF_JUL_014,22,1,2,On peut voir un chien. ,0,0,1,2.45,415.27
+RAF_JUL_014,22,2,0,Il y a 5 bateaux. ,6,6,1,0.82,424.56
+RAF_JUL_014,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.81,425.41
+RAF_JUL_014,22,2,2,On peut voir un chien. ,0,0,1,0.59,426.05
+RAF_JUL_014,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.4,433.56
+RAF_JUL_014,24,1,0,Les tapis sont alignés. ,0,0,1,1.3,444.28
+RAF_JUL_014,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.29,447.61
+RAF_JUL_014,24,1,2,L'armoire est ouverte. ,0,0,1,1.08,448.74
+RAF_JUL_014,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.24,455.45
+RAF_JUL_014,26,1,0,Les costumes sont identiques. ,6,6,1,2.72,463.34
+RAF_JUL_014,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.39,469.91
+RAF_JUL_014,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.2,477.25
+RAF_JUL_014,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.79,486.38
+RAF_JUL_014,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.22,495.31
+RAF_JUL_014,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.38,504.06
+RAF_JUL_014,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.4,505.51
+RAF_JUL_014,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.79,513.71
+RAF_JUL_014,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.37,514.13

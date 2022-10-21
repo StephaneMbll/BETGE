@@ -1,0 +1,95 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+BEN_AMI_037,100,1,0,Les nuages sont gris. ,0,0,1,1.91,46.06
+BEN_AMI_037,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.7,54.57
+BEN_AMI_037,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.58,65.12
+BEN_AMI_037,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.23,86.54
+BEN_AMI_037,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.12,90.7
+BEN_AMI_037,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.45,96.8
+BEN_AMI_037,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.03,97.86
+BEN_AMI_037,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.35,104.0
+BEN_AMI_037,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.29,113.66
+BEN_AMI_037,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.79,116.48
+BEN_AMI_037,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.86,118.38
+BEN_AMI_037,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.62,124.46
+BEN_AMI_037,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.38,125.87
+BEN_AMI_037,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.45,131.33
+BEN_AMI_037,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.74,133.11
+BEN_AMI_037,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.02,134.16
+BEN_AMI_037,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.75,140.42
+BEN_AMI_037,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.1,142.56
+BEN_AMI_037,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.76,152.66
+BEN_AMI_037,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.74,155.45
+BEN_AMI_037,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.28,163.75
+BEN_AMI_037,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.63,166.42
+BEN_AMI_037,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.57,171.46
+BEN_AMI_037,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.86,172.37
+BEN_AMI_037,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.58,180.42
+BEN_AMI_037,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,0.79,189.18
+BEN_AMI_037,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.94,196.48
+BEN_AMI_037,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.49,200.99
+BEN_AMI_037,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.86,207.16
+BEN_AMI_037,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.18,210.39
+BEN_AMI_037,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.15,216.78
+BEN_AMI_037,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.91,218.73
+BEN_AMI_037,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.5,221.28
+BEN_AMI_037,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.79,228.53
+BEN_AMI_037,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.31,229.88
+BEN_AMI_037,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.08,231.01
+BEN_AMI_037,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.36,235.92
+BEN_AMI_037,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.33,246.75
+BEN_AMI_037,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,2.58,249.37
+BEN_AMI_037,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.63,252.03
+BEN_AMI_037,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.93,254.02
+BEN_AMI_037,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.78,265.57
+BEN_AMI_037,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.72,267.33
+BEN_AMI_037,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.27,268.65
+BEN_AMI_037,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.23,269.92
+BEN_AMI_037,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.59,282.9
+BEN_AMI_037,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.14,285.08
+BEN_AMI_037,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.79,297.08
+BEN_AMI_037,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.33,298.45
+BEN_AMI_037,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.12,310.88
+BEN_AMI_037,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.54,312.46
+BEN_AMI_037,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.49,314.98
+BEN_AMI_037,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.0,326.41
+BEN_AMI_037,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.86,328.32
+BEN_AMI_037,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.42,329.78
+BEN_AMI_037,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.65,336.86
+BEN_AMI_037,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.3,344.62
+BEN_AMI_037,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,5.09,349.77
+BEN_AMI_037,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.98,359.09
+BEN_AMI_037,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.68,361.83
+BEN_AMI_037,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.26,369.37
+BEN_AMI_037,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.06,370.47
+BEN_AMI_037,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,4.17,381.75
+BEN_AMI_037,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,3.01,384.8
+BEN_AMI_037,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.59,386.43
+BEN_AMI_037,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.56,395.27
+BEN_AMI_037,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.38,396.69
+BEN_AMI_037,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.92,397.64
+BEN_AMI_037,21,1,0,Les toits sont bleus. ,0,6,0,2.02,404.81
+BEN_AMI_037,22,1,0,Il y a 5 bateaux. ,6,6,1,1.31,414.54
+BEN_AMI_037,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.21,416.79
+BEN_AMI_037,22,1,2,On peut voir un chien. ,0,0,1,1.15,417.98
+BEN_AMI_037,22,2,0,Il y a 5 bateaux. ,6,6,1,1.18,427.83
+BEN_AMI_037,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.38,429.24
+BEN_AMI_037,22,2,2,On peut voir un chien. ,0,0,1,0.87,430.15
+BEN_AMI_037,22,3,0,Il y a 5 bateaux. ,6,6,1,0.87,439.25
+BEN_AMI_037,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.62,439.91
+BEN_AMI_037,22,3,2,On peut voir un chien. ,0,0,1,0.56,440.51
+BEN_AMI_037,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.52,448.02
+BEN_AMI_037,24,1,0,Les tapis sont align�s. ,0,0,1,2.24,459.52
+BEN_AMI_037,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,3.02,462.58
+BEN_AMI_037,24,1,2,L'armoire est ouverte. ,0,0,1,1.98,464.61
+BEN_AMI_037,24,2,0,Les tapis sont align�s. ,0,0,1,1.35,475.61
+BEN_AMI_037,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.15,476.81
+BEN_AMI_037,24,2,2,L'armoire est ouverte. ,0,0,1,1.4,478.26
+BEN_AMI_037,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.45,485.99
+BEN_AMI_037,26,1,0,Les costumes sont identiques. ,6,6,1,2.01,492.99
+BEN_AMI_037,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.79,500.04
+BEN_AMI_037,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,2.39,507.42
+BEN_AMI_037,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,2.56,515.07
+BEN_AMI_037,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,1.29,521.62
+BEN_AMI_037,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.74,530.51
+BEN_AMI_037,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.66,539.4
+BEN_AMI_037,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.47,540.91

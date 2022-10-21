@@ -1,0 +1,118 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MAR_NIC_033,100,1,0,Les nuages sont gris. ,0,0,1,3.35,132.56
+MAR_NIC_033,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.52,147.09
+MAR_NIC_033,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,2.4,159.12
+MAR_NIC_033,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.73,184.42
+MAR_NIC_033,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.77,188.24
+MAR_NIC_033,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.22,195.34
+MAR_NIC_033,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.16,196.55
+MAR_NIC_033,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.56,203.13
+MAR_NIC_033,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.73,215.6
+MAR_NIC_033,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.01,218.65
+MAR_NIC_033,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.83,223.52
+MAR_NIC_033,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.54,238.13
+MAR_NIC_033,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.98,240.14
+MAR_NIC_033,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.72,241.91
+MAR_NIC_033,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.04,247.51
+MAR_NIC_033,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,3.0,250.54
+MAR_NIC_033,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.8,254.94
+MAR_NIC_033,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.6,258.57
+MAR_NIC_033,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,2.26,260.87
+MAR_NIC_033,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.04,265.72
+MAR_NIC_033,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,0.8,266.55
+MAR_NIC_033,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.9,267.49
+MAR_NIC_033,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.13,274.07
+MAR_NIC_033,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.53,276.66
+MAR_NIC_033,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.34,287.16
+MAR_NIC_033,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,3.92,291.13
+MAR_NIC_033,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.65,300.95
+MAR_NIC_033,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.29,302.3
+MAR_NIC_033,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.35,314.8
+MAR_NIC_033,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,4.26,319.11
+MAR_NIC_033,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.72,326.29
+MAR_NIC_033,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.79,327.12
+MAR_NIC_033,8,1,0,De quelle couleur est le t�l�phone ? ,0,0,1,2.99,336.91
+MAR_NIC_033,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.79,346.69
+MAR_NIC_033,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.17,349.91
+MAR_NIC_033,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.26,358.56
+MAR_NIC_033,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.57,359.18
+MAR_NIC_033,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.27,365.88
+MAR_NIC_033,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,6.05,371.98
+MAR_NIC_033,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.41,378.89
+MAR_NIC_033,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.33,380.25
+MAR_NIC_033,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.78,387.79
+MAR_NIC_033,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.94,389.77
+MAR_NIC_033,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.68,392.49
+MAR_NIC_033,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.79,398.08
+MAR_NIC_033,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.87,409.89
+MAR_NIC_033,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.65,411.59
+MAR_NIC_033,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.83,414.47
+MAR_NIC_033,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,3.04,417.57
+MAR_NIC_033,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.55,432.78
+MAR_NIC_033,14,1,1,Avez-vous vu une �ponge ?,0,6,0,2.98,435.81
+MAR_NIC_033,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.8,437.65
+MAR_NIC_033,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.4,439.1
+MAR_NIC_033,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.65,451.15
+MAR_NIC_033,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.53,452.72
+MAR_NIC_033,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.49,454.25
+MAR_NIC_033,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.51,455.81
+MAR_NIC_033,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,4.68,469.87
+MAR_NIC_033,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.07,471.98
+MAR_NIC_033,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,6.1,488.34
+MAR_NIC_033,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.73,493.13
+MAR_NIC_033,15,3,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.43,506.57
+MAR_NIC_033,15,3,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,0.87,507.48
+MAR_NIC_033,15,4,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.54,521.53
+MAR_NIC_033,15,4,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.1,523.68
+MAR_NIC_033,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,6.22,539.63
+MAR_NIC_033,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.43,542.11
+MAR_NIC_033,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.78,543.94
+MAR_NIC_033,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.24,556.44
+MAR_NIC_033,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,4.43,560.91
+MAR_NIC_033,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.15,562.1
+MAR_NIC_033,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.61,570.28
+MAR_NIC_033,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.31,579.11
+MAR_NIC_033,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.85,583.02
+MAR_NIC_033,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.23,593.81
+MAR_NIC_033,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,1.58,595.44
+MAR_NIC_033,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,6.31,607.84
+MAR_NIC_033,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.22,611.1
+MAR_NIC_033,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.54,618.83
+MAR_NIC_033,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,0.43,619.31
+MAR_NIC_033,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,2.41,628.99
+MAR_NIC_033,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.8,631.83
+MAR_NIC_033,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.84,633.72
+MAR_NIC_033,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.6,644.65
+MAR_NIC_033,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.67,646.36
+MAR_NIC_033,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.33,648.72
+MAR_NIC_033,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,0.99,657.58
+MAR_NIC_033,20,3,1,La cal�che est tir�e par deux chevaux. ,0,0,1,0.29,657.92
+MAR_NIC_033,20,3,2,On peut apercevoir un clocher. ,6,0,0,0.26,658.22
+MAR_NIC_033,21,1,0,Les toits sont bleus. ,6,6,1,5.09,667.95
+MAR_NIC_033,21,2,0,Les toits sont bleus. ,6,6,1,0.74,674.34
+MAR_NIC_033,22,1,0,Il y a 5 bateaux. ,6,6,1,2.86,684.96
+MAR_NIC_033,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.69,686.7
+MAR_NIC_033,22,1,2,On peut voir un chien. ,0,0,1,1.26,688.0
+MAR_NIC_033,22,2,0,Il y a 5 bateaux. ,6,6,1,1.34,697.61
+MAR_NIC_033,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.51,701.15
+MAR_NIC_033,22,2,2,On peut voir un chien. ,0,0,1,1.02,702.22
+MAR_NIC_033,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.23,710.88
+MAR_NIC_033,24,1,0,Les tapis sont align�s. ,6,0,0,3.02,723.2
+MAR_NIC_033,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,2.71,725.97
+MAR_NIC_033,24,1,2,L'armoire est ouverte. ,0,0,1,6.32,732.35
+MAR_NIC_033,24,2,0,Les tapis sont align�s. ,0,0,1,0.82,742.95
+MAR_NIC_033,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.2,744.2
+MAR_NIC_033,24,2,2,L'armoire est ouverte. ,0,0,1,1.67,745.92
+MAR_NIC_033,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.66,753.17
+MAR_NIC_033,26,1,0,Les costumes sont identiques. ,6,6,1,2.58,761.07
+MAR_NIC_033,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.99,769.51
+MAR_NIC_033,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,3.14,779.42
+MAR_NIC_033,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,0.63,785.76
+MAR_NIC_033,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.8,796.46
+MAR_NIC_033,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,0.83,802.98
+MAR_NIC_033,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.58,813.33
+MAR_NIC_033,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.9,822.4
+MAR_NIC_033,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.44,831.27
+MAR_NIC_033,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.33,834.66
+MAR_NIC_033,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.47,843.75
+MAR_NIC_033,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.66,844.46

@@ -1,0 +1,67 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+PAU_FAU_010,100,1,0,Les nuages sont gris. ,0,0,1,3.41,124.28
+PAU_FAU_010,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.73,135.15
+PAU_FAU_010,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.78,147.46
+PAU_FAU_010,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,4.74,183.25
+PAU_FAU_010,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,0,6,0,3.94,187.23
+PAU_FAU_010,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.56,197.09
+PAU_FAU_010,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.7,208.42
+PAU_FAU_010,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.48,210.94
+PAU_FAU_010,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.19,212.16
+PAU_FAU_010,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,4.65,222.46
+PAU_FAU_010,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,3.74,226.25
+PAU_FAU_010,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.27,232.27
+PAU_FAU_010,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.4,235.71
+PAU_FAU_010,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.09,237.84
+PAU_FAU_010,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.57,248.73
+PAU_FAU_010,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.59,256.37
+PAU_FAU_010,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,6,0,0,5.78,269.86
+PAU_FAU_010,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.68,272.57
+PAU_FAU_010,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,4.29,282.57
+PAU_FAU_010,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.73,287.36
+PAU_FAU_010,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,6.73,301.39
+PAU_FAU_010,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.53,309.01
+PAU_FAU_010,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.97,313.01
+PAU_FAU_010,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,6.58,324.51
+PAU_FAU_010,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,6.09,330.65
+PAU_FAU_010,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.66,339.9
+PAU_FAU_010,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,5.37,345.31
+PAU_FAU_010,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,2.35,347.71
+PAU_FAU_010,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,5.75,357.82
+PAU_FAU_010,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.29,369.86
+PAU_FAU_010,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.18,372.09
+PAU_FAU_010,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.05,375.18
+PAU_FAU_010,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,5.06,380.29
+PAU_FAU_010,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.72,395.8
+PAU_FAU_010,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.72,397.57
+PAU_FAU_010,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.83,399.44
+PAU_FAU_010,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.9,402.39
+PAU_FAU_010,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,4.9,417.18
+PAU_FAU_010,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.55,418.78
+PAU_FAU_010,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.22,431.86
+PAU_FAU_010,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,3.73,435.64
+PAU_FAU_010,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,3.91,439.59
+PAU_FAU_010,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,0,6,0,3.17,450.5
+PAU_FAU_010,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.42,463.73
+PAU_FAU_010,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.49,468.27
+PAU_FAU_010,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.18,479.94
+PAU_FAU_010,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,5.66,485.64
+PAU_FAU_010,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,7.3,502.69
+PAU_FAU_010,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,4.52,507.27
+PAU_FAU_010,20,1,2,On peut apercevoir un clocher. ,0,0,1,2.64,509.95
+PAU_FAU_010,21,1,0,Les toits sont bleus. ,0,6,0,3.51,518.92
+PAU_FAU_010,22,1,0,Il y a 5 bateaux. ,0,6,0,2.42,530.73
+PAU_FAU_010,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.08,533.86
+PAU_FAU_010,22,1,2,On peut voir un chien. ,0,0,1,2.3,536.21
+PAU_FAU_010,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,6.93,549.11
+PAU_FAU_010,24,1,0,Les tapis sont alignés. ,0,0,1,4.12,564.57
+PAU_FAU_010,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.54,568.16
+PAU_FAU_010,24,1,2,L'armoire est ouverte. ,0,0,1,1.39,569.6
+PAU_FAU_010,25,1,0,Il y a plus de 10 pommes.,6,0,0,6.33,582.01
+PAU_FAU_010,26,1,0,Les costumes sont identiques. ,6,6,1,3.68,595.94
+PAU_FAU_010,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.83,607.88
+PAU_FAU_010,28,1,0,Les toits sont à la même hauteur. ,0,0,1,3.47,617.92
+PAU_FAU_010,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.74,627.51
+PAU_FAU_010,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,5.54,645.96
+PAU_FAU_010,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.81,657.61
+PAU_FAU_010,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,7.98,665.63

@@ -1,0 +1,110 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+GAL_AUR_019,100,1,0,Les nuages sont gris. ,0,0,1,2.11,41.22
+GAL_AUR_019,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.59,50.68
+GAL_AUR_019,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.06,58.14
+GAL_AUR_019,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.22,68.95
+GAL_AUR_019,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.73,92.56
+GAL_AUR_019,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,6.04,98.64
+GAL_AUR_019,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.11,106.51
+GAL_AUR_019,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.54,108.09
+GAL_AUR_019,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.56,114.61
+GAL_AUR_019,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.74,127.72
+GAL_AUR_019,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.7,130.46
+GAL_AUR_019,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.05,132.55
+GAL_AUR_019,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.29,145.57
+GAL_AUR_019,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.38,146.99
+GAL_AUR_019,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.3,148.33
+GAL_AUR_019,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.85,155.1
+GAL_AUR_019,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,4.79,159.94
+GAL_AUR_019,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.07,165.31
+GAL_AUR_019,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.99,166.34
+GAL_AUR_019,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.5,171.31
+GAL_AUR_019,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,1.85,173.22
+GAL_AUR_019,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.48,174.73
+GAL_AUR_019,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.48,180.61
+GAL_AUR_019,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.16,181.8
+GAL_AUR_019,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.78,182.63
+GAL_AUR_019,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.08,189.36
+GAL_AUR_019,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.62,192.02
+GAL_AUR_019,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.41,202.09
+GAL_AUR_019,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.08,204.21
+GAL_AUR_019,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.75,211.48
+GAL_AUR_019,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,5.61,217.15
+GAL_AUR_019,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.78,222.5
+GAL_AUR_019,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.03,223.58
+GAL_AUR_019,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.46,234.34
+GAL_AUR_019,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,0.88,242.16
+GAL_AUR_019,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.01,249.69
+GAL_AUR_019,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.31,254.05
+GAL_AUR_019,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.17,262.14
+GAL_AUR_019,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.23,265.41
+GAL_AUR_019,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.29,272.14
+GAL_AUR_019,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,7.16,279.34
+GAL_AUR_019,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.04,282.42
+GAL_AUR_019,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.11,290.22
+GAL_AUR_019,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.37,291.64
+GAL_AUR_019,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,0.69,292.37
+GAL_AUR_019,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.36,297.33
+GAL_AUR_019,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.44,309.12
+GAL_AUR_019,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.08,311.23
+GAL_AUR_019,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.28,314.56
+GAL_AUR_019,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.19,316.81
+GAL_AUR_019,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.38,331.03
+GAL_AUR_019,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.36,332.43
+GAL_AUR_019,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.22,333.7
+GAL_AUR_019,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.17,334.92
+GAL_AUR_019,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.07,346.77
+GAL_AUR_019,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.54,348.34
+GAL_AUR_019,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.49,349.86
+GAL_AUR_019,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.52,352.42
+GAL_AUR_019,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,2.54,364.97
+GAL_AUR_019,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.3,367.31
+GAL_AUR_019,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.88,379.18
+GAL_AUR_019,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.06,381.28
+GAL_AUR_019,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.48,394.46
+GAL_AUR_019,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.09,396.59
+GAL_AUR_019,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.94,398.58
+GAL_AUR_019,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.44,406.72
+GAL_AUR_019,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.61,415.21
+GAL_AUR_019,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,10.72,425.99
+GAL_AUR_019,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,6.42,439.13
+GAL_AUR_019,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.04,442.21
+GAL_AUR_019,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.42,451.07
+GAL_AUR_019,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.04,453.15
+GAL_AUR_019,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.26,463.93
+GAL_AUR_019,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,4.14,468.12
+GAL_AUR_019,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.57,469.74
+GAL_AUR_019,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.39,481.49
+GAL_AUR_019,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.57,483.11
+GAL_AUR_019,20,2,2,On peut apercevoir un clocher. ,0,0,1,4.64,487.79
+GAL_AUR_019,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.92,497.27
+GAL_AUR_019,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.59,498.9
+GAL_AUR_019,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.15,500.1
+GAL_AUR_019,21,1,0,Les toits sont bleus. ,6,6,1,2.1,507.57
+GAL_AUR_019,21,2,0,Les toits sont bleus. ,6,6,1,1.19,514.75
+GAL_AUR_019,22,1,0,Il y a 5 bateaux. ,6,6,1,1.8,524.87
+GAL_AUR_019,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.95,527.87
+GAL_AUR_019,22,1,2,On peut voir un chien. ,0,0,1,1.69,529.61
+GAL_AUR_019,22,2,0,Il y a 5 bateaux. ,6,6,1,1.46,539.38
+GAL_AUR_019,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.37,540.78
+GAL_AUR_019,22,2,2,On peut voir un chien. ,0,0,1,0.92,541.74
+GAL_AUR_019,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,4.35,551.54
+GAL_AUR_019,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.06,561.53
+GAL_AUR_019,24,1,0,Les tapis sont alignés. ,6,0,0,4.39,575.23
+GAL_AUR_019,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,2.58,577.87
+GAL_AUR_019,24,1,2,L'armoire est ouverte. ,6,0,0,1.72,579.64
+GAL_AUR_019,24,2,0,Les tapis sont alignés. ,0,0,1,1.46,590.5
+GAL_AUR_019,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.29,591.83
+GAL_AUR_019,24,2,2,L'armoire est ouverte. ,0,0,1,1.06,592.93
+GAL_AUR_019,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.56,599.81
+GAL_AUR_019,26,1,0,Les costumes sont identiques. ,6,6,1,1.7,606.83
+GAL_AUR_019,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,3.98,616.46
+GAL_AUR_019,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.9,625.66
+GAL_AUR_019,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.02,633.12
+GAL_AUR_019,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,3.44,642.13
+GAL_AUR_019,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.04,648.64
+GAL_AUR_019,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.24,658.56
+GAL_AUR_019,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.55,667.53
+GAL_AUR_019,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.71,671.29
+GAL_AUR_019,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.84,678.83
+GAL_AUR_019,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.99,679.87

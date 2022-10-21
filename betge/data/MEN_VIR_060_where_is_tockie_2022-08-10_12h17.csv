@@ -1,0 +1,124 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MEN_VIR_060,100,1,0,Les nuages sont gris. ,0,0,1,2.48,51.88
+MEN_VIR_060,100,2,0,Les nuages sont gris. ,0,0,1,2.08,58.86
+MEN_VIR_060,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.19,68.42
+MEN_VIR_060,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.14,74.23
+MEN_VIR_060,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,2.66,87.58
+MEN_VIR_060,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.86,96.07
+MEN_VIR_060,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.14,118.81
+MEN_VIR_060,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.54,124.39
+MEN_VIR_060,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.53,131.46
+MEN_VIR_060,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.12,134.61
+MEN_VIR_060,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.12,143.59
+MEN_VIR_060,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.0,144.64
+MEN_VIR_060,0,4,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.4,150.46
+MEN_VIR_060,0,4,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.29,152.78
+MEN_VIR_060,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.6,158.98
+MEN_VIR_060,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.96,172.99
+MEN_VIR_060,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.45,177.47
+MEN_VIR_060,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.98,180.51
+MEN_VIR_060,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.49,192.98
+MEN_VIR_060,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.67,197.7
+MEN_VIR_060,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.14,198.88
+MEN_VIR_060,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.63,209.25
+MEN_VIR_060,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.8,213.09
+MEN_VIR_060,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.37,214.5
+MEN_VIR_060,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.95,221.79
+MEN_VIR_060,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,3.06,224.88
+MEN_VIR_060,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.79,231.63
+MEN_VIR_060,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.54,233.22
+MEN_VIR_060,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.8,241.73
+MEN_VIR_060,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,6.23,248.01
+MEN_VIR_060,4,1,2,Avez-vous vu une corde à sauter ? ,0,6,0,2.13,250.17
+MEN_VIR_060,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.98,256.55
+MEN_VIR_060,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.9,258.49
+MEN_VIR_060,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,3.45,261.97
+MEN_VIR_060,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.68,270.55
+MEN_VIR_060,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.58,274.17
+MEN_VIR_060,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,6.32,285.61
+MEN_VIR_060,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.74,287.4
+MEN_VIR_060,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.88,299.96
+MEN_VIR_060,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.41,303.4
+MEN_VIR_060,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.39,313.56
+MEN_VIR_060,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.54,316.15
+MEN_VIR_060,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.01,325.75
+MEN_VIR_060,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.23,329.04
+MEN_VIR_060,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.25,335.01
+MEN_VIR_060,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,7.26,342.31
+MEN_VIR_060,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,6.29,356.08
+MEN_VIR_060,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,2.24,365.25
+MEN_VIR_060,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.23,374.81
+MEN_VIR_060,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.49,377.33
+MEN_VIR_060,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.32,384.82
+MEN_VIR_060,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.1,386.96
+MEN_VIR_060,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.46,396.36
+MEN_VIR_060,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.99,398.38
+MEN_VIR_060,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.1,413.99
+MEN_VIR_060,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,3.56,417.61
+MEN_VIR_060,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.79,420.45
+MEN_VIR_060,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.37,427.73
+MEN_VIR_060,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,5,6,0,1.74,429.51
+MEN_VIR_060,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,5,6,0,2.59,432.14
+MEN_VIR_060,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.95,439.76
+MEN_VIR_060,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.29,446.81
+MEN_VIR_060,12,3,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.48,452.71
+MEN_VIR_060,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.47,464.5
+MEN_VIR_060,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.79,468.33
+MEN_VIR_060,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,4.58,472.96
+MEN_VIR_060,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,4.65,477.67
+MEN_VIR_060,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,4.15,492.01
+MEN_VIR_060,13,2,1,La pièce est-elle rangée ? ,0,0,1,2.58,494.64
+MEN_VIR_060,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.24,496.94
+MEN_VIR_060,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.67,499.67
+MEN_VIR_060,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.97,516.07
+MEN_VIR_060,14,1,1,Avez-vous vu une éponge ?,0,6,0,4.03,520.14
+MEN_VIR_060,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,2.97,523.17
+MEN_VIR_060,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.89,526.11
+MEN_VIR_060,14,2,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.55,538.9
+MEN_VIR_060,14,2,1,Avez-vous vu une éponge ?,0,6,0,0.62,539.57
+MEN_VIR_060,14,2,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.4,541.02
+MEN_VIR_060,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,1.9,542.96
+MEN_VIR_060,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,1.84,554.41
+MEN_VIR_060,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,4.4,558.87
+MEN_VIR_060,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.17,571.79
+MEN_VIR_060,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,0.38,572.21
+MEN_VIR_060,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,0.67,572.94
+MEN_VIR_060,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.17,581.38
+MEN_VIR_060,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.08,587.55
+MEN_VIR_060,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,6.24,601.22
+MEN_VIR_060,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.86,604.15
+MEN_VIR_060,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.07,611.91
+MEN_VIR_060,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.54,615.49
+MEN_VIR_060,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.1,625.43
+MEN_VIR_060,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.99,629.48
+MEN_VIR_060,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.79,642.59
+MEN_VIR_060,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.28,644.92
+MEN_VIR_060,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,5.13,657.5
+MEN_VIR_060,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.63,660.18
+MEN_VIR_060,20,1,2,On peut apercevoir un clocher. ,0,0,1,2.86,663.08
+MEN_VIR_060,21,1,0,Les toits sont bleus. ,6,6,1,4.36,671.81
+MEN_VIR_060,22,1,0,Il y a 5 bateaux. ,6,6,1,2.04,683.58
+MEN_VIR_060,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.49,688.13
+MEN_VIR_060,22,1,2,On peut voir un chien. ,0,0,1,2.91,691.07
+MEN_VIR_060,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,6.2,708.57
+MEN_VIR_060,24,1,0,Les tapis sont alignés. ,6,0,0,4.23,724.41
+MEN_VIR_060,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,4.14,728.61
+MEN_VIR_060,24,1,2,L'armoire est ouverte. ,0,0,1,1.93,730.58
+MEN_VIR_060,24,2,0,Les tapis sont alignés. ,0,0,1,2.98,744.4
+MEN_VIR_060,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,3.09,747.54
+MEN_VIR_060,24,2,2,L'armoire est ouverte. ,0,0,1,1.91,749.5
+MEN_VIR_060,25,1,0,Il y a plus de 10 pommes.,0,0,1,3.5,759.75
+MEN_VIR_060,25,2,0,Il y a plus de 10 pommes.,0,0,1,4.75,770.55
+MEN_VIR_060,25,3,0,Il y a plus de 10 pommes.,0,0,1,1.61,777.63
+MEN_VIR_060,26,1,0,Les costumes sont identiques. ,0,6,0,6.87,791.32
+MEN_VIR_060,26,2,0,Les costumes sont identiques. ,6,6,1,1.08,797.9
+MEN_VIR_060,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,4.08,807.7
+MEN_VIR_060,28,1,0,Les toits sont à la même hauteur. ,0,0,1,5.79,820.74
+MEN_VIR_060,28,2,0,Les toits sont à la même hauteur. ,0,0,1,2.04,828.55
+MEN_VIR_060,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,4.11,839.18
+MEN_VIR_060,29,2,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,1.88,846.5
+MEN_VIR_060,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.43,856.55
+MEN_VIR_060,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.19,867.41
+MEN_VIR_060,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.65,870.12
+MEN_VIR_060,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.9,881.27
+MEN_VIR_060,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.95,883.27

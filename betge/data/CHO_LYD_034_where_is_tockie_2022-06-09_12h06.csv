@@ -1,0 +1,119 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+CHO_LYD_034,100,1,0,Les nuages sont gris. ,0,0,1,1.23,51.48
+CHO_LYD_034,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.08,61.38
+CHO_LYD_034,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.55,67.87
+CHO_LYD_034,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,2.39,80.29
+CHO_LYD_034,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,0.07,87.36
+CHO_LYD_034,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,4.46,116.66
+CHO_LYD_034,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.2,120.92
+CHO_LYD_034,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.71,128.37
+CHO_LYD_034,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.14,131.56
+CHO_LYD_034,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.6,137.88
+CHO_LYD_034,0,3,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.36,139.27
+CHO_LYD_034,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.63,145.66
+CHO_LYD_034,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.02,156.62
+CHO_LYD_034,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.77,158.44
+CHO_LYD_034,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,3.83,162.3
+CHO_LYD_034,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.64,171.74
+CHO_LYD_034,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.15,172.92
+CHO_LYD_034,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.83,174.78
+CHO_LYD_034,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.33,180.59
+CHO_LYD_034,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.77,182.39
+CHO_LYD_034,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.32,187.38
+CHO_LYD_034,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.79,191.21
+CHO_LYD_034,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.31,192.56
+CHO_LYD_034,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.68,197.56
+CHO_LYD_034,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.26,198.87
+CHO_LYD_034,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.88,199.78
+CHO_LYD_034,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.02,206.69
+CHO_LYD_034,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.79,208.53
+CHO_LYD_034,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.85,217.8
+CHO_LYD_034,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.91,219.74
+CHO_LYD_034,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,0.98,227.85
+CHO_LYD_034,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.19,229.09
+CHO_LYD_034,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.35,236.49
+CHO_LYD_034,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.7,239.23
+CHO_LYD_034,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.82,244.66
+CHO_LYD_034,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.91,245.61
+CHO_LYD_034,8,1,0,De quelle couleur est le t�l�phone ? ,0,0,1,2.54,254.54
+CHO_LYD_034,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.18,263.18
+CHO_LYD_034,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,1.56,264.78
+CHO_LYD_034,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.95,271.75
+CHO_LYD_034,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.18,272.99
+CHO_LYD_034,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.02,279.38
+CHO_LYD_034,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.41,281.83
+CHO_LYD_034,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.3,288.62
+CHO_LYD_034,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.99,290.66
+CHO_LYD_034,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.29,293.0
+CHO_LYD_034,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.84,299.01
+CHO_LYD_034,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,0.96,300.01
+CHO_LYD_034,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.75,301.81
+CHO_LYD_034,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.93,307.0
+CHO_LYD_034,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.26,318.18
+CHO_LYD_034,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.51,319.73
+CHO_LYD_034,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.69,322.46
+CHO_LYD_034,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,3.1,325.62
+CHO_LYD_034,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.76,336.38
+CHO_LYD_034,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,0.76,337.18
+CHO_LYD_034,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.31,338.53
+CHO_LYD_034,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.42,340.01
+CHO_LYD_034,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.77,351.31
+CHO_LYD_034,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.31,352.67
+CHO_LYD_034,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.65,355.37
+CHO_LYD_034,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.34,356.76
+CHO_LYD_034,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.59,370.04
+CHO_LYD_034,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.94,372.03
+CHO_LYD_034,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.84,383.62
+CHO_LYD_034,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.87,384.53
+CHO_LYD_034,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.38,396.2
+CHO_LYD_034,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.0,398.24
+CHO_LYD_034,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.39,399.68
+CHO_LYD_034,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.25,406.29
+CHO_LYD_034,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.46,417.37
+CHO_LYD_034,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.24,420.66
+CHO_LYD_034,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.23,428.27
+CHO_LYD_034,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.5,430.82
+CHO_LYD_034,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.29,439.26
+CHO_LYD_034,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.21,441.52
+CHO_LYD_034,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.63,449.12
+CHO_LYD_034,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,0.99,450.14
+CHO_LYD_034,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.47,459.69
+CHO_LYD_034,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.65,461.39
+CHO_LYD_034,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.38,462.8
+CHO_LYD_034,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.28,471.56
+CHO_LYD_034,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.84,473.45
+CHO_LYD_034,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.87,474.36
+CHO_LYD_034,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.37,482.96
+CHO_LYD_034,20,3,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.15,484.16
+CHO_LYD_034,20,3,2,On peut apercevoir un clocher. ,0,0,1,0.97,485.17
+CHO_LYD_034,21,1,0,Les toits sont bleus. ,0,6,0,1.52,491.95
+CHO_LYD_034,21,2,0,Les toits sont bleus. ,6,6,1,1.5,498.67
+CHO_LYD_034,22,1,0,Il y a 5 bateaux. ,0,6,0,1.35,508.29
+CHO_LYD_034,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,1.1,509.44
+CHO_LYD_034,22,1,2,On peut voir un chien. ,0,0,1,1.39,510.88
+CHO_LYD_034,22,2,0,Il y a 5 bateaux. ,6,6,1,1.27,520.4
+CHO_LYD_034,22,2,1,Il y a  des bateaux a 2 voiles. ,0,6,0,1.29,521.73
+CHO_LYD_034,22,2,2,On peut voir un chien. ,0,0,1,1.02,522.79
+CHO_LYD_034,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,1.85,529.79
+CHO_LYD_034,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,0.92,536.4
+CHO_LYD_034,24,1,0,Les tapis sont align�s. ,0,0,1,1.33,547.37
+CHO_LYD_034,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.21,549.64
+CHO_LYD_034,24,1,2,L'armoire est ouverte. ,0,0,1,1.01,550.7
+CHO_LYD_034,24,2,0,Les tapis sont align�s. ,0,0,1,1.09,561.0
+CHO_LYD_034,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.74,562.8
+CHO_LYD_034,24,2,2,L'armoire est ouverte. ,0,0,1,0.76,563.6
+CHO_LYD_034,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.79,570.43
+CHO_LYD_034,26,1,0,Les costumes sont identiques. ,6,6,1,1.52,577.33
+CHO_LYD_034,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.57,585.59
+CHO_LYD_034,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.73,592.59
+CHO_LYD_034,27,3,0,Les �l�phants sont parfaitement sym�triques. ,6,0,0,0.79,599.78
+CHO_LYD_034,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,1.53,606.44
+CHO_LYD_034,28,2,0,Les toits sont � la m�me hauteur. ,6,0,0,0.97,612.26
+CHO_LYD_034,28,3,0,Les toits sont � la m�me hauteur. ,0,0,1,0.56,618.72
+CHO_LYD_034,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,2.33,626.36
+CHO_LYD_034,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.85,634.16
+CHO_LYD_034,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,1.45,643.0
+CHO_LYD_034,31,1,0,Il y a du ma�s sur l'image. ,0,6,0,2.89,652.51
+CHO_LYD_034,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,1.54,654.12
+CHO_LYD_034,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.02,662.3
+CHO_LYD_034,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.72,663.08

@@ -1,0 +1,149 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MAZ_CER_017,100,1,0,Les nuages sont gris. ,0,0,1,12.35,74.81
+MAZ_CER_017,100,2,0,Les nuages sont gris. ,6,0,0,0.02,79.73
+MAZ_CER_017,100,3,0,Les nuages sont gris. ,0,0,1,0.89,85.03
+MAZ_CER_017,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,9.33,100.64
+MAZ_CER_017,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.44,106.21
+MAZ_CER_017,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,6.17,121.61
+MAZ_CER_017,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.63,129.72
+MAZ_CER_017,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.42,152.87
+MAZ_CER_017,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.94,156.85
+MAZ_CER_017,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.15,163.41
+MAZ_CER_017,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.71,164.15
+MAZ_CER_017,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.6,169.64
+MAZ_CER_017,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.86,170.54
+MAZ_CER_017,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.37,176.24
+MAZ_CER_017,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.95,189.14
+MAZ_CER_017,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.37,191.55
+MAZ_CER_017,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.83,194.43
+MAZ_CER_017,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.07,204.3
+MAZ_CER_017,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.37,205.7
+MAZ_CER_017,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.3,207.04
+MAZ_CER_017,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.21,217.81
+MAZ_CER_017,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.93,218.78
+MAZ_CER_017,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.84,219.66
+MAZ_CER_017,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.13,226.11
+MAZ_CER_017,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.11,228.26
+MAZ_CER_017,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.75,233.88
+MAZ_CER_017,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.84,234.77
+MAZ_CER_017,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.27,239.51
+MAZ_CER_017,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.76,242.32
+MAZ_CER_017,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.44,243.81
+MAZ_CER_017,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.34,250.4
+MAZ_CER_017,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.11,251.56
+MAZ_CER_017,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.85,252.45
+MAZ_CER_017,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.16,260.21
+MAZ_CER_017,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.5,262.77
+MAZ_CER_017,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,3.69,273.29
+MAZ_CER_017,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.91,275.24
+MAZ_CER_017,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.68,284.56
+MAZ_CER_017,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.76,286.35
+MAZ_CER_017,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.28,300.41
+MAZ_CER_017,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.77,302.22
+MAZ_CER_017,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.35,312.16
+MAZ_CER_017,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.93,314.14
+MAZ_CER_017,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.0,321.6
+MAZ_CER_017,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.52,325.17
+MAZ_CER_017,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.87,331.48
+MAZ_CER_017,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.91,333.44
+MAZ_CER_017,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.1,343.38
+MAZ_CER_017,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.05,344.48
+MAZ_CER_017,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.08,354.42
+MAZ_CER_017,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.32,363.03
+MAZ_CER_017,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,5.36,377.04
+MAZ_CER_017,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.81,379.89
+MAZ_CER_017,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,5.09,391.43
+MAZ_CER_017,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.18,392.66
+MAZ_CER_017,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.16,404.82
+MAZ_CER_017,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.27,407.13
+MAZ_CER_017,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.33,415.04
+MAZ_CER_017,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.2,418.3
+MAZ_CER_017,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.74,428.39
+MAZ_CER_017,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,3.86,432.31
+MAZ_CER_017,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,1.5,433.85
+MAZ_CER_017,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.33,440.58
+MAZ_CER_017,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.38,442.01
+MAZ_CER_017,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.6,444.65
+MAZ_CER_017,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.08,452.48
+MAZ_CER_017,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.22,460.77
+MAZ_CER_017,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.83,471.91
+MAZ_CER_017,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.27,475.22
+MAZ_CER_017,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.21,477.48
+MAZ_CER_017,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.07,479.61
+MAZ_CER_017,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.95,491.09
+MAZ_CER_017,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.7,492.84
+MAZ_CER_017,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.87,494.75
+MAZ_CER_017,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.65,496.45
+MAZ_CER_017,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.72,507.67
+MAZ_CER_017,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.75,510.47
+MAZ_CER_017,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.63,513.15
+MAZ_CER_017,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,4.04,517.24
+MAZ_CER_017,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.64,529.99
+MAZ_CER_017,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.79,530.82
+MAZ_CER_017,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.94,531.81
+MAZ_CER_017,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,0.72,532.59
+MAZ_CER_017,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.94,544.71
+MAZ_CER_017,14,3,1,Avez-vous vu une éponge ?,6,6,1,0.74,545.49
+MAZ_CER_017,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.16,547.69
+MAZ_CER_017,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.63,549.38
+MAZ_CER_017,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,7.92,567.81
+MAZ_CER_017,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,3.45,571.3
+MAZ_CER_017,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.76,583.78
+MAZ_CER_017,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.28,585.12
+MAZ_CER_017,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.23,596.78
+MAZ_CER_017,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.84,599.68
+MAZ_CER_017,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.54,601.26
+MAZ_CER_017,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.54,612.81
+MAZ_CER_017,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.1,613.96
+MAZ_CER_017,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.75,615.75
+MAZ_CER_017,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.64,623.72
+MAZ_CER_017,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.7,633.54
+MAZ_CER_017,17,3,0,Combien avez-vous vu de pinguins sur cette photo ? ,0,6,0,3.86,644.54
+MAZ_CER_017,17,4,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.06,654.9
+MAZ_CER_017,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.54,662.56
+MAZ_CER_017,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.64,666.26
+MAZ_CER_017,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.69,679.83
+MAZ_CER_017,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,7.5,687.39
+MAZ_CER_017,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.27,698.09
+MAZ_CER_017,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,3.06,701.2
+MAZ_CER_017,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.05,703.3
+MAZ_CER_017,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.31,712.97
+MAZ_CER_017,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.14,714.16
+MAZ_CER_017,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.24,715.44
+MAZ_CER_017,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.36,724.16
+MAZ_CER_017,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.25,725.48
+MAZ_CER_017,20,3,2,On peut apercevoir un clocher. ,0,0,1,4.88,730.4
+MAZ_CER_017,21,1,0,Les toits sont bleus. ,0,6,0,3.35,739.92
+MAZ_CER_017,21,2,0,Les toits sont bleus. ,6,6,1,1.57,747.61
+MAZ_CER_017,22,1,0,Il y a 5 bateaux. ,6,6,1,1.88,757.97
+MAZ_CER_017,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,2.51,760.53
+MAZ_CER_017,22,1,2,On peut voir un chien. ,0,0,1,1.59,762.16
+MAZ_CER_017,22,2,0,Il y a 5 bateaux. ,6,6,1,1.44,773.53
+MAZ_CER_017,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.85,776.43
+MAZ_CER_017,22,2,2,On peut voir un chien. ,0,0,1,0.98,777.47
+MAZ_CER_017,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.62,785.32
+MAZ_CER_017,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,3.35,794.64
+MAZ_CER_017,24,1,0,Les tapis sont alignés. ,0,0,1,3.68,807.68
+MAZ_CER_017,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,1.87,809.61
+MAZ_CER_017,24,1,2,L'armoire est ouverte. ,0,0,1,1.59,811.25
+MAZ_CER_017,24,2,0,Les tapis sont alignés. ,6,0,0,2.35,823.04
+MAZ_CER_017,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.37,824.46
+MAZ_CER_017,24,2,2,L'armoire est ouverte. ,0,0,1,1.11,825.62
+MAZ_CER_017,24,3,0,Les tapis sont alignés. ,0,0,1,2.49,837.34
+MAZ_CER_017,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,1.97,839.38
+MAZ_CER_017,24,3,2,L'armoire est ouverte. ,0,0,1,2.71,842.13
+MAZ_CER_017,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.66,848.84
+MAZ_CER_017,25,2,0,Il y a plus de 10 pommes.,0,0,1,1.77,856.33
+MAZ_CER_017,26,1,0,Les costumes sont identiques. ,0,6,0,4.48,865.57
+MAZ_CER_017,26,2,0,Les costumes sont identiques. ,0,6,0,1.21,871.95
+MAZ_CER_017,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.86,879.04
+MAZ_CER_017,28,1,0,Les toits sont à la même hauteur. ,6,0,0,3.71,888.5
+MAZ_CER_017,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.41,895.44
+MAZ_CER_017,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.89,904.98
+MAZ_CER_017,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.33,911.68
+MAZ_CER_017,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.11,921.32
+MAZ_CER_017,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,2.24,931.06
+MAZ_CER_017,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.99,940.38
+MAZ_CER_017,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.69,943.13
+MAZ_CER_017,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.74,951.29
+MAZ_CER_017,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.66,954.0

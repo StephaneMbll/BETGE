@@ -1,0 +1,67 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+RIC_NOE_056,100,1,0,Les nuages sont gris. ,0,0,1,2.28,49.67
+RIC_NOE_056,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.39,59.52
+RIC_NOE_056,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,1.88,70.89
+RIC_NOE_056,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.89,102.96
+RIC_NOE_056,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.91,106.92
+RIC_NOE_056,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.18,113.86
+RIC_NOE_056,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.99,125.3
+RIC_NOE_056,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.14,129.48
+RIC_NOE_056,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.97,133.49
+RIC_NOE_056,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.99,142.05
+RIC_NOE_056,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,1.98,144.07
+RIC_NOE_056,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.65,149.73
+RIC_NOE_056,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.56,152.34
+RIC_NOE_056,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.75,154.12
+RIC_NOE_056,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.45,162.49
+RIC_NOE_056,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.42,166.94
+RIC_NOE_056,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.92,178.38
+RIC_NOE_056,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.41,180.84
+RIC_NOE_056,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.78,187.26
+RIC_NOE_056,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,5.09,192.4
+RIC_NOE_056,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.5,201.83
+RIC_NOE_056,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.74,210.61
+RIC_NOE_056,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.38,213.04
+RIC_NOE_056,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.3,219.88
+RIC_NOE_056,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.44,222.35
+RIC_NOE_056,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.14,230.59
+RIC_NOE_056,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.42,233.05
+RIC_NOE_056,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.78,235.87
+RIC_NOE_056,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.69,241.29
+RIC_NOE_056,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.74,253.3
+RIC_NOE_056,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.13,255.46
+RIC_NOE_056,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.85,258.37
+RIC_NOE_056,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.62,261.04
+RIC_NOE_056,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.56,274.74
+RIC_NOE_056,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.14,275.92
+RIC_NOE_056,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.18,277.15
+RIC_NOE_056,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.66,280.84
+RIC_NOE_056,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.89,295.28
+RIC_NOE_056,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.25,297.58
+RIC_NOE_056,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.26,311.66
+RIC_NOE_056,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.63,313.33
+RIC_NOE_056,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.27,314.65
+RIC_NOE_056,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.31,324.01
+RIC_NOE_056,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.33,333.01
+RIC_NOE_056,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.24,335.31
+RIC_NOE_056,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.93,346.38
+RIC_NOE_056,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.62,351.05
+RIC_NOE_056,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,4.17,362.65
+RIC_NOE_056,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,1.82,364.52
+RIC_NOE_056,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.72,366.29
+RIC_NOE_056,21,1,0,Les toits sont bleus. ,6,6,1,3.45,375.3
+RIC_NOE_056,22,1,0,Il y a 5 bateaux. ,6,6,1,1.38,386.39
+RIC_NOE_056,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.33,389.78
+RIC_NOE_056,22,1,2,On peut voir un chien. ,0,0,1,1.57,391.4
+RIC_NOE_056,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.64,399.38
+RIC_NOE_056,24,1,0,Les tapis sont alignés. ,6,0,0,2.64,412.14
+RIC_NOE_056,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.78,415.96
+RIC_NOE_056,24,1,2,L'armoire est ouverte. ,6,0,0,2.1,418.1
+RIC_NOE_056,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.01,426.51
+RIC_NOE_056,26,1,0,Les costumes sont identiques. ,6,6,1,1.69,433.82
+RIC_NOE_056,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.93,441.51
+RIC_NOE_056,28,1,0,Les toits sont à la même hauteur. ,6,0,0,4.27,451.22
+RIC_NOE_056,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.13,459.7
+RIC_NOE_056,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,5.93,473.28
+RIC_NOE_056,31,1,0,Il y a du maïs sur l'image. ,0,6,0,1.99,482.4
+RIC_NOE_056,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.92,484.37

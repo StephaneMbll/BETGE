@@ -1,0 +1,87 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+LOT_JAV_030,100,1,0,Les nuages sont gris. ,0,0,1,2.47,50.59
+LOT_JAV_030,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.8,61.54
+LOT_JAV_030,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.36,73.05
+LOT_JAV_030,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.18,81.87
+LOT_JAV_030,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.88,106.88
+LOT_JAV_030,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.84,111.76
+LOT_JAV_030,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.07,120.74
+LOT_JAV_030,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.78,121.57
+LOT_JAV_030,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.57,128.25
+LOT_JAV_030,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.7,142.34
+LOT_JAV_030,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.9,144.28
+LOT_JAV_030,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.7,147.04
+LOT_JAV_030,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.3,153.25
+LOT_JAV_030,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.67,154.96
+LOT_JAV_030,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.0,160.24
+LOT_JAV_030,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.79,163.08
+LOT_JAV_030,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.46,163.58
+LOT_JAV_030,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.5,169.52
+LOT_JAV_030,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.35,170.92
+LOT_JAV_030,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.49,172.47
+LOT_JAV_030,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.07,181.27
+LOT_JAV_030,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.91,183.23
+LOT_JAV_030,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.41,193.33
+LOT_JAV_030,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.84,196.21
+LOT_JAV_030,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,3.06,204.6
+LOT_JAV_030,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,3.09,207.75
+LOT_JAV_030,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.16,213.75
+LOT_JAV_030,7,2,1,Le nom inscrit sur la première tombe est : ,6,0,0,2.51,216.3
+LOT_JAV_030,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,4.07,226.79
+LOT_JAV_030,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.83,237.68
+LOT_JAV_030,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.77,240.49
+LOT_JAV_030,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.07,247.54
+LOT_JAV_030,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.99,248.58
+LOT_JAV_030,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.85,254.86
+LOT_JAV_030,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.98,256.89
+LOT_JAV_030,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.35,265.07
+LOT_JAV_030,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.9,267.02
+LOT_JAV_030,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.2,269.27
+LOT_JAV_030,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.04,273.99
+LOT_JAV_030,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.11,285.63
+LOT_JAV_030,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.51,287.19
+LOT_JAV_030,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.13,290.36
+LOT_JAV_030,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.39,292.8
+LOT_JAV_030,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.8,304.37
+LOT_JAV_030,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.12,305.53
+LOT_JAV_030,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.6,307.16
+LOT_JAV_030,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.04,309.24
+LOT_JAV_030,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.26,322.68
+LOT_JAV_030,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.37,326.1
+LOT_JAV_030,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.18,336.64
+LOT_JAV_030,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,0.92,337.6
+LOT_JAV_030,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,1.99,348.85
+LOT_JAV_030,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.24,352.13
+LOT_JAV_030,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.0,354.19
+LOT_JAV_030,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,0,6,0,1.21,361.28
+LOT_JAV_030,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.76,369.77
+LOT_JAV_030,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,0.69,376.72
+LOT_JAV_030,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.2,380.97
+LOT_JAV_030,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.63,393.01
+LOT_JAV_030,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,6.21,399.26
+LOT_JAV_030,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.06,406.08
+LOT_JAV_030,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.42,407.54
+LOT_JAV_030,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.78,418.36
+LOT_JAV_030,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,4.23,422.64
+LOT_JAV_030,20,1,2,On peut apercevoir un clocher. ,6,0,0,3.16,425.84
+LOT_JAV_030,21,1,0,Les toits sont bleus. ,0,6,0,2.84,433.97
+LOT_JAV_030,21,2,0,Les toits sont bleus. ,6,6,1,0.65,440.24
+LOT_JAV_030,22,1,0,Il y a 5 bateaux. ,6,6,1,4.47,453.06
+LOT_JAV_030,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.13,455.24
+LOT_JAV_030,22,1,2,On peut voir un chien. ,6,0,0,1.87,457.14
+LOT_JAV_030,22,2,0,Il y a 5 bateaux. ,6,6,1,0.76,467.11
+LOT_JAV_030,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.3,470.45
+LOT_JAV_030,22,2,2,On peut voir un chien. ,0,0,1,2.56,473.05
+LOT_JAV_030,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,5.31,483.59
+LOT_JAV_030,24,1,0,Les tapis sont alignés. ,0,0,1,2.39,497.3
+LOT_JAV_030,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,2.02,499.36
+LOT_JAV_030,24,1,2,L'armoire est ouverte. ,0,0,1,6.44,505.85
+LOT_JAV_030,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.97,512.33
+LOT_JAV_030,26,1,0,Les costumes sont identiques. ,6,6,1,1.8,519.38
+LOT_JAV_030,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,4.24,529.22
+LOT_JAV_030,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.49,535.61
+LOT_JAV_030,28,1,0,Les toits sont à la même hauteur. ,0,0,1,4.04,544.8
+LOT_JAV_030,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.43,553.94
+LOT_JAV_030,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.04,563.34
+LOT_JAV_030,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.77,573.78
+LOT_JAV_030,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.34,576.17

@@ -1,0 +1,136 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+ELA_ABD_005,100,1,0,Les nuages sont gris. ,0,0,1,8.87,87.72
+ELA_ABD_005,100,2,0,Les nuages sont gris. ,0,0,1,2.47,97.11
+ELA_ABD_005,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,10.77,119.5
+ELA_ABD_005,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.87,130.37
+ELA_ABD_005,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.91,144.2
+ELA_ABD_005,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.03,153.04
+ELA_ABD_005,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,8.35,187.88
+ELA_ABD_005,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,9.06,197.0
+ELA_ABD_005,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.57,207.38
+ELA_ABD_005,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,6.22,213.64
+ELA_ABD_005,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.82,221.79
+ELA_ABD_005,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.49,225.33
+ELA_ABD_005,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.2,235.46
+ELA_ABD_005,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.65,244.41
+ELA_ABD_005,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.22,258.41
+ELA_ABD_005,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,5.48,263.94
+ELA_ABD_005,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,5.45,269.44
+ELA_ABD_005,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.56,283.77
+ELA_ABD_005,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,4.27,288.09
+ELA_ABD_005,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.35,292.56
+ELA_ABD_005,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.81,304.67
+ELA_ABD_005,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.02,308.75
+ELA_ABD_005,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.51,311.3
+ELA_ABD_005,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.7,319.27
+ELA_ABD_005,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,4.81,324.13
+ELA_ABD_005,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.83,332.39
+ELA_ABD_005,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.46,334.9
+ELA_ABD_005,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.93,341.84
+ELA_ABD_005,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,4.2,346.09
+ELA_ABD_005,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,3.28,349.42
+ELA_ABD_005,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.0,355.61
+ELA_ABD_005,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.21,358.87
+ELA_ABD_005,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.33,361.24
+ELA_ABD_005,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.87,370.83
+ELA_ABD_005,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.36,374.26
+ELA_ABD_005,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.55,383.41
+ELA_ABD_005,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.16,385.62
+ELA_ABD_005,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.73,394.64
+ELA_ABD_005,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.85,397.55
+ELA_ABD_005,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.48,410.3
+ELA_ABD_005,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,5.31,415.68
+ELA_ABD_005,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.23,428.57
+ELA_ABD_005,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.21,431.84
+ELA_ABD_005,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.31,439.39
+ELA_ABD_005,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,9.39,448.83
+ELA_ABD_005,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.74,457.56
+ELA_ABD_005,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.45,459.06
+ELA_ABD_005,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,5.19,472.68
+ELA_ABD_005,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.19,481.69
+ELA_ABD_005,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.07,492.73
+ELA_ABD_005,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,5.79,498.58
+ELA_ABD_005,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.83,505.86
+ELA_ABD_005,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.61,507.52
+ELA_ABD_005,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.3,516.92
+ELA_ABD_005,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.08,521.06
+ELA_ABD_005,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.21,529.26
+ELA_ABD_005,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.17,530.48
+ELA_ABD_005,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.84,539.32
+ELA_ABD_005,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.65,543.02
+ELA_ABD_005,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,4.3,547.38
+ELA_ABD_005,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.24,557.07
+ELA_ABD_005,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.17,560.3
+ELA_ABD_005,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.77,563.12
+ELA_ABD_005,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.55,569.77
+ELA_ABD_005,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,2.44,584.42
+ELA_ABD_005,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.17,587.65
+ELA_ABD_005,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,4.9,592.66
+ELA_ABD_005,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,7.03,599.75
+ELA_ABD_005,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,1.74,612.49
+ELA_ABD_005,13,2,1,La pièce est-elle rangée ? ,0,0,1,2.01,614.56
+ELA_ABD_005,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.44,618.05
+ELA_ABD_005,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,3.65,621.77
+ELA_ABD_005,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,6.12,638.21
+ELA_ABD_005,14,1,1,Avez-vous vu une éponge ?,6,6,1,3.72,641.99
+ELA_ABD_005,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.98,646.03
+ELA_ABD_005,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,4.35,650.45
+ELA_ABD_005,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,3.38,664.48
+ELA_ABD_005,14,2,1,Avez-vous vu une éponge ?,6,6,1,2.41,666.94
+ELA_ABD_005,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.47,670.47
+ELA_ABD_005,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.33,673.87
+ELA_ABD_005,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,7.95,692.36
+ELA_ABD_005,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,5.14,697.56
+ELA_ABD_005,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,5.72,713.72
+ELA_ABD_005,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.74,716.5
+ELA_ABD_005,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.37,729.39
+ELA_ABD_005,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.37,732.82
+ELA_ABD_005,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,4.71,737.59
+ELA_ABD_005,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.88,746.14
+ELA_ABD_005,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.91,757.38
+ELA_ABD_005,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,7.65,765.09
+ELA_ABD_005,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.43,774.91
+ELA_ABD_005,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.8,777.76
+ELA_ABD_005,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,9.75,794.53
+ELA_ABD_005,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,6.27,800.92
+ELA_ABD_005,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.75,811.81
+ELA_ABD_005,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.86,816.73
+ELA_ABD_005,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,8.86,834.36
+ELA_ABD_005,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,3.86,838.27
+ELA_ABD_005,20,1,2,On peut apercevoir un clocher. ,6,0,0,5.44,843.77
+ELA_ABD_005,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.99,854.96
+ELA_ABD_005,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,4.12,859.14
+ELA_ABD_005,20,2,2,On peut apercevoir un clocher. ,0,0,1,5.5,864.7
+ELA_ABD_005,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.1,877.55
+ELA_ABD_005,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,3.17,880.77
+ELA_ABD_005,20,3,2,On peut apercevoir un clocher. ,0,0,1,4.2,885.04
+ELA_ABD_005,21,1,0,Les toits sont bleus. ,0,6,0,4.76,896.15
+ELA_ABD_005,21,2,0,Les toits sont bleus. ,6,6,1,2.14,904.61
+ELA_ABD_005,22,1,0,Il y a 5 bateaux. ,6,6,1,2.05,916.97
+ELA_ABD_005,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,5.15,922.18
+ELA_ABD_005,22,1,2,On peut voir un chien. ,0,0,1,4.39,926.62
+ELA_ABD_005,22,2,0,Il y a 5 bateaux. ,6,6,1,2.15,938.47
+ELA_ABD_005,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.14,940.74
+ELA_ABD_005,22,2,2,On peut voir un chien. ,0,0,1,1.26,942.06
+ELA_ABD_005,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,4.2,952.99
+ELA_ABD_005,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.85,962.12
+ELA_ABD_005,24,1,0,Les tapis sont alignés. ,0,0,1,6.72,979.01
+ELA_ABD_005,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,4.59,983.66
+ELA_ABD_005,24,1,2,L'armoire est ouverte. ,0,0,1,4.12,987.84
+ELA_ABD_005,24,2,0,Les tapis sont alignés. ,0,0,1,2.32,1000.26
+ELA_ABD_005,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,2.67,1002.99
+ELA_ABD_005,24,2,2,L'armoire est ouverte. ,0,0,1,3.08,1006.14
+ELA_ABD_005,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.72,1014.71
+ELA_ABD_005,26,1,0,Les costumes sont identiques. ,6,6,1,3.91,1025.19
+ELA_ABD_005,26,2,0,Les costumes sont identiques. ,6,6,1,3.58,1035.87
+ELA_ABD_005,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,8.25,1050.08
+ELA_ABD_005,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,1.7,1057.77
+ELA_ABD_005,28,1,0,Les toits sont à la même hauteur. ,6,0,0,4.02,1068.06
+ELA_ABD_005,28,2,0,Les toits sont à la même hauteur. ,0,0,1,2.98,1077.85
+ELA_ABD_005,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,7.53,1092.32
+ELA_ABD_005,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.91,1100.14
+ELA_ABD_005,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,3.19,1111.33
+ELA_ABD_005,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.57,1122.78
+ELA_ABD_005,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.91,1126.75
+ELA_ABD_005,31,2,0,Il y a du maïs sur l'image. ,6,6,1,2.32,1137.03
+ELA_ABD_005,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.96,1140.05

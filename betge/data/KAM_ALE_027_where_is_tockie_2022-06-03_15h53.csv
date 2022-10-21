@@ -1,0 +1,137 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+KAM_ALE_027,100,1,0,Les nuages sont gris. ,0,0,1,5.18,153.18
+KAM_ALE_027,100,2,0,Les nuages sont gris. ,0,0,1,9.49,169.36
+KAM_ALE_027,100,3,0,Les nuages sont gris. ,6,0,0,105.31,294.67
+KAM_ALE_027,100,4,0,Les nuages sont gris. ,0,0,1,2.83,315.22
+KAM_ALE_027,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,5.71,328.48
+KAM_ALE_027,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.5,344.5
+KAM_ALE_027,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,6.47,361.74
+KAM_ALE_027,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.97,373.88
+KAM_ALE_027,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,6.86,404.28
+KAM_ALE_027,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,23.57,427.91
+KAM_ALE_027,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.32,441.4
+KAM_ALE_027,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.8,444.24
+KAM_ALE_027,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.5,453.54
+KAM_ALE_027,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,29.83,494.14
+KAM_ALE_027,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,24.18,518.37
+KAM_ALE_027,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,8.84,527.26
+KAM_ALE_027,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.0,543.26
+KAM_ALE_027,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,6.67,549.98
+KAM_ALE_027,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,7.48,557.51
+KAM_ALE_027,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,4.13,569.5
+KAM_ALE_027,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.95,571.5
+KAM_ALE_027,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,5.34,584.49
+KAM_ALE_027,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.69,586.22
+KAM_ALE_027,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.86,592.82
+KAM_ALE_027,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,5.25,598.11
+KAM_ALE_027,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.58,599.74
+KAM_ALE_027,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.52,611.32
+KAM_ALE_027,4,2,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.76,614.12
+KAM_ALE_027,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.68,615.85
+KAM_ALE_027,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,3.75,627.65
+KAM_ALE_027,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.15,631.87
+KAM_ALE_027,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.84,644.14
+KAM_ALE_027,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.23,647.41
+KAM_ALE_027,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,5.31,664.14
+KAM_ALE_027,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.38,667.57
+KAM_ALE_027,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.62,677.8
+KAM_ALE_027,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.05,680.9
+KAM_ALE_027,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.97,692.73
+KAM_ALE_027,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,14.55,707.33
+KAM_ALE_027,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,50.77,766.15
+KAM_ALE_027,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.94,768.16
+KAM_ALE_027,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.22,775.19
+KAM_ALE_027,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.5,778.73
+KAM_ALE_027,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,4.99,790.66
+KAM_ALE_027,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,2.31,801.99
+KAM_ALE_027,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,6,6,1,18.87,826.7
+KAM_ALE_027,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,4.09,830.84
+KAM_ALE_027,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.27,843.12
+KAM_ALE_027,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,7.46,850.65
+KAM_ALE_027,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,5.97,861.87
+KAM_ALE_027,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,5.97,867.91
+KAM_ALE_027,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.69,879.98
+KAM_ALE_027,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,13.98,894.02
+KAM_ALE_027,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.58,904.55
+KAM_ALE_027,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,5.61,910.22
+KAM_ALE_027,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,10.3,920.57
+KAM_ALE_027,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.5,928.69
+KAM_ALE_027,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.67,936.57
+KAM_ALE_027,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,5.26,956.38
+KAM_ALE_027,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.74,959.17
+KAM_ALE_027,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,6.59,965.81
+KAM_ALE_027,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,8.28,974.15
+KAM_ALE_027,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.56,1076.3
+KAM_ALE_027,13,2,1,La pièce est-elle rangée ? ,0,0,1,7.42,1083.77
+KAM_ALE_027,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.28,1086.1
+KAM_ALE_027,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,8.16,1094.31
+KAM_ALE_027,13,3,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.47,1108.05
+KAM_ALE_027,13,3,1,La pièce est-elle rangée ? ,0,0,1,1.67,1109.77
+KAM_ALE_027,13,3,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.0,1111.84
+KAM_ALE_027,13,3,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,7.2,1119.1
+KAM_ALE_027,13,4,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.1,1131.47
+KAM_ALE_027,13,4,1,La pièce est-elle rangée ? ,0,0,1,4.44,1135.96
+KAM_ALE_027,13,4,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.79,1137.81
+KAM_ALE_027,13,4,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,13.07,1150.94
+KAM_ALE_027,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,17.34,1177.91
+KAM_ALE_027,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.96,1179.93
+KAM_ALE_027,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.09,1183.08
+KAM_ALE_027,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,4.52,1187.66
+KAM_ALE_027,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.58,1298.2
+KAM_ALE_027,14,2,1,Avez-vous vu une éponge ?,6,6,1,1.69,1299.95
+KAM_ALE_027,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.3,1303.31
+KAM_ALE_027,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.48,1305.85
+KAM_ALE_027,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.78,1321.98
+KAM_ALE_027,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,22.2,1344.25
+KAM_ALE_027,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,4.03,1358.11
+KAM_ALE_027,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.2,1360.38
+KAM_ALE_027,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,18.91,1390.76
+KAM_ALE_027,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.62,1393.45
+KAM_ALE_027,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.23,1396.74
+KAM_ALE_027,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.76,1410.33
+KAM_ALE_027,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.85,1413.24
+KAM_ALE_027,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.36,1416.67
+KAM_ALE_027,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.97,1425.29
+KAM_ALE_027,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.01,1435.64
+KAM_ALE_027,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,7.64,1443.35
+KAM_ALE_027,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.19,1451.4
+KAM_ALE_027,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.04,1453.5
+KAM_ALE_027,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,7.85,1468.26
+KAM_ALE_027,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,7.69,1476.02
+KAM_ALE_027,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.79,1487.09
+KAM_ALE_027,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.66,1490.83
+KAM_ALE_027,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,6.02,1504.24
+KAM_ALE_027,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.85,1507.16
+KAM_ALE_027,20,1,2,On peut apercevoir un clocher. ,6,0,0,5.46,1512.67
+KAM_ALE_027,21,1,0,Les toits sont bleus. ,0,6,0,4.18,1525.26
+KAM_ALE_027,21,2,0,Les toits sont bleus. ,6,6,1,1.29,1531.95
+KAM_ALE_027,22,1,0,Il y a 5 bateaux. ,6,6,1,4.45,1544.99
+KAM_ALE_027,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.95,1547.01
+KAM_ALE_027,22,1,2,On peut voir un chien. ,6,0,0,1.37,1548.45
+KAM_ALE_027,22,2,0,Il y a 5 bateaux. ,6,6,1,1.16,1558.35
+KAM_ALE_027,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.43,1559.85
+KAM_ALE_027,22,2,2,On peut voir un chien. ,0,0,1,3.42,1563.33
+KAM_ALE_027,22,3,0,Il y a 5 bateaux. ,6,6,1,1.35,1574.91
+KAM_ALE_027,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.78,1575.76
+KAM_ALE_027,22,3,2,On peut voir un chien. ,6,0,0,0.86,1576.67
+KAM_ALE_027,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,4.05,1586.21
+KAM_ALE_027,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.79,1593.65
+KAM_ALE_027,24,1,0,Les tapis sont alignés. ,6,0,0,5.02,1607.55
+KAM_ALE_027,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,5.19,1612.81
+KAM_ALE_027,24,1,2,L'armoire est ouverte. ,0,0,1,1.75,1614.63
+KAM_ALE_027,24,2,0,Les tapis sont alignés. ,6,0,0,2.97,1627.17
+KAM_ALE_027,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.83,1629.07
+KAM_ALE_027,24,2,2,L'armoire est ouverte. ,0,0,1,1.99,1631.12
+KAM_ALE_027,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.79,1639.19
+KAM_ALE_027,26,1,0,Les costumes sont identiques. ,6,6,1,1.97,1648.27
+KAM_ALE_027,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,4.31,1658.5
+KAM_ALE_027,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.73,1665.6
+KAM_ALE_027,28,1,0,Les toits sont à la même hauteur. ,6,0,0,4.41,1685.48
+KAM_ALE_027,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,6.45,1697.35
+KAM_ALE_027,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.94,1705.83
+KAM_ALE_027,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.8,1716.82
+KAM_ALE_027,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.78,1726.44
+KAM_ALE_027,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.29,1735.99
+KAM_ALE_027,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,5.25,1741.3
+KAM_ALE_027,31,2,0,Il y a du maïs sur l'image. ,6,6,1,2.44,1750.78
+KAM_ALE_027,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.77,1752.62

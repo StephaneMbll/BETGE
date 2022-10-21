@@ -1,0 +1,123 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+CIS_MAN_009,100,1,0,Les nuages sont gris. ,0,0,1,5.64,43.73
+CIS_MAN_009,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.27,56.44
+CIS_MAN_009,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,4.32,70.98
+CIS_MAN_009,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.34,100.0
+CIS_MAN_009,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.78,105.83
+CIS_MAN_009,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.8,115.34
+CIS_MAN_009,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.71,117.1
+CIS_MAN_009,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.63,126.58
+CIS_MAN_009,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,6.59,142.03
+CIS_MAN_009,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.91,145.98
+CIS_MAN_009,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.27,149.29
+CIS_MAN_009,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.39,162.07
+CIS_MAN_009,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.81,163.92
+CIS_MAN_009,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.26,165.22
+CIS_MAN_009,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.72,173.51
+CIS_MAN_009,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.45,176.01
+CIS_MAN_009,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.61,184.72
+CIS_MAN_009,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.79,186.54
+CIS_MAN_009,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,9.4,199.84
+CIS_MAN_009,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,4.23,204.1
+CIS_MAN_009,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.65,205.79
+CIS_MAN_009,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.08,214.7
+CIS_MAN_009,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.27,220.03
+CIS_MAN_009,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.5,229.1
+CIS_MAN_009,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.23,230.37
+CIS_MAN_009,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.06,239.72
+CIS_MAN_009,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.08,242.84
+CIS_MAN_009,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.96,253.8
+CIS_MAN_009,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,5.02,258.86
+CIS_MAN_009,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.24,267.41
+CIS_MAN_009,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.11,271.57
+CIS_MAN_009,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.1,279.34
+CIS_MAN_009,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,7.93,287.33
+CIS_MAN_009,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.1,293.43
+CIS_MAN_009,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.83,295.31
+CIS_MAN_009,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.76,306.11
+CIS_MAN_009,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.81,316.1
+CIS_MAN_009,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.35,318.49
+CIS_MAN_009,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.61,325.89
+CIS_MAN_009,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.88,330.83
+CIS_MAN_009,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.76,339.37
+CIS_MAN_009,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.97,340.38
+CIS_MAN_009,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.81,348.11
+CIS_MAN_009,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,4.49,352.65
+CIS_MAN_009,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,0.97,353.66
+CIS_MAN_009,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.38,361.36
+CIS_MAN_009,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.57,362.97
+CIS_MAN_009,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.02,366.03
+CIS_MAN_009,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.12,371.66
+CIS_MAN_009,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,3.94,386.25
+CIS_MAN_009,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.96,388.25
+CIS_MAN_009,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,6.94,395.24
+CIS_MAN_009,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,0.72,396.01
+CIS_MAN_009,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.3,408.53
+CIS_MAN_009,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.31,409.89
+CIS_MAN_009,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,3.16,413.09
+CIS_MAN_009,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.63,415.78
+CIS_MAN_009,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.15,428.13
+CIS_MAN_009,14,1,1,Avez-vous vu une éponge ?,6,6,1,2.44,430.62
+CIS_MAN_009,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.69,432.36
+CIS_MAN_009,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.24,434.65
+CIS_MAN_009,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.84,446.69
+CIS_MAN_009,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.19,446.92
+CIS_MAN_009,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.45,448.42
+CIS_MAN_009,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,2.1,450.56
+CIS_MAN_009,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.71,463.64
+CIS_MAN_009,14,3,1,Avez-vous vu une éponge ?,6,6,1,0.73,464.41
+CIS_MAN_009,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.2,465.66
+CIS_MAN_009,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,1.2,466.91
+CIS_MAN_009,14,4,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.07,479.6
+CIS_MAN_009,14,4,1,Avez-vous vu une éponge ?,6,6,1,1.08,480.72
+CIS_MAN_009,14,4,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.49,482.27
+CIS_MAN_009,14,4,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,0.91,483.22
+CIS_MAN_009,14,5,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.59,493.32
+CIS_MAN_009,14,5,1,Avez-vous vu une éponge ?,6,6,1,1.03,494.39
+CIS_MAN_009,14,5,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.98,495.41
+CIS_MAN_009,14,5,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,0.65,496.12
+CIS_MAN_009,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.45,507.96
+CIS_MAN_009,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.19,510.21
+CIS_MAN_009,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.08,524.45
+CIS_MAN_009,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,0.22,524.72
+CIS_MAN_009,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.61,528.37
+CIS_MAN_009,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,0.56,538.64
+CIS_MAN_009,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.34,541.03
+CIS_MAN_009,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,0.48,541.56
+CIS_MAN_009,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.2,555.6
+CIS_MAN_009,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.4,557.05
+CIS_MAN_009,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,3.72,560.81
+CIS_MAN_009,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.88,569.54
+CIS_MAN_009,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.76,579.63
+CIS_MAN_009,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,8.33,588.01
+CIS_MAN_009,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.8,598.35
+CIS_MAN_009,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,5.77,604.17
+CIS_MAN_009,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.91,616.12
+CIS_MAN_009,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.54,617.71
+CIS_MAN_009,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.48,629.03
+CIS_MAN_009,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,4.19,633.27
+CIS_MAN_009,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.94,636.26
+CIS_MAN_009,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.04,646.15
+CIS_MAN_009,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.11,647.31
+CIS_MAN_009,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.11,649.47
+CIS_MAN_009,21,1,0,Les toits sont bleus. ,6,6,1,3.22,659.87
+CIS_MAN_009,22,1,0,Il y a 5 bateaux. ,6,6,1,5.2,674.07
+CIS_MAN_009,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.99,678.11
+CIS_MAN_009,22,1,2,On peut voir un chien. ,6,0,0,2.23,680.4
+CIS_MAN_009,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,3.03,688.98
+CIS_MAN_009,24,1,0,Les tapis sont alignés. ,0,0,1,3.29,702.73
+CIS_MAN_009,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,2.5,705.28
+CIS_MAN_009,24,1,2,L'armoire est ouverte. ,0,0,1,2.47,707.8
+CIS_MAN_009,24,2,0,Les tapis sont alignés. ,0,0,1,2.01,719.36
+CIS_MAN_009,24,2,1,Il y a une brosse à dent près du lit. ,6,0,0,2.01,721.42
+CIS_MAN_009,24,2,2,L'armoire est ouverte. ,0,0,1,1.72,723.2
+CIS_MAN_009,25,1,0,Il y a plus de 10 pommes.,0,0,1,4.36,733.46
+CIS_MAN_009,26,1,0,Les costumes sont identiques. ,6,6,1,4.01,743.73
+CIS_MAN_009,26,2,0,Les costumes sont identiques. ,6,6,1,0.65,750.65
+CIS_MAN_009,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.87,757.88
+CIS_MAN_009,28,1,0,Les toits sont à la même hauteur. ,6,0,0,3.93,768.7
+CIS_MAN_009,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.95,777.27
+CIS_MAN_009,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.41,783.31
+CIS_MAN_009,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,5.2,795.95
+CIS_MAN_009,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.95,805.92
+CIS_MAN_009,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.66,808.63

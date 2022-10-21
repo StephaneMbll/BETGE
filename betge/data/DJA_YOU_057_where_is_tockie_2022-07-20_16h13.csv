@@ -1,0 +1,158 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+DJA_YOU_057,100,1,0,Les nuages sont gris. ,0,0,1,3.92,70.37
+DJA_YOU_057,100,2,0,Les nuages sont gris. ,6,0,0,4.81,83.5
+DJA_YOU_057,100,3,0,Les nuages sont gris. ,0,0,1,1.2,95.74
+DJA_YOU_057,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,5.37,115.35
+DJA_YOU_057,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,0.93,121.4
+DJA_YOU_057,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,4.68,136.32
+DJA_YOU_057,102,2,0,Avez-vous vu un éléphant ? ,0,6,0,2.66,147.01
+DJA_YOU_057,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,8.32,175.72
+DJA_YOU_057,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,0,6,0,8.31,184.08
+DJA_YOU_057,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.11,193.95
+DJA_YOU_057,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.37,196.36
+DJA_YOU_057,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.32,208.83
+DJA_YOU_057,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.58,217.59
+DJA_YOU_057,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,6.53,233.6
+DJA_YOU_057,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,6.74,240.38
+DJA_YOU_057,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,6.79,247.22
+DJA_YOU_057,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.0,259.95
+DJA_YOU_057,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.93,263.92
+DJA_YOU_057,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.26,266.22
+DJA_YOU_057,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.17,274.48
+DJA_YOU_057,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,5.23,279.75
+DJA_YOU_057,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.43,288.59
+DJA_YOU_057,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.28,289.92
+DJA_YOU_057,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.85,296.96
+DJA_YOU_057,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.07,300.07
+DJA_YOU_057,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.84,301.95
+DJA_YOU_057,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.78,309.87
+DJA_YOU_057,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.46,312.37
+DJA_YOU_057,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.51,313.92
+DJA_YOU_057,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,5.54,324.48
+DJA_YOU_057,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.48,329.02
+DJA_YOU_057,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.98,336.21
+DJA_YOU_057,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.78,339.04
+DJA_YOU_057,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,6.45,357.24
+DJA_YOU_057,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.1,361.39
+DJA_YOU_057,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.13,372.09
+DJA_YOU_057,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.21,374.35
+DJA_YOU_057,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,7.52,387.21
+DJA_YOU_057,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,13.46,400.72
+DJA_YOU_057,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.97,409.51
+DJA_YOU_057,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,8.29,417.85
+DJA_YOU_057,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.84,427.05
+DJA_YOU_057,7,3,1,Le nom inscrit sur la première tombe est : ,6,0,0,5.97,433.06
+DJA_YOU_057,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,5.31,445.8
+DJA_YOU_057,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.42,457.33
+DJA_YOU_057,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,7.04,470.95
+DJA_YOU_057,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.64,472.63
+DJA_YOU_057,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.88,483.9
+DJA_YOU_057,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,1.46,485.41
+DJA_YOU_057,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,5.45,496.35
+DJA_YOU_057,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,4.9,501.29
+DJA_YOU_057,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.75,509.12
+DJA_YOU_057,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,5.96,515.12
+DJA_YOU_057,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.96,525.52
+DJA_YOU_057,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.9,529.48
+DJA_YOU_057,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.98,532.51
+DJA_YOU_057,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.5,543.75
+DJA_YOU_057,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.99,547.79
+DJA_YOU_057,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.24,550.09
+DJA_YOU_057,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,5.75,560.1
+DJA_YOU_057,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.98,567.56
+DJA_YOU_057,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,4.88,583.0
+DJA_YOU_057,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.75,586.8
+DJA_YOU_057,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,9.25,596.1
+DJA_YOU_057,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,4.61,600.75
+DJA_YOU_057,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,3.87,615.35
+DJA_YOU_057,13,2,1,La pièce est-elle rangée ? ,0,0,1,2.91,618.31
+DJA_YOU_057,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.1,620.45
+DJA_YOU_057,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.29,622.8
+DJA_YOU_057,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,7.75,641.03
+DJA_YOU_057,14,1,1,Avez-vous vu une éponge ?,6,6,1,2.03,643.11
+DJA_YOU_057,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.72,646.89
+DJA_YOU_057,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.01,649.96
+DJA_YOU_057,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,4.29,668.31
+DJA_YOU_057,14,2,1,Avez-vous vu une éponge ?,6,6,1,4.27,672.62
+DJA_YOU_057,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.94,675.61
+DJA_YOU_057,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,6.58,682.24
+DJA_YOU_057,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.42,696.85
+DJA_YOU_057,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.41,698.31
+DJA_YOU_057,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.19,700.55
+DJA_YOU_057,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.9,703.51
+DJA_YOU_057,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,8.71,722.33
+DJA_YOU_057,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,4.93,727.31
+DJA_YOU_057,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.74,742.13
+DJA_YOU_057,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.65,744.83
+DJA_YOU_057,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,8.21,763.33
+DJA_YOU_057,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.23,766.61
+DJA_YOU_057,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.43,770.1
+DJA_YOU_057,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,8.8,788.95
+DJA_YOU_057,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.52,791.52
+DJA_YOU_057,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.62,794.19
+DJA_YOU_057,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,7.81,808.53
+DJA_YOU_057,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.58,818.18
+DJA_YOU_057,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,7.22,832.81
+DJA_YOU_057,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,6.15,839.01
+DJA_YOU_057,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.02,849.42
+DJA_YOU_057,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.34,851.82
+DJA_YOU_057,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.32,863.59
+DJA_YOU_057,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.63,867.27
+DJA_YOU_057,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.51,879.85
+DJA_YOU_057,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.26,882.16
+DJA_YOU_057,19,3,0,Il y a plus de 7 tentacules visibles. ,0,6,0,5.72,894.26
+DJA_YOU_057,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.67,897.97
+DJA_YOU_057,19,4,0,Il y a plus de 7 tentacules visibles. ,0,6,0,15.71,923.11
+DJA_YOU_057,19,4,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.35,925.52
+DJA_YOU_057,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,5.32,938.71
+DJA_YOU_057,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,3.0,941.77
+DJA_YOU_057,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.16,943.98
+DJA_YOU_057,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,6.02,959.03
+DJA_YOU_057,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.63,961.72
+DJA_YOU_057,20,2,2,On peut apercevoir un clocher. ,6,0,0,3.62,965.39
+DJA_YOU_057,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.3,976.34
+DJA_YOU_057,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,2.08,978.49
+DJA_YOU_057,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.45,979.99
+DJA_YOU_057,21,1,0,Les toits sont bleus. ,6,6,1,5.48,992.67
+DJA_YOU_057,21,2,0,Les toits sont bleus. ,6,6,1,4.11,1004.0
+DJA_YOU_057,21,3,0,Les toits sont bleus. ,0,6,0,2.05,1011.44
+DJA_YOU_057,22,1,0,Il y a 5 bateaux. ,6,6,1,2.37,1023.68
+DJA_YOU_057,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,6.98,1030.72
+DJA_YOU_057,22,1,2,On peut voir un chien. ,6,0,0,3.11,1033.88
+DJA_YOU_057,22,2,0,Il y a 5 bateaux. ,6,6,1,1.73,1044.0
+DJA_YOU_057,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.33,1045.38
+DJA_YOU_057,22,2,2,On peut voir un chien. ,0,0,1,2.29,1047.73
+DJA_YOU_057,22,3,0,Il y a 5 bateaux. ,6,6,1,1.57,1059.21
+DJA_YOU_057,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.14,1060.41
+DJA_YOU_057,22,3,2,On peut voir un chien. ,0,0,1,1.02,1061.47
+DJA_YOU_057,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,3.55,1070.59
+DJA_YOU_057,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.49,1078.66
+DJA_YOU_057,24,1,0,Les tapis sont alignés. ,6,0,0,2.38,1091.6
+DJA_YOU_057,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,2.49,1094.14
+DJA_YOU_057,24,1,2,L'armoire est ouverte. ,6,0,0,1.67,1095.86
+DJA_YOU_057,24,2,0,Les tapis sont alignés. ,6,0,0,3.54,1109.48
+DJA_YOU_057,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,4.16,1113.7
+DJA_YOU_057,24,2,2,L'armoire est ouverte. ,0,0,1,1.44,1115.19
+DJA_YOU_057,24,3,0,Les tapis sont alignés. ,0,0,1,3.53,1128.39
+DJA_YOU_057,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,1.54,1129.98
+DJA_YOU_057,24,3,2,L'armoire est ouverte. ,0,0,1,3.53,1133.57
+DJA_YOU_057,25,1,0,Il y a plus de 10 pommes.,6,0,0,3.05,1142.52
+DJA_YOU_057,25,2,0,Il y a plus de 10 pommes.,0,0,1,1.47,1150.43
+DJA_YOU_057,26,1,0,Les costumes sont identiques. ,6,6,1,2.93,1159.16
+DJA_YOU_057,26,2,0,Les costumes sont identiques. ,6,6,1,2.76,1168.28
+DJA_YOU_057,26,3,0,Les costumes sont identiques. ,6,6,1,6.18,1179.93
+DJA_YOU_057,26,4,0,Les costumes sont identiques. ,6,6,1,2.76,1188.68
+DJA_YOU_057,26,5,0,Les costumes sont identiques. ,0,6,0,3.39,1197.63
+DJA_YOU_057,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,3.41,1207.74
+DJA_YOU_057,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.94,1216.95
+DJA_YOU_057,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.66,1223.7
+DJA_YOU_057,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.2,1231.89
+DJA_YOU_057,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.26,1239.35
+DJA_YOU_057,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.19,1248.36
+DJA_YOU_057,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.29,1257.35
+DJA_YOU_057,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,4.04,1269.61
+DJA_YOU_057,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.53,1279.25
+DJA_YOU_057,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.12,1289.5
+DJA_YOU_057,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.83,1293.39
+DJA_YOU_057,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.38,1303.07
+DJA_YOU_057,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.85,1304.97

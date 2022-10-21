@@ -1,0 +1,85 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SAR_SAM_021,100,1,0,Les nuages sont gris. ,0,0,1,1.61,67.93
+SAR_SAM_021,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.04,76.65
+SAR_SAM_021,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.39,87.97
+SAR_SAM_021,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.63,110.99
+SAR_SAM_021,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,13.25,124.28
+SAR_SAM_021,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.7,132.11
+SAR_SAM_021,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.57,132.71
+SAR_SAM_021,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.54,138.61
+SAR_SAM_021,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.27,149.53
+SAR_SAM_021,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.98,152.54
+SAR_SAM_021,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.53,154.11
+SAR_SAM_021,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.26,160.08
+SAR_SAM_021,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.36,161.47
+SAR_SAM_021,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.18,167.04
+SAR_SAM_021,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,6.19,173.27
+SAR_SAM_021,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.07,174.39
+SAR_SAM_021,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.88,178.56
+SAR_SAM_021,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,0.86,179.45
+SAR_SAM_021,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.29,180.79
+SAR_SAM_021,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.68,187.48
+SAR_SAM_021,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.06,189.59
+SAR_SAM_021,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.48,199.29
+SAR_SAM_021,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.78,202.11
+SAR_SAM_021,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.53,211.31
+SAR_SAM_021,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.17,212.52
+SAR_SAM_021,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.65,220.48
+SAR_SAM_021,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,1.88,222.41
+SAR_SAM_021,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,4.01,232.83
+SAR_SAM_021,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.08,240.5
+SAR_SAM_021,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.22,247.9
+SAR_SAM_021,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.77,251.72
+SAR_SAM_021,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.7,257.75
+SAR_SAM_021,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.56,259.36
+SAR_SAM_021,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.16,265.74
+SAR_SAM_021,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.61,268.41
+SAR_SAM_021,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.66,270.13
+SAR_SAM_021,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.23,274.57
+SAR_SAM_021,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.43,285.39
+SAR_SAM_021,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.32,286.75
+SAR_SAM_021,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.24,289.04
+SAR_SAM_021,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.93,292.03
+SAR_SAM_021,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.25,303.45
+SAR_SAM_021,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.27,305.77
+SAR_SAM_021,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.05,306.87
+SAR_SAM_021,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.42,308.33
+SAR_SAM_021,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.61,321.39
+SAR_SAM_021,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.66,323.09
+SAR_SAM_021,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.54,335.72
+SAR_SAM_021,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,2.25,338.02
+SAR_SAM_021,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.21,339.27
+SAR_SAM_021,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.53,345.93
+SAR_SAM_021,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.21,353.51
+SAR_SAM_021,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,9.62,363.19
+SAR_SAM_021,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,6.19,375.33
+SAR_SAM_021,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,7.28,382.65
+SAR_SAM_021,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.12,392.9
+SAR_SAM_021,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.44,395.39
+SAR_SAM_021,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.62,398.06
+SAR_SAM_021,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,1.29,406.42
+SAR_SAM_021,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,0.77,407.24
+SAR_SAM_021,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.76,408.05
+SAR_SAM_021,21,1,0,Les toits sont bleus. ,6,6,1,2.21,415.33
+SAR_SAM_021,22,1,0,Il y a 5 bateaux. ,6,6,1,1.15,424.7
+SAR_SAM_021,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.99,427.74
+SAR_SAM_021,22,1,2,On peut voir un chien. ,6,0,0,1.06,428.85
+SAR_SAM_021,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.44,436.92
+SAR_SAM_021,24,1,0,Les tapis sont alignés. ,0,0,1,3.26,449.86
+SAR_SAM_021,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.17,453.07
+SAR_SAM_021,24,1,2,L'armoire est ouverte. ,0,0,1,1.63,454.75
+SAR_SAM_021,24,2,0,Les tapis sont alignés. ,0,0,1,5.26,469.21
+SAR_SAM_021,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,0.86,470.12
+SAR_SAM_021,24,2,2,L'armoire est ouverte. ,0,0,1,1.18,471.35
+SAR_SAM_021,24,3,0,Les tapis sont alignés. ,0,0,1,0.33,481.41
+SAR_SAM_021,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,0.97,482.44
+SAR_SAM_021,24,3,2,L'armoire est ouverte. ,0,0,1,0.9,483.39
+SAR_SAM_021,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.29,489.79
+SAR_SAM_021,26,1,0,Les costumes sont identiques. ,6,6,1,1.58,496.5
+SAR_SAM_021,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.12,504.13
+SAR_SAM_021,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.72,512.19
+SAR_SAM_021,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.56,520.93
+SAR_SAM_021,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.11,530.27
+SAR_SAM_021,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.73,538.39
+SAR_SAM_021,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.38,547.17
+SAR_SAM_021,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.51,549.73

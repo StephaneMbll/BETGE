@@ -1,0 +1,89 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+JOU_MAT_043,100,1,0,Les nuages sont gris. ,0,0,1,2.55,31.96
+JOU_MAT_043,100,2,0,Les nuages sont gris. ,0,0,1,1.94,41.59
+JOU_MAT_043,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.13,51.75
+JOU_MAT_043,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,1.67,63.7
+JOU_MAT_043,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.15,87.51
+JOU_MAT_043,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.71,92.25
+JOU_MAT_043,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.26,102.07
+JOU_MAT_043,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.79,102.9
+JOU_MAT_043,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.75,109.07
+JOU_MAT_043,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.26,122.99
+JOU_MAT_043,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.28,127.3
+JOU_MAT_043,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.37,129.71
+JOU_MAT_043,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.17,140.75
+JOU_MAT_043,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.13,146.93
+JOU_MAT_043,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.65,148.6
+JOU_MAT_043,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.51,154.64
+JOU_MAT_043,3,1,1,Avez-vous vu une corde � sauter ? ,0,6,0,3.42,158.09
+JOU_MAT_043,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.61,165.67
+JOU_MAT_043,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.69,167.4
+JOU_MAT_043,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.16,168.61
+JOU_MAT_043,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.94,175.22
+JOU_MAT_043,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.01,177.27
+JOU_MAT_043,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.64,189.22
+JOU_MAT_043,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.43,193.69
+JOU_MAT_043,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.49,202.85
+JOU_MAT_043,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.44,204.34
+JOU_MAT_043,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,3.13,212.17
+JOU_MAT_043,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.65,213.88
+JOU_MAT_043,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,2.8,224.28
+JOU_MAT_043,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.54,232.15
+JOU_MAT_043,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.51,234.71
+JOU_MAT_043,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,0.98,241.12
+JOU_MAT_043,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.91,243.07
+JOU_MAT_043,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.79,248.73
+JOU_MAT_043,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.98,251.76
+JOU_MAT_043,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.55,258.64
+JOU_MAT_043,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.68,260.37
+JOU_MAT_043,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.73,262.14
+JOU_MAT_043,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.14,268.1
+JOU_MAT_043,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.95,273.39
+JOU_MAT_043,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.68,286.19
+JOU_MAT_043,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.88,288.13
+JOU_MAT_043,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.77,289.94
+JOU_MAT_043,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.6,292.59
+JOU_MAT_043,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.47,304.46
+JOU_MAT_043,14,1,1,Avez-vous vu une �ponge ?,6,6,1,1.35,305.86
+JOU_MAT_043,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.89,307.81
+JOU_MAT_043,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.68,309.53
+JOU_MAT_043,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.05,321.15
+JOU_MAT_043,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.49,322.69
+JOU_MAT_043,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.36,334.77
+JOU_MAT_043,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.36,337.17
+JOU_MAT_043,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.62,338.84
+JOU_MAT_043,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.12,350.85
+JOU_MAT_043,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.29,352.18
+JOU_MAT_043,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.77,354.0
+JOU_MAT_043,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.48,361.69
+JOU_MAT_043,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.34,370.49
+JOU_MAT_043,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.27,372.82
+JOU_MAT_043,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.02,382.57
+JOU_MAT_043,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.04,386.66
+JOU_MAT_043,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.21,397.33
+JOU_MAT_043,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.26,398.64
+JOU_MAT_043,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.21,408.12
+JOU_MAT_043,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.1,410.26
+JOU_MAT_043,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.56,411.86
+JOU_MAT_043,21,1,0,Les toits sont bleus. ,0,6,0,1.39,418.27
+JOU_MAT_043,22,1,0,Il y a 5 bateaux. ,6,6,1,1.1,428.05
+JOU_MAT_043,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.16,430.25
+JOU_MAT_043,22,1,2,On peut voir un chien. ,0,0,1,1.5,431.79
+JOU_MAT_043,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.98,440.69
+JOU_MAT_043,24,1,0,Les tapis sont align�s. ,6,0,0,5.21,455.19
+JOU_MAT_043,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.03,457.26
+JOU_MAT_043,24,1,2,L'armoire est ouverte. ,0,0,1,2.03,459.35
+JOU_MAT_043,24,2,0,Les tapis sont align�s. ,0,0,1,6.11,475.55
+JOU_MAT_043,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,0.87,476.47
+JOU_MAT_043,24,2,2,L'armoire est ouverte. ,0,0,1,2.09,478.61
+JOU_MAT_043,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.11,484.94
+JOU_MAT_043,26,1,0,Les costumes sont identiques. ,6,6,1,1.64,491.76
+JOU_MAT_043,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.8,499.7
+JOU_MAT_043,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.52,506.32
+JOU_MAT_043,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,2.39,513.87
+JOU_MAT_043,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,0.81,519.78
+JOU_MAT_043,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.85,529.34
+JOU_MAT_043,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.36,536.61
+JOU_MAT_043,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.89,546.56
+JOU_MAT_043,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.52,555.1
+JOU_MAT_043,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.51,556.66

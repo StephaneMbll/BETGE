@@ -1,0 +1,111 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+JOU_FRA_024,100,1,0,Les nuages sont gris. ,0,0,1,2.25,35.35
+JOU_FRA_024,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.93,45.21
+JOU_FRA_024,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,3.78,59.28
+JOU_FRA_024,102,2,0,Avez-vous vu un éléphant ? ,0,6,0,0.87,66.92
+JOU_FRA_024,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.09,89.19
+JOU_FRA_024,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.31,94.54
+JOU_FRA_024,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.59,100.39
+JOU_FRA_024,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.26,112.09
+JOU_FRA_024,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.39,114.53
+JOU_FRA_024,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.2,115.76
+JOU_FRA_024,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.87,124.07
+JOU_FRA_024,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,3.03,127.15
+JOU_FRA_024,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.37,134.04
+JOU_FRA_024,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.16,135.24
+JOU_FRA_024,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.46,141.15
+JOU_FRA_024,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.79,142.97
+JOU_FRA_024,4,1,2,Avez-vous vu une corde à sauter ? ,0,6,0,0.69,143.71
+JOU_FRA_024,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.94,151.89
+JOU_FRA_024,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.8,156.73
+JOU_FRA_024,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.86,167.78
+JOU_FRA_024,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.01,171.82
+JOU_FRA_024,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.19,183.02
+JOU_FRA_024,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.45,184.52
+JOU_FRA_024,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.46,192.33
+JOU_FRA_024,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.91,196.3
+JOU_FRA_024,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.81,201.76
+JOU_FRA_024,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.63,203.44
+JOU_FRA_024,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.74,208.21
+JOU_FRA_024,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.75,209.0
+JOU_FRA_024,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,4.28,219.32
+JOU_FRA_024,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.71,228.78
+JOU_FRA_024,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.34,238.17
+JOU_FRA_024,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.03,242.25
+JOU_FRA_024,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.37,249.0
+JOU_FRA_024,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.02,250.06
+JOU_FRA_024,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.55,257.65
+JOU_FRA_024,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.33,260.01
+JOU_FRA_024,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.97,266.22
+JOU_FRA_024,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.55,267.82
+JOU_FRA_024,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.18,275.82
+JOU_FRA_024,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.35,279.22
+JOU_FRA_024,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,6.08,285.35
+JOU_FRA_024,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.23,292.45
+JOU_FRA_024,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.73,296.22
+JOU_FRA_024,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,0.53,296.79
+JOU_FRA_024,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.16,303.08
+JOU_FRA_024,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.6,315.39
+JOU_FRA_024,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.2,317.62
+JOU_FRA_024,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.98,321.65
+JOU_FRA_024,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,0.6,322.3
+JOU_FRA_024,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.85,334.99
+JOU_FRA_024,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.67,336.71
+JOU_FRA_024,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.07,338.82
+JOU_FRA_024,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.45,342.32
+JOU_FRA_024,14,2,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,1.94,354.39
+JOU_FRA_024,14,2,1,Avez-vous vu une éponge ?,0,6,0,3.08,357.52
+JOU_FRA_024,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.53,360.1
+JOU_FRA_024,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.62,362.77
+JOU_FRA_024,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,5.03,377.85
+JOU_FRA_024,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.72,381.61
+JOU_FRA_024,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.8,397.94
+JOU_FRA_024,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.82,399.79
+JOU_FRA_024,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,5.13,416.67
+JOU_FRA_024,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.58,419.29
+JOU_FRA_024,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.66,422.0
+JOU_FRA_024,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,5.09,432.85
+JOU_FRA_024,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,6,0,0,2.94,443.06
+JOU_FRA_024,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.55,447.66
+JOU_FRA_024,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,5.65,460.37
+JOU_FRA_024,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,5.5,465.92
+JOU_FRA_024,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,9.25,482.42
+JOU_FRA_024,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.16,486.62
+JOU_FRA_024,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,5.68,501.27
+JOU_FRA_024,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,3.99,505.3
+JOU_FRA_024,20,1,2,On peut apercevoir un clocher. ,0,0,1,7.34,512.7
+JOU_FRA_024,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.2,525.06
+JOU_FRA_024,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,3.94,529.05
+JOU_FRA_024,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.28,531.39
+JOU_FRA_024,21,1,0,Les toits sont bleus. ,6,6,1,2.47,539.71
+JOU_FRA_024,21,2,0,Les toits sont bleus. ,6,6,1,2.5,547.84
+JOU_FRA_024,22,1,0,Il y a 5 bateaux. ,6,6,1,1.98,558.34
+JOU_FRA_024,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.72,561.09
+JOU_FRA_024,22,1,2,On peut voir un chien. ,6,0,0,3.05,564.19
+JOU_FRA_024,22,2,0,Il y a 5 bateaux. ,6,6,1,2.37,576.83
+JOU_FRA_024,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,7.85,584.73
+JOU_FRA_024,22,2,2,On peut voir un chien. ,0,0,1,1.59,586.37
+JOU_FRA_024,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,5.84,597.83
+JOU_FRA_024,24,1,0,Les tapis sont alignés. ,0,0,1,3.04,610.58
+JOU_FRA_024,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,1.28,611.91
+JOU_FRA_024,24,1,2,L'armoire est ouverte. ,0,0,1,1.41,613.37
+JOU_FRA_024,24,2,0,Les tapis sont alignés. ,0,0,1,2.95,626.14
+JOU_FRA_024,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,4.3,630.49
+JOU_FRA_024,24,2,2,L'armoire est ouverte. ,0,0,1,1.56,632.11
+JOU_FRA_024,24,3,0,Les tapis sont alignés. ,0,0,1,2.33,644.11
+JOU_FRA_024,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,1.17,645.33
+JOU_FRA_024,24,3,2,L'armoire est ouverte. ,0,0,1,2.34,647.71
+JOU_FRA_024,25,1,0,Il y a plus de 10 pommes.,0,0,1,3.26,656.77
+JOU_FRA_024,26,1,0,Les costumes sont identiques. ,0,6,0,18.89,681.27
+JOU_FRA_024,26,2,0,Les costumes sont identiques. ,6,6,1,1.73,691.19
+JOU_FRA_024,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,3.47,701.28
+JOU_FRA_024,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,20.28,729.97
+JOU_FRA_024,27,3,0,Les éléphants sont parfaitement symétriques. ,6,0,0,3.08,741.06
+JOU_FRA_024,28,1,0,Les toits sont à la même hauteur. ,0,0,1,3.69,750.42
+JOU_FRA_024,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.38,757.32
+JOU_FRA_024,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.62,764.95
+JOU_FRA_024,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.73,776.15
+JOU_FRA_024,31,1,0,Il y a du maïs sur l'image. ,0,6,0,2.36,786.17
+JOU_FRA_024,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.04,788.27
+JOU_FRA_024,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.43,797.21
+JOU_FRA_024,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,5.17,802.43

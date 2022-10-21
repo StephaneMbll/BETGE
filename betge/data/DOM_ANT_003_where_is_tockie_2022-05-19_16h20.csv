@@ -1,0 +1,83 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+DOM_ANT_003,100,1,0,Les nuages sont gris. ,6,0,0,1.86,50.71
+DOM_ANT_003,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.47,65.66
+DOM_ANT_003,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.26,73.0
+DOM_ANT_003,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,1.58,85.5
+DOM_ANT_003,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.38,110.93
+DOM_ANT_003,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.23,115.19
+DOM_ANT_003,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.69,124.58
+DOM_ANT_003,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,6.92,140.89
+DOM_ANT_003,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.05,142.97
+DOM_ANT_003,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.31,145.31
+DOM_ANT_003,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.94,155.8
+DOM_ANT_003,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.78,157.62
+DOM_ANT_003,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.28,158.94
+DOM_ANT_003,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.52,165.38
+DOM_ANT_003,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.15,167.58
+DOM_ANT_003,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.5,173.26
+DOM_ANT_003,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,4.06,177.35
+DOM_ANT_003,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.43,178.83
+DOM_ANT_003,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.79,188.19
+DOM_ANT_003,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.64,189.87
+DOM_ANT_003,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.39,201.26
+DOM_ANT_003,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.14,204.44
+DOM_ANT_003,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.14,211.14
+DOM_ANT_003,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,12.61,223.81
+DOM_ANT_003,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,5.21,236.51
+DOM_ANT_003,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.14,245.1
+DOM_ANT_003,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.18,255.39
+DOM_ANT_003,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.45,257.87
+DOM_ANT_003,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.83,267.67
+DOM_ANT_003,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.68,269.39
+DOM_ANT_003,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.52,275.86
+DOM_ANT_003,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.08,276.99
+DOM_ANT_003,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.0,284.98
+DOM_ANT_003,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,3.35,288.38
+DOM_ANT_003,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.74,291.17
+DOM_ANT_003,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.7,297.02
+DOM_ANT_003,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,1.55,309.0
+DOM_ANT_003,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.6,311.63
+DOM_ANT_003,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.16,314.84
+DOM_ANT_003,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,3.16,318.05
+DOM_ANT_003,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.96,330.76
+DOM_ANT_003,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.75,332.56
+DOM_ANT_003,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,2.01,334.6
+DOM_ANT_003,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.76,336.39
+DOM_ANT_003,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.68,347.84
+DOM_ANT_003,14,2,1,Avez-vous vu une éponge ?,0,6,0,1.67,349.55
+DOM_ANT_003,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.46,351.05
+DOM_ANT_003,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.34,352.43
+DOM_ANT_003,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.05,365.18
+DOM_ANT_003,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.44,367.67
+DOM_ANT_003,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.28,379.93
+DOM_ANT_003,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.47,382.43
+DOM_ANT_003,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.01,384.49
+DOM_ANT_003,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.99,392.37
+DOM_ANT_003,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.75,401.5
+DOM_ANT_003,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.49,406.04
+DOM_ANT_003,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.22,415.58
+DOM_ANT_003,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.74,419.37
+DOM_ANT_003,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.58,429.8
+DOM_ANT_003,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.86,432.7
+DOM_ANT_003,20,1,2,On peut apercevoir un clocher. ,0,0,1,1.8,434.54
+DOM_ANT_003,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.9,443.5
+DOM_ANT_003,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.41,444.95
+DOM_ANT_003,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.47,446.46
+DOM_ANT_003,21,1,0,Les toits sont bleus. ,0,6,0,2.4,454.91
+DOM_ANT_003,22,1,0,Il y a 5 bateaux. ,6,6,1,1.29,465.2
+DOM_ANT_003,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.26,469.5
+DOM_ANT_003,22,1,2,On peut voir un chien. ,0,0,1,1.4,470.95
+DOM_ANT_003,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,4.09,480.91
+DOM_ANT_003,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.9,488.39
+DOM_ANT_003,24,1,0,Les tapis sont alignés. ,0,0,1,2.81,500.59
+DOM_ANT_003,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.11,503.75
+DOM_ANT_003,24,1,2,L'armoire est ouverte. ,0,0,1,1.55,505.36
+DOM_ANT_003,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.7,512.46
+DOM_ANT_003,26,1,0,Les costumes sont identiques. ,6,6,1,2.0,519.97
+DOM_ANT_003,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.38,528.1
+DOM_ANT_003,28,1,0,Les toits sont à la même hauteur. ,6,0,0,1.59,535.37
+DOM_ANT_003,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,5.86,546.65
+DOM_ANT_003,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.93,553.55
+DOM_ANT_003,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.24,562.82
+DOM_ANT_003,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.36,572.71
+DOM_ANT_003,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.87,574.63

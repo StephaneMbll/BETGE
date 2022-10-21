@@ -1,0 +1,122 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+DAU_LEA_039,100,1,0,Les nuages sont gris. ,0,0,1,1.45,48.8
+DAU_LEA_039,100,2,0,Les nuages sont gris. ,0,0,1,1.2,55.46
+DAU_LEA_039,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,3.47,66.11
+DAU_LEA_039,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,0.66,72.38
+DAU_LEA_039,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,3.63,85.58
+DAU_LEA_039,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,1.02,93.89
+DAU_LEA_039,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.96,115.71
+DAU_LEA_039,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.02,119.78
+DAU_LEA_039,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.48,129.72
+DAU_LEA_039,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.68,130.44
+DAU_LEA_039,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.48,136.72
+DAU_LEA_039,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.37,147.93
+DAU_LEA_039,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.0,150.95
+DAU_LEA_039,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.72,153.71
+DAU_LEA_039,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.06,165.67
+DAU_LEA_039,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.9,166.6
+DAU_LEA_039,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.58,168.24
+DAU_LEA_039,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.46,173.67
+DAU_LEA_039,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.9,175.61
+DAU_LEA_039,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.5,181.99
+DAU_LEA_039,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.15,183.19
+DAU_LEA_039,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.1,187.23
+DAU_LEA_039,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.89,190.16
+DAU_LEA_039,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.29,191.49
+DAU_LEA_039,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.46,196.47
+DAU_LEA_039,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.07,198.58
+DAU_LEA_039,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.73,200.36
+DAU_LEA_039,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,6,0,0,2.38,207.2
+DAU_LEA_039,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.95,209.19
+DAU_LEA_039,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.48,216.77
+DAU_LEA_039,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.21,218.02
+DAU_LEA_039,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.56,226.75
+DAU_LEA_039,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.77,229.56
+DAU_LEA_039,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,0.62,238.12
+DAU_LEA_039,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.94,240.1
+DAU_LEA_039,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.9,245.98
+DAU_LEA_039,7,1,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,4.13,250.15
+DAU_LEA_039,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.58,257.61
+DAU_LEA_039,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.12,258.77
+DAU_LEA_039,8,1,0,De quelle couleur est le t�l�phone ? ,0,0,1,2.96,267.98
+DAU_LEA_039,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,0.63,275.94
+DAU_LEA_039,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.81,283.21
+DAU_LEA_039,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.71,284.95
+DAU_LEA_039,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.53,291.49
+DAU_LEA_039,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.44,292.97
+DAU_LEA_039,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.43,298.66
+DAU_LEA_039,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.62,299.33
+DAU_LEA_039,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.89,306.4
+DAU_LEA_039,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,3.47,309.92
+DAU_LEA_039,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,0,6,0,0.42,310.38
+DAU_LEA_039,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.21,317.97
+DAU_LEA_039,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.46,319.47
+DAU_LEA_039,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,3.33,322.84
+DAU_LEA_039,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.94,327.21
+DAU_LEA_039,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,0.84,339.39
+DAU_LEA_039,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.76,341.19
+DAU_LEA_039,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,4.24,345.46
+DAU_LEA_039,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,3.33,348.86
+DAU_LEA_039,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.19,359.9
+DAU_LEA_039,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.72,361.67
+DAU_LEA_039,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.73,363.44
+DAU_LEA_039,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.02,365.51
+DAU_LEA_039,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,0,6,0,2.33,377.05
+DAU_LEA_039,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.99,379.08
+DAU_LEA_039,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.98,382.1
+DAU_LEA_039,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.66,383.82
+DAU_LEA_039,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.62,395.38
+DAU_LEA_039,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.48,396.91
+DAU_LEA_039,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.68,398.62
+DAU_LEA_039,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.38,400.04
+DAU_LEA_039,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.86,411.55
+DAU_LEA_039,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.56,414.16
+DAU_LEA_039,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.63,426.02
+DAU_LEA_039,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.98,427.06
+DAU_LEA_039,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.33,438.62
+DAU_LEA_039,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.03,440.69
+DAU_LEA_039,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.73,442.48
+DAU_LEA_039,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.7,449.88
+DAU_LEA_039,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.08,459.0
+DAU_LEA_039,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.92,461.98
+DAU_LEA_039,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.59,471.23
+DAU_LEA_039,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.62,474.9
+DAU_LEA_039,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.35,485.12
+DAU_LEA_039,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.24,486.4
+DAU_LEA_039,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.67,495.93
+DAU_LEA_039,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.24,498.22
+DAU_LEA_039,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.63,499.89
+DAU_LEA_039,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.94,509.67
+DAU_LEA_039,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,3.08,512.81
+DAU_LEA_039,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.47,514.33
+DAU_LEA_039,21,1,0,Les toits sont bleus. ,0,6,0,2.76,522.24
+DAU_LEA_039,21,2,0,Les toits sont bleus. ,6,6,1,0.87,529.28
+DAU_LEA_039,22,1,0,Il y a 5 bateaux. ,6,6,1,1.11,538.58
+DAU_LEA_039,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,2.63,541.26
+DAU_LEA_039,22,1,2,On peut voir un chien. ,6,0,0,3.09,544.4
+DAU_LEA_039,22,2,0,Il y a 5 bateaux. ,6,6,1,1.34,554.6
+DAU_LEA_039,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.89,555.53
+DAU_LEA_039,22,2,2,On peut voir un chien. ,0,0,1,0.89,556.47
+DAU_LEA_039,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,1.77,563.27
+DAU_LEA_039,24,1,0,Les tapis sont align�s. ,0,0,1,3.29,576.44
+DAU_LEA_039,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,3.86,580.34
+DAU_LEA_039,24,1,2,L'armoire est ouverte. ,0,0,1,1.6,581.98
+DAU_LEA_039,24,2,0,Les tapis sont align�s. ,6,0,0,2.32,593.63
+DAU_LEA_039,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.39,595.07
+DAU_LEA_039,24,2,2,L'armoire est ouverte. ,0,0,1,1.87,596.98
+DAU_LEA_039,24,3,0,Les tapis sont align�s. ,0,0,1,1.1,607.89
+DAU_LEA_039,24,3,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.29,609.24
+DAU_LEA_039,24,3,2,L'armoire est ouverte. ,0,0,1,1.44,610.72
+DAU_LEA_039,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.04,617.63
+DAU_LEA_039,26,1,0,Les costumes sont identiques. ,6,6,1,1.98,625.63
+DAU_LEA_039,26,2,0,Les costumes sont identiques. ,6,6,1,1.06,632.76
+DAU_LEA_039,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.22,639.85
+DAU_LEA_039,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.01,646.59
+DAU_LEA_039,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,2.46,653.96
+DAU_LEA_039,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.67,661.92
+DAU_LEA_039,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,0.78,668.33
+DAU_LEA_039,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.83,677.84
+DAU_LEA_039,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.45,686.4
+DAU_LEA_039,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.55,690.0
+DAU_LEA_039,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.28,698.52
+DAU_LEA_039,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.75,700.31

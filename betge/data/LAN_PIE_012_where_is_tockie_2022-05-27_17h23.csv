@@ -1,0 +1,115 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+LAN_PIE_012,100,1,0,Les nuages sont gris. ,0,0,1,6.8,106.28
+LAN_PIE_012,100,2,0,Les nuages sont gris. ,0,0,1,2.31,119.46
+LAN_PIE_012,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.35,130.42
+LAN_PIE_012,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,0.3,135.35
+LAN_PIE_012,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.74,147.22
+LAN_PIE_012,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.22,154.25
+LAN_PIE_012,102,3,0,Avez-vous vu un éléphant ? ,6,6,1,1.06,162.81
+LAN_PIE_012,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.52,200.03
+LAN_PIE_012,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.21,204.29
+LAN_PIE_012,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.28,214.1
+LAN_PIE_012,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.18,215.31
+LAN_PIE_012,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.32,223.21
+LAN_PIE_012,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.11,235.13
+LAN_PIE_012,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.06,239.23
+LAN_PIE_012,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.68,242.94
+LAN_PIE_012,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.75,256.06
+LAN_PIE_012,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.32,257.42
+LAN_PIE_012,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.52,258.98
+LAN_PIE_012,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.79,267.48
+LAN_PIE_012,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,1.04,268.56
+LAN_PIE_012,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.53,275.14
+LAN_PIE_012,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.63,277.81
+LAN_PIE_012,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.56,279.42
+LAN_PIE_012,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.02,286.05
+LAN_PIE_012,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.17,289.27
+LAN_PIE_012,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,5.44,301.88
+LAN_PIE_012,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.99,304.91
+LAN_PIE_012,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.08,317.39
+LAN_PIE_012,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.01,319.45
+LAN_PIE_012,6,3,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,0.75,327.81
+LAN_PIE_012,6,3,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,0.9,328.77
+LAN_PIE_012,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,4.35,337.75
+LAN_PIE_012,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.54,340.34
+LAN_PIE_012,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.64,346.71
+LAN_PIE_012,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.85,348.61
+LAN_PIE_012,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,3.01,357.85
+LAN_PIE_012,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.69,367.46
+LAN_PIE_012,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.78,376.37
+LAN_PIE_012,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,5.46,381.86
+LAN_PIE_012,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.85,387.72
+LAN_PIE_012,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.2,388.95
+LAN_PIE_012,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.71,396.06
+LAN_PIE_012,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.04,398.14
+LAN_PIE_012,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.87,407.26
+LAN_PIE_012,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.91,408.22
+LAN_PIE_012,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.36,415.81
+LAN_PIE_012,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.62,419.47
+LAN_PIE_012,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.4,422.92
+LAN_PIE_012,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.0,428.54
+LAN_PIE_012,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.24,441.45
+LAN_PIE_012,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.82,443.32
+LAN_PIE_012,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.35,446.73
+LAN_PIE_012,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,4.26,451.05
+LAN_PIE_012,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.96,463.42
+LAN_PIE_012,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.2,464.66
+LAN_PIE_012,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.8,466.5
+LAN_PIE_012,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,3.0,469.55
+LAN_PIE_012,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.04,482.41
+LAN_PIE_012,14,1,1,Avez-vous vu une éponge ?,6,6,1,2.83,485.28
+LAN_PIE_012,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.9,487.23
+LAN_PIE_012,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.22,489.5
+LAN_PIE_012,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.73,503.3
+LAN_PIE_012,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.24,505.6
+LAN_PIE_012,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,3.38,518.84
+LAN_PIE_012,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.54,521.43
+LAN_PIE_012,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.57,524.06
+LAN_PIE_012,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,5.35,539.62
+LAN_PIE_012,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.48,541.15
+LAN_PIE_012,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.04,543.25
+LAN_PIE_012,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.97,552.17
+LAN_PIE_012,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.47,560.44
+LAN_PIE_012,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.69,570.38
+LAN_PIE_012,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,5.61,576.05
+LAN_PIE_012,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.65,587.23
+LAN_PIE_012,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.52,589.79
+LAN_PIE_012,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.3,597.59
+LAN_PIE_012,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.16,599.8
+LAN_PIE_012,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.2,610.87
+LAN_PIE_012,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,1.93,612.85
+LAN_PIE_012,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.92,614.81
+LAN_PIE_012,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.61,624.68
+LAN_PIE_012,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.26,626.01
+LAN_PIE_012,20,2,2,On peut apercevoir un clocher. ,6,0,0,2.15,628.21
+LAN_PIE_012,21,1,0,Les toits sont bleus. ,6,6,1,1.77,635.79
+LAN_PIE_012,21,2,0,Les toits sont bleus. ,6,6,1,0.35,642.95
+LAN_PIE_012,22,1,0,Il y a 5 bateaux. ,6,6,1,2.12,654.5
+LAN_PIE_012,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.69,656.23
+LAN_PIE_012,22,1,2,On peut voir un chien. ,6,0,0,1.18,657.47
+LAN_PIE_012,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.98,665.46
+LAN_PIE_012,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.32,674.03
+LAN_PIE_012,24,1,0,Les tapis sont alignés. ,6,0,0,2.75,688.39
+LAN_PIE_012,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,1.25,689.69
+LAN_PIE_012,24,1,2,L'armoire est ouverte. ,0,0,1,1.54,691.28
+LAN_PIE_012,24,2,0,Les tapis sont alignés. ,0,0,1,2.6,703.64
+LAN_PIE_012,24,2,1,Il y a une brosse à dent près du lit. ,6,0,0,5.75,709.44
+LAN_PIE_012,24,2,2,L'armoire est ouverte. ,6,0,0,1.28,710.77
+LAN_PIE_012,24,3,0,Les tapis sont alignés. ,0,0,1,1.94,722.06
+LAN_PIE_012,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,0.97,723.08
+LAN_PIE_012,24,3,2,L'armoire est ouverte. ,6,0,0,0.72,723.85
+LAN_PIE_012,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.26,730.64
+LAN_PIE_012,26,1,0,Les costumes sont identiques. ,6,6,1,3.02,739.98
+LAN_PIE_012,26,2,0,Les costumes sont identiques. ,6,6,1,0.98,747.27
+LAN_PIE_012,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.55,754.76
+LAN_PIE_012,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,1.53,762.22
+LAN_PIE_012,28,1,0,Les toits sont à la même hauteur. ,6,0,0,3.91,772.01
+LAN_PIE_012,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.48,779.25
+LAN_PIE_012,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.34,787.44
+LAN_PIE_012,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.11,796.51
+LAN_PIE_012,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.31,803.85
+LAN_PIE_012,30,3,0,Il y a plus de 30 papillons.  ,0,0,1,0.24,811.86
+LAN_PIE_012,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.12,820.63
+LAN_PIE_012,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.94,822.63
+LAN_PIE_012,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.27,830.55
+LAN_PIE_012,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.36,830.97

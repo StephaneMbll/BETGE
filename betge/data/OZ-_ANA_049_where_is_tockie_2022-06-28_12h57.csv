@@ -1,0 +1,110 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+OZ-_ANA_049,100,1,0,Les nuages sont gris. ,0,0,1,2.18,24.26
+OZ-_ANA_049,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.49,34.76
+OZ-_ANA_049,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.86,47.46
+OZ-_ANA_049,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.05,70.18
+OZ-_ANA_049,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,5.57,75.81
+OZ-_ANA_049,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.87,83.77
+OZ-_ANA_049,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.22,85.04
+OZ-_ANA_049,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.78,93.63
+OZ-_ANA_049,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.69,106.47
+OZ-_ANA_049,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.97,109.48
+OZ-_ANA_049,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,5.55,115.08
+OZ-_ANA_049,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,5.29,129.62
+OZ-_ANA_049,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.24,131.91
+OZ-_ANA_049,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.31,133.33
+OZ-_ANA_049,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.58,139.48
+OZ-_ANA_049,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.7,141.22
+OZ-_ANA_049,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.16,147.13
+OZ-_ANA_049,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.64,148.83
+OZ-_ANA_049,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.37,150.24
+OZ-_ANA_049,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.51,157.34
+OZ-_ANA_049,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.7,160.1
+OZ-_ANA_049,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.47,167.48
+OZ-_ANA_049,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.13,168.64
+OZ-_ANA_049,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.88,179.2
+OZ-_ANA_049,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.16,181.41
+OZ-_ANA_049,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.01,189.26
+OZ-_ANA_049,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.68,193.0
+OZ-_ANA_049,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.23,199.4
+OZ-_ANA_049,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.16,200.59
+OZ-_ANA_049,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,2.88,209.92
+OZ-_ANA_049,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.07,217.82
+OZ-_ANA_049,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,3.82,229.49
+OZ-_ANA_049,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.24,231.78
+OZ-_ANA_049,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.35,239.61
+OZ-_ANA_049,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.16,240.82
+OZ-_ANA_049,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.09,247.6
+OZ-_ANA_049,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.0,249.65
+OZ-_ANA_049,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.21,257.71
+OZ-_ANA_049,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,3.5,261.25
+OZ-_ANA_049,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.22,263.52
+OZ-_ANA_049,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.14,270.76
+OZ-_ANA_049,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.66,272.46
+OZ-_ANA_049,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.6,275.1
+OZ-_ANA_049,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.6,280.41
+OZ-_ANA_049,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.48,292.51
+OZ-_ANA_049,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.83,294.38
+OZ-_ANA_049,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.58,297.0
+OZ-_ANA_049,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.9,299.95
+OZ-_ANA_049,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.92,311.29
+OZ-_ANA_049,14,1,1,Avez-vous vu une �ponge ?,6,6,1,1.33,312.67
+OZ-_ANA_049,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.96,314.66
+OZ-_ANA_049,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.83,316.56
+OZ-_ANA_049,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.53,328.24
+OZ-_ANA_049,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.35,329.64
+OZ-_ANA_049,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.29,330.98
+OZ-_ANA_049,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,6,0,0,1.42,332.44
+OZ-_ANA_049,14,3,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.4,344.5
+OZ-_ANA_049,14,3,1,Avez-vous vu une �ponge ?,6,6,1,1.82,346.38
+OZ-_ANA_049,14,3,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.64,349.06
+OZ-_ANA_049,14,3,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.64,350.84
+OZ-_ANA_049,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,4.66,365.58
+OZ-_ANA_049,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.71,368.35
+OZ-_ANA_049,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.87,380.31
+OZ-_ANA_049,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.56,382.92
+OZ-_ANA_049,15,3,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.82,395.61
+OZ-_ANA_049,15,3,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.26,396.91
+OZ-_ANA_049,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.55,411.31
+OZ-_ANA_049,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.27,414.63
+OZ-_ANA_049,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.12,416.79
+OZ-_ANA_049,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.83,429.21
+OZ-_ANA_049,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.69,430.95
+OZ-_ANA_049,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.63,432.62
+OZ-_ANA_049,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.53,440.8
+OZ-_ANA_049,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.01,450.17
+OZ-_ANA_049,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.76,454.99
+OZ-_ANA_049,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.19,467.8
+OZ-_ANA_049,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.47,471.31
+OZ-_ANA_049,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,3.98,482.62
+OZ-_ANA_049,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.96,484.64
+OZ-_ANA_049,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.71,486.39
+OZ-_ANA_049,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.15,496.34
+OZ-_ANA_049,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.3,498.69
+OZ-_ANA_049,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.98,501.72
+OZ-_ANA_049,21,1,0,Les toits sont bleus. ,0,6,0,2.41,509.81
+OZ-_ANA_049,21,2,0,Les toits sont bleus. ,6,6,1,3.39,519.26
+OZ-_ANA_049,22,1,0,Il y a 5 bateaux. ,6,6,1,1.83,530.12
+OZ-_ANA_049,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.93,532.11
+OZ-_ANA_049,22,1,2,On peut voir un chien. ,0,0,1,1.96,534.12
+OZ-_ANA_049,22,2,0,Il y a 5 bateaux. ,6,6,1,1.74,544.38
+OZ-_ANA_049,22,2,1,Il y a  des bateaux a 2 voiles. ,0,6,0,2.1,546.52
+OZ-_ANA_049,22,2,2,On peut voir un chien. ,0,0,1,1.11,547.68
+OZ-_ANA_049,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,3.25,557.03
+OZ-_ANA_049,24,1,0,Les tapis sont align�s. ,6,0,0,2.6,569.5
+OZ-_ANA_049,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,1.43,570.97
+OZ-_ANA_049,24,1,2,L'armoire est ouverte. ,6,0,0,0.98,572.0
+OZ-_ANA_049,24,2,0,Les tapis sont align�s. ,0,0,1,2.23,584.36
+OZ-_ANA_049,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.33,586.74
+OZ-_ANA_049,24,2,2,L'armoire est ouverte. ,0,0,1,1.84,588.69
+OZ-_ANA_049,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.69,597.6
+OZ-_ANA_049,26,1,0,Les costumes sont identiques. ,6,6,1,2.07,607.29
+OZ-_ANA_049,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,3.3,616.26
+OZ-_ANA_049,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,2.56,624.64
+OZ-_ANA_049,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.0,633.33
+OZ-_ANA_049,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,1.34,640.45
+OZ-_ANA_049,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,3.22,652.09
+OZ-_ANA_049,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,2.75,662.04
+OZ-_ANA_049,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,1.75,663.84
+OZ-_ANA_049,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.46,672.92
+OZ-_ANA_049,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.35,676.32

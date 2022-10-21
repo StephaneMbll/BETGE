@@ -1,0 +1,92 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+BAT_ELO_066,100,1,0,Les nuages sont gris. ,0,0,1,2.16,34.9
+BAT_ELO_066,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.66,44.54
+BAT_ELO_066,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,1.25,55.12
+BAT_ELO_066,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.74,84.01
+BAT_ELO_066,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.16,89.21
+BAT_ELO_066,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.07,98.5
+BAT_ELO_066,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.72,99.25
+BAT_ELO_066,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.99,105.82
+BAT_ELO_066,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,5.51,120.78
+BAT_ELO_066,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.16,122.98
+BAT_ELO_066,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.62,125.64
+BAT_ELO_066,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.32,132.69
+BAT_ELO_066,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.68,135.41
+BAT_ELO_066,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.24,140.12
+BAT_ELO_066,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,5.94,146.11
+BAT_ELO_066,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.54,147.7
+BAT_ELO_066,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.4,154.23
+BAT_ELO_066,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.24,155.5
+BAT_ELO_066,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.29,156.84
+BAT_ELO_066,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.65,163.98
+BAT_ELO_066,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.44,166.48
+BAT_ELO_066,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.71,177.8
+BAT_ELO_066,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.72,182.56
+BAT_ELO_066,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.11,191.98
+BAT_ELO_066,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.17,193.19
+BAT_ELO_066,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.84,201.39
+BAT_ELO_066,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.22,205.66
+BAT_ELO_066,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.6,211.03
+BAT_ELO_066,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.67,211.76
+BAT_ELO_066,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.64,220.56
+BAT_ELO_066,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.32,228.57
+BAT_ELO_066,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,5.74,234.34
+BAT_ELO_066,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.86,240.85
+BAT_ELO_066,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.89,242.77
+BAT_ELO_066,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.94,252.03
+BAT_ELO_066,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.59,253.66
+BAT_ELO_066,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.18,255.89
+BAT_ELO_066,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.18,260.75
+BAT_ELO_066,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.44,271.73
+BAT_ELO_066,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.92,273.69
+BAT_ELO_066,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.3,277.04
+BAT_ELO_066,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.39,279.46
+BAT_ELO_066,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.14,291.43
+BAT_ELO_066,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.58,293.05
+BAT_ELO_066,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.61,295.7
+BAT_ELO_066,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.11,297.87
+BAT_ELO_066,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,4.52,312.36
+BAT_ELO_066,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.88,314.29
+BAT_ELO_066,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.49,328.61
+BAT_ELO_066,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.98,330.64
+BAT_ELO_066,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.83,332.52
+BAT_ELO_066,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.36,343.87
+BAT_ELO_066,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.56,346.46
+BAT_ELO_066,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.72,348.23
+BAT_ELO_066,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.31,354.93
+BAT_ELO_066,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.45,362.82
+BAT_ELO_066,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,8.93,371.8
+BAT_ELO_066,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,0.99,380.56
+BAT_ELO_066,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,1.65,382.25
+BAT_ELO_066,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.18,391.69
+BAT_ELO_066,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.63,395.37
+BAT_ELO_066,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,9.06,412.28
+BAT_ELO_066,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.43,414.75
+BAT_ELO_066,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.15,416.94
+BAT_ELO_066,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.7,428.46
+BAT_ELO_066,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.02,429.53
+BAT_ELO_066,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.28,430.85
+BAT_ELO_066,21,1,0,Les toits sont bleus. ,6,6,1,2.29,438.61
+BAT_ELO_066,22,1,0,Il y a 5 bateaux. ,0,6,0,1.8,448.87
+BAT_ELO_066,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,6.47,455.39
+BAT_ELO_066,22,1,2,On peut voir un chien. ,0,0,1,1.56,457.0
+BAT_ELO_066,22,2,0,Il y a 5 bateaux. ,0,6,0,2.64,468.19
+BAT_ELO_066,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.15,469.39
+BAT_ELO_066,22,2,2,On peut voir un chien. ,0,0,1,0.91,470.35
+BAT_ELO_066,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,4.28,479.63
+BAT_ELO_066,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.77,487.86
+BAT_ELO_066,24,1,0,Les tapis sont alignés. ,0,0,1,3.25,500.77
+BAT_ELO_066,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,2.33,503.15
+BAT_ELO_066,24,1,2,L'armoire est ouverte. ,0,0,1,1.86,505.05
+BAT_ELO_066,24,2,0,Les tapis sont alignés. ,0,0,1,2.09,516.76
+BAT_ELO_066,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.74,518.54
+BAT_ELO_066,24,2,2,L'armoire est ouverte. ,0,0,1,1.24,519.83
+BAT_ELO_066,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.56,526.73
+BAT_ELO_066,26,1,0,Les costumes sont identiques. ,6,6,1,3.6,535.78
+BAT_ELO_066,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.74,544.49
+BAT_ELO_066,28,1,0,Les toits sont à la même hauteur. ,6,0,0,3.38,553.09
+BAT_ELO_066,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.24,560.12
+BAT_ELO_066,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.77,570.45
+BAT_ELO_066,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.72,579.33
+BAT_ELO_066,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.76,588.68
+BAT_ELO_066,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.01,590.73

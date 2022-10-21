@@ -1,0 +1,110 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+PRI_LOU_047,100,1,0,Les nuages sont gris. ,0,0,1,2.59,45.05
+PRI_LOU_047,100,2,0,Les nuages sont gris. ,0,0,1,1.53,51.58
+PRI_LOU_047,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.24,60.62
+PRI_LOU_047,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.58,71.63
+PRI_LOU_047,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.11,98.12
+PRI_LOU_047,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.74,101.92
+PRI_LOU_047,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.85,107.33
+PRI_LOU_047,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.68,108.04
+PRI_LOU_047,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.23,113.7
+PRI_LOU_047,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.17,125.78
+PRI_LOU_047,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.86,127.7
+PRI_LOU_047,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,0.65,128.39
+PRI_LOU_047,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.2,134.45
+PRI_LOU_047,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.81,136.29
+PRI_LOU_047,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.39,142.09
+PRI_LOU_047,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,0.96,143.09
+PRI_LOU_047,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.85,147.33
+PRI_LOU_047,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.07,149.44
+PRI_LOU_047,4,1,2,Avez-vous vu une corde � sauter ? ,0,6,0,0.52,149.99
+PRI_LOU_047,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.34,157.4
+PRI_LOU_047,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.65,159.1
+PRI_LOU_047,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.63,159.78
+PRI_LOU_047,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.83,166.23
+PRI_LOU_047,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.56,168.83
+PRI_LOU_047,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.53,178.15
+PRI_LOU_047,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.85,180.03
+PRI_LOU_047,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.88,186.22
+PRI_LOU_047,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.55,188.83
+PRI_LOU_047,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.41,197.14
+PRI_LOU_047,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.76,205.86
+PRI_LOU_047,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.9,208.81
+PRI_LOU_047,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,0.87,215.07
+PRI_LOU_047,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.7,215.8
+PRI_LOU_047,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.92,221.75
+PRI_LOU_047,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.19,222.98
+PRI_LOU_047,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,0.99,228.35
+PRI_LOU_047,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.78,229.16
+PRI_LOU_047,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.36,236.97
+PRI_LOU_047,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,2.99,240.0
+PRI_LOU_047,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.6,241.65
+PRI_LOU_047,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.67,246.0
+PRI_LOU_047,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.25,257.2
+PRI_LOU_047,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.08,258.32
+PRI_LOU_047,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.4,261.77
+PRI_LOU_047,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,4.22,266.03
+PRI_LOU_047,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.47,277.62
+PRI_LOU_047,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.17,278.84
+PRI_LOU_047,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,0.68,279.56
+PRI_LOU_047,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.93,282.54
+PRI_LOU_047,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.46,294.26
+PRI_LOU_047,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.75,296.05
+PRI_LOU_047,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.28,297.37
+PRI_LOU_047,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.05,299.47
+PRI_LOU_047,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.18,310.35
+PRI_LOU_047,14,2,1,Avez-vous vu une �ponge ?,6,6,1,0.61,311.01
+PRI_LOU_047,14,2,2,Avez-vous vu des serviettes usag�es ?,0,6,0,1.42,312.48
+PRI_LOU_047,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.48,314.0
+PRI_LOU_047,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.49,327.46
+PRI_LOU_047,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.19,328.71
+PRI_LOU_047,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,3.22,342.14
+PRI_LOU_047,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.52,343.71
+PRI_LOU_047,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.5,345.25
+PRI_LOU_047,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.36,357.33
+PRI_LOU_047,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,2.91,360.28
+PRI_LOU_047,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,0.45,360.79
+PRI_LOU_047,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.86,367.53
+PRI_LOU_047,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.39,375.46
+PRI_LOU_047,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.27,378.78
+PRI_LOU_047,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.12,388.79
+PRI_LOU_047,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.83,391.66
+PRI_LOU_047,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.43,399.41
+PRI_LOU_047,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.49,400.94
+PRI_LOU_047,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,3.61,412.25
+PRI_LOU_047,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.86,414.15
+PRI_LOU_047,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.46,415.67
+PRI_LOU_047,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.39,426.14
+PRI_LOU_047,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.18,427.37
+PRI_LOU_047,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.71,428.13
+PRI_LOU_047,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.2,436.38
+PRI_LOU_047,20,3,1,La cal�che est tir�e par deux chevaux. ,0,0,1,0.43,436.85
+PRI_LOU_047,20,3,2,On peut apercevoir un clocher. ,6,0,0,0.61,437.5
+PRI_LOU_047,21,1,0,Les toits sont bleus. ,0,6,0,1.74,444.73
+PRI_LOU_047,22,1,0,Il y a 5 bateaux. ,6,6,1,1.91,456.36
+PRI_LOU_047,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.4,458.8
+PRI_LOU_047,22,1,2,On peut voir un chien. ,0,0,1,1.08,459.92
+PRI_LOU_047,22,2,0,Il y a 5 bateaux. ,6,6,1,1.04,469.83
+PRI_LOU_047,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.12,471.0
+PRI_LOU_047,22,2,2,On peut voir un chien. ,0,0,1,1.28,472.31
+PRI_LOU_047,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.2,479.89
+PRI_LOU_047,24,1,0,Les tapis sont align�s. ,6,0,0,1.9,491.24
+PRI_LOU_047,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.43,492.72
+PRI_LOU_047,24,1,2,L'armoire est ouverte. ,0,0,1,1.07,493.84
+PRI_LOU_047,24,2,0,Les tapis sont align�s. ,0,0,1,0.89,504.06
+PRI_LOU_047,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,0.88,504.98
+PRI_LOU_047,24,2,2,L'armoire est ouverte. ,6,0,0,0.56,505.58
+PRI_LOU_047,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.68,512.29
+PRI_LOU_047,26,1,0,Les costumes sont identiques. ,6,6,1,2.43,520.47
+PRI_LOU_047,26,2,0,Les costumes sont identiques. ,6,6,1,0.95,528.01
+PRI_LOU_047,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.64,534.43
+PRI_LOU_047,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,1.91,541.68
+PRI_LOU_047,28,2,0,Les toits sont � la m�me hauteur. ,6,0,0,1.27,548.11
+PRI_LOU_047,28,3,0,Les toits sont � la m�me hauteur. ,0,0,1,1.18,555.35
+PRI_LOU_047,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.71,563.08
+PRI_LOU_047,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.02,570.85
+PRI_LOU_047,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.23,579.49
+PRI_LOU_047,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.35,588.14
+PRI_LOU_047,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.86,591.05
+PRI_LOU_047,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.45,599.97
+PRI_LOU_047,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.75,600.77

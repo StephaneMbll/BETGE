@@ -1,0 +1,132 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+HIN_LAU_026,100,1,0,Les nuages sont gris. ,0,0,1,2.88,63.8
+HIN_LAU_026,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.14,73.71
+HIN_LAU_026,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.91,85.58
+HIN_LAU_026,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.05,112.87
+HIN_LAU_026,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.04,117.96
+HIN_LAU_026,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.78,125.94
+HIN_LAU_026,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.61,127.59
+HIN_LAU_026,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.25,135.29
+HIN_LAU_026,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,5.68,150.57
+HIN_LAU_026,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.45,154.06
+HIN_LAU_026,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.14,158.25
+HIN_LAU_026,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.19,172.57
+HIN_LAU_026,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.33,177.93
+HIN_LAU_026,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.63,180.62
+HIN_LAU_026,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.56,193.72
+HIN_LAU_026,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.49,195.25
+HIN_LAU_026,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.86,199.15
+HIN_LAU_026,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.06,206.02
+HIN_LAU_026,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,3.25,209.31
+HIN_LAU_026,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.19,216.65
+HIN_LAU_026,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.49,218.18
+HIN_LAU_026,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.75,225.53
+HIN_LAU_026,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.25,228.82
+HIN_LAU_026,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.78,231.64
+HIN_LAU_026,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.93,238.47
+HIN_LAU_026,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.02,240.52
+HIN_LAU_026,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.36,241.92
+HIN_LAU_026,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.15,250.06
+HIN_LAU_026,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.96,254.07
+HIN_LAU_026,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.09,261.32
+HIN_LAU_026,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.31,265.67
+HIN_LAU_026,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.62,273.59
+HIN_LAU_026,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.22,274.84
+HIN_LAU_026,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,6.26,290.07
+HIN_LAU_026,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.6,294.73
+HIN_LAU_026,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.51,307.77
+HIN_LAU_026,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.25,310.08
+HIN_LAU_026,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.86,316.77
+HIN_LAU_026,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,6.82,323.64
+HIN_LAU_026,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.4,330.73
+HIN_LAU_026,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.68,332.45
+HIN_LAU_026,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.52,341.76
+HIN_LAU_026,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.73,352.61
+HIN_LAU_026,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.03,356.67
+HIN_LAU_026,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.04,363.34
+HIN_LAU_026,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.1,365.48
+HIN_LAU_026,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.42,374.45
+HIN_LAU_026,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.14,376.63
+HIN_LAU_026,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.26,382.89
+HIN_LAU_026,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.3,384.23
+HIN_LAU_026,10,3,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.73,392.55
+HIN_LAU_026,10,3,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.22,393.81
+HIN_LAU_026,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.66,401.79
+HIN_LAU_026,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.86,404.7
+HIN_LAU_026,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.05,407.79
+HIN_LAU_026,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.29,413.34
+HIN_LAU_026,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.47,425.75
+HIN_LAU_026,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.77,428.57
+HIN_LAU_026,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.04,431.65
+HIN_LAU_026,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,8.43,440.15
+HIN_LAU_026,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.52,452.45
+HIN_LAU_026,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.46,453.95
+HIN_LAU_026,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.17,456.17
+HIN_LAU_026,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.45,457.67
+HIN_LAU_026,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.53,470.08
+HIN_LAU_026,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.1,472.23
+HIN_LAU_026,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,2.74,475.02
+HIN_LAU_026,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.89,477.97
+HIN_LAU_026,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.07,490.96
+HIN_LAU_026,14,2,1,Avez-vous vu une éponge ?,0,6,0,2.5,493.51
+HIN_LAU_026,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.26,495.82
+HIN_LAU_026,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.45,499.32
+HIN_LAU_026,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.09,512.1
+HIN_LAU_026,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.45,513.6
+HIN_LAU_026,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.85,515.49
+HIN_LAU_026,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.5,518.05
+HIN_LAU_026,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.01,531.33
+HIN_LAU_026,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.26,533.64
+HIN_LAU_026,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.68,546.13
+HIN_LAU_026,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.65,547.83
+HIN_LAU_026,15,3,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.33,561.3
+HIN_LAU_026,15,3,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.58,563.93
+HIN_LAU_026,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.04,575.73
+HIN_LAU_026,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.14,578.93
+HIN_LAU_026,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.25,581.23
+HIN_LAU_026,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.88,593.58
+HIN_LAU_026,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,3.1,596.73
+HIN_LAU_026,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.13,598.91
+HIN_LAU_026,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.69,607.01
+HIN_LAU_026,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.41,615.5
+HIN_LAU_026,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.96,619.53
+HIN_LAU_026,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,7.58,633.82
+HIN_LAU_026,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.6,638.47
+HIN_LAU_026,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.37,647.04
+HIN_LAU_026,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.29,648.37
+HIN_LAU_026,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.58,660.45
+HIN_LAU_026,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.57,663.07
+HIN_LAU_026,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.39,665.5
+HIN_LAU_026,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.86,675.21
+HIN_LAU_026,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.59,676.84
+HIN_LAU_026,20,2,2,On peut apercevoir un clocher. ,6,0,0,2.63,679.53
+HIN_LAU_026,21,1,0,Les toits sont bleus. ,6,6,1,2.43,688.67
+HIN_LAU_026,21,2,0,Les toits sont bleus. ,0,6,0,6.16,700.93
+HIN_LAU_026,22,1,0,Il y a 5 bateaux. ,0,6,0,5.18,714.83
+HIN_LAU_026,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.79,719.67
+HIN_LAU_026,22,1,2,On peut voir un chien. ,0,0,1,2.81,722.53
+HIN_LAU_026,22,2,0,Il y a 5 bateaux. ,6,6,1,1.9,732.97
+HIN_LAU_026,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.63,734.64
+HIN_LAU_026,22,2,2,On peut voir un chien. ,0,0,1,1.1,735.79
+HIN_LAU_026,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,3.46,745.29
+HIN_LAU_026,24,1,0,Les tapis sont alignés. ,6,0,0,2.81,758.36
+HIN_LAU_026,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,3.64,762.06
+HIN_LAU_026,24,1,2,L'armoire est ouverte. ,0,0,1,1.94,764.06
+HIN_LAU_026,24,2,0,Les tapis sont alignés. ,0,0,1,1.56,775.81
+HIN_LAU_026,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.23,777.1
+HIN_LAU_026,24,2,2,L'armoire est ouverte. ,0,0,1,1.58,778.73
+HIN_LAU_026,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.19,786.94
+HIN_LAU_026,26,1,0,Les costumes sont identiques. ,6,6,1,2.14,794.78
+HIN_LAU_026,26,2,0,Les costumes sont identiques. ,6,6,1,1.73,804.68
+HIN_LAU_026,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,4.53,814.55
+HIN_LAU_026,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,0.96,822.7
+HIN_LAU_026,28,1,0,Les toits sont à la même hauteur. ,0,0,1,3.03,831.82
+HIN_LAU_026,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.36,838.87
+HIN_LAU_026,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.72,848.52
+HIN_LAU_026,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.23,855.35
+HIN_LAU_026,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.7,866.55
+HIN_LAU_026,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.78,877.0
+HIN_LAU_026,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.09,886.92
+HIN_LAU_026,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,4.55,891.52
+HIN_LAU_026,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.5,901.29
+HIN_LAU_026,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.42,903.76

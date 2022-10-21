@@ -1,0 +1,90 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+WEI_ALI_048,100,1,0,Les nuages sont gris. ,0,0,1,1.64,32.3
+WEI_ALI_048,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.04,46.42
+WEI_ALI_048,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.99,57.22
+WEI_ALI_048,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,0.85,66.36
+WEI_ALI_048,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.61,90.14
+WEI_ALI_048,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.05,94.24
+WEI_ALI_048,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.12,100.73
+WEI_ALI_048,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.56,101.34
+WEI_ALI_048,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.62,107.8
+WEI_ALI_048,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.33,119.26
+WEI_ALI_048,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.72,124.03
+WEI_ALI_048,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.15,126.23
+WEI_ALI_048,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.67,133.75
+WEI_ALI_048,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.7,135.48
+WEI_ALI_048,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.7,141.9
+WEI_ALI_048,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.68,143.61
+WEI_ALI_048,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.81,145.45
+WEI_ALI_048,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.82,153.36
+WEI_ALI_048,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.89,156.28
+WEI_ALI_048,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.12,163.55
+WEI_ALI_048,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.75,164.34
+WEI_ALI_048,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.63,174.58
+WEI_ALI_048,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.14,176.77
+WEI_ALI_048,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,0.69,185.3
+WEI_ALI_048,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,0.96,186.31
+WEI_ALI_048,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.83,193.7
+WEI_ALI_048,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.49,196.24
+WEI_ALI_048,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,2.95,205.52
+WEI_ALI_048,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.73,212.81
+WEI_ALI_048,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.18,215.04
+WEI_ALI_048,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,0.71,221.12
+WEI_ALI_048,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.55,221.71
+WEI_ALI_048,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.7,227.58
+WEI_ALI_048,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.19,230.83
+WEI_ALI_048,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.15,237.87
+WEI_ALI_048,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.79,239.71
+WEI_ALI_048,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.7,241.45
+WEI_ALI_048,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.11,246.07
+WEI_ALI_048,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.7,257.23
+WEI_ALI_048,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.2,258.47
+WEI_ALI_048,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.77,262.29
+WEI_ALI_048,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,2.79,265.12
+WEI_ALI_048,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.07,276.45
+WEI_ALI_048,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.03,277.53
+WEI_ALI_048,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.74,279.31
+WEI_ALI_048,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.35,280.7
+WEI_ALI_048,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.54,292.84
+WEI_ALI_048,14,1,1,Avez-vous vu une �ponge ?,6,6,1,1.66,294.54
+WEI_ALI_048,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.25,296.83
+WEI_ALI_048,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.47,299.35
+WEI_ALI_048,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.91,313.41
+WEI_ALI_048,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.34,314.79
+WEI_ALI_048,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.17,326.45
+WEI_ALI_048,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.05,327.55
+WEI_ALI_048,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.8,341.59
+WEI_ALI_048,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.15,343.79
+WEI_ALI_048,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.93,345.77
+WEI_ALI_048,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.02,353.27
+WEI_ALI_048,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.86,362.25
+WEI_ALI_048,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.42,364.72
+WEI_ALI_048,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.51,372.43
+WEI_ALI_048,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.82,375.29
+WEI_ALI_048,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.89,385.79
+WEI_ALI_048,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,3.18,389.02
+WEI_ALI_048,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.69,390.76
+WEI_ALI_048,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.81,400.24
+WEI_ALI_048,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.45,401.74
+WEI_ALI_048,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.4,404.18
+WEI_ALI_048,21,1,0,Les toits sont bleus. ,6,6,1,3.16,412.54
+WEI_ALI_048,22,1,0,Il y a 5 bateaux. ,6,6,1,1.5,422.6
+WEI_ALI_048,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.62,425.27
+WEI_ALI_048,22,1,2,On peut voir un chien. ,6,0,0,2.25,427.57
+WEI_ALI_048,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.93,436.0
+WEI_ALI_048,24,1,0,Les tapis sont align�s. ,0,0,1,2.47,447.92
+WEI_ALI_048,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,3.17,451.14
+WEI_ALI_048,24,1,2,L'armoire est ouverte. ,0,0,1,1.41,452.6
+WEI_ALI_048,24,2,0,Les tapis sont align�s. ,0,0,1,1.58,463.6
+WEI_ALI_048,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.07,464.73
+WEI_ALI_048,24,2,2,L'armoire est ouverte. ,0,0,1,1.04,465.81
+WEI_ALI_048,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.53,472.66
+WEI_ALI_048,26,1,0,Les costumes sont identiques. ,6,6,1,2.05,480.04
+WEI_ALI_048,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,3.88,489.97
+WEI_ALI_048,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,0.82,496.27
+WEI_ALI_048,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,2.74,505.34
+WEI_ALI_048,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,4.98,515.35
+WEI_ALI_048,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,0.88,521.53
+WEI_ALI_048,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.78,531.75
+WEI_ALI_048,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.63,541.87
+WEI_ALI_048,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.47,544.39

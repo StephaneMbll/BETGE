@@ -1,0 +1,146 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+CHA_CLA_051,100,1,0,Les nuages sont gris. ,0,0,1,4.3,41.38
+CHA_CLA_051,100,2,0,Les nuages sont gris. ,0,0,1,1.05,48.73
+CHA_CLA_051,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,4.28,61.46
+CHA_CLA_051,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.58,68.64
+CHA_CLA_051,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,4.53,83.62
+CHA_CLA_051,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.77,112.2
+CHA_CLA_051,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,8.17,120.42
+CHA_CLA_051,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.88,128.39
+CHA_CLA_051,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.52,129.94
+CHA_CLA_051,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.14,138.9
+CHA_CLA_051,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.43,152.4
+CHA_CLA_051,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.47,157.91
+CHA_CLA_051,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,0.95,158.92
+CHA_CLA_051,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.58,175.54
+CHA_CLA_051,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.38,178.96
+CHA_CLA_051,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.52,181.53
+CHA_CLA_051,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.46,189.16
+CHA_CLA_051,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.26,191.48
+CHA_CLA_051,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.11,199.09
+CHA_CLA_051,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.76,200.89
+CHA_CLA_051,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.05,206.5
+CHA_CLA_051,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.84,210.38
+CHA_CLA_051,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.59,212.02
+CHA_CLA_051,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,5.63,223.24
+CHA_CLA_051,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.52,225.8
+CHA_CLA_051,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,3.37,234.42
+CHA_CLA_051,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.36,235.82
+CHA_CLA_051,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.97,246.07
+CHA_CLA_051,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.82,248.94
+CHA_CLA_051,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.7,262.35
+CHA_CLA_051,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.64,264.04
+CHA_CLA_051,6,3,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.19,276.85
+CHA_CLA_051,6,3,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,3.49,280.39
+CHA_CLA_051,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.01,288.31
+CHA_CLA_051,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.33,291.69
+CHA_CLA_051,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.56,299.61
+CHA_CLA_051,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.44,302.09
+CHA_CLA_051,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,6.71,316.56
+CHA_CLA_051,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.82,325.27
+CHA_CLA_051,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,3.99,335.36
+CHA_CLA_051,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,6.83,342.23
+CHA_CLA_051,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,6,6,1,3.38,357.06
+CHA_CLA_051,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.93,360.03
+CHA_CLA_051,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,7.24,373.45
+CHA_CLA_051,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.36,375.86
+CHA_CLA_051,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.3,384.28
+CHA_CLA_051,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.39,385.73
+CHA_CLA_051,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.23,394.55
+CHA_CLA_051,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,3.66,398.26
+CHA_CLA_051,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,6.34,404.66
+CHA_CLA_051,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.47,412.91
+CHA_CLA_051,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,2.11,415.06
+CHA_CLA_051,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,4.81,419.91
+CHA_CLA_051,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.49,426.16
+CHA_CLA_051,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,1.7,439.4
+CHA_CLA_051,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,3.33,442.77
+CHA_CLA_051,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,5.33,448.15
+CHA_CLA_051,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.72,450.92
+CHA_CLA_051,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.5,462.08
+CHA_CLA_051,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,2.16,464.3
+CHA_CLA_051,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.91,466.25
+CHA_CLA_051,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,4.43,470.74
+CHA_CLA_051,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.27,482.77
+CHA_CLA_051,14,1,1,Avez-vous vu une �ponge ?,0,6,0,4.3,487.12
+CHA_CLA_051,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.73,488.9
+CHA_CLA_051,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.22,491.18
+CHA_CLA_051,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.29,504.45
+CHA_CLA_051,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.21,505.7
+CHA_CLA_051,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.98,507.74
+CHA_CLA_051,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.87,509.66
+CHA_CLA_051,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.0,523.28
+CHA_CLA_051,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,3.33,526.67
+CHA_CLA_051,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.81,538.23
+CHA_CLA_051,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.03,540.31
+CHA_CLA_051,15,3,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.45,552.1
+CHA_CLA_051,15,3,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.59,553.74
+CHA_CLA_051,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,6.0,573.77
+CHA_CLA_051,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.47,576.28
+CHA_CLA_051,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.97,579.31
+CHA_CLA_051,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.89,594.45
+CHA_CLA_051,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.87,596.36
+CHA_CLA_051,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.55,597.97
+CHA_CLA_051,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.91,605.95
+CHA_CLA_051,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.96,616.38
+CHA_CLA_051,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.87,621.31
+CHA_CLA_051,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.04,632.11
+CHA_CLA_051,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,9.16,641.32
+CHA_CLA_051,18,3,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.86,650.5
+CHA_CLA_051,18,3,1,Il y a moins de trente moutons sur l'image. ,0,0,1,6.8,657.36
+CHA_CLA_051,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.44,667.75
+CHA_CLA_051,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.54,672.33
+CHA_CLA_051,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.61,681.51
+CHA_CLA_051,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,7.82,689.38
+CHA_CLA_051,19,3,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.1,698.41
+CHA_CLA_051,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.57,703.03
+CHA_CLA_051,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,4.12,717.85
+CHA_CLA_051,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,4.51,722.42
+CHA_CLA_051,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.13,724.61
+CHA_CLA_051,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,3.93,736.42
+CHA_CLA_051,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,5.19,741.66
+CHA_CLA_051,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.32,744.02
+CHA_CLA_051,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,3.37,755.16
+CHA_CLA_051,20,3,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.48,756.69
+CHA_CLA_051,20,3,2,On peut apercevoir un clocher. ,0,0,1,2.06,758.8
+CHA_CLA_051,21,1,0,Les toits sont bleus. ,6,6,1,2.9,767.66
+CHA_CLA_051,21,2,0,Les toits sont bleus. ,6,6,1,1.92,775.2
+CHA_CLA_051,22,1,0,Il y a 5 bateaux. ,6,6,1,2.18,788.08
+CHA_CLA_051,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.83,790.96
+CHA_CLA_051,22,1,2,On peut voir un chien. ,6,0,0,2.12,793.13
+CHA_CLA_051,22,2,0,Il y a 5 bateaux. ,0,6,0,2.54,806.69
+CHA_CLA_051,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.91,808.65
+CHA_CLA_051,22,2,2,On peut voir un chien. ,0,0,1,2.09,810.79
+CHA_CLA_051,22,3,0,Il y a 5 bateaux. ,6,6,1,2.27,821.74
+CHA_CLA_051,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.88,823.67
+CHA_CLA_051,22,3,2,On peut voir un chien. ,0,0,1,1.34,825.06
+CHA_CLA_051,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,5.3,836.37
+CHA_CLA_051,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,3.31,845.27
+CHA_CLA_051,23,3,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,1.85,855.58
+CHA_CLA_051,24,1,0,Les tapis sont align�s. ,0,0,1,4.9,870.14
+CHA_CLA_051,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,4.87,875.06
+CHA_CLA_051,24,1,2,L'armoire est ouverte. ,0,0,1,5.74,880.85
+CHA_CLA_051,24,2,0,Les tapis sont align�s. ,6,0,0,3.92,894.35
+CHA_CLA_051,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.78,896.19
+CHA_CLA_051,24,2,2,L'armoire est ouverte. ,0,0,1,1.46,897.7
+CHA_CLA_051,24,3,0,Les tapis sont align�s. ,0,0,1,1.51,909.62
+CHA_CLA_051,24,3,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.01,911.69
+CHA_CLA_051,24,3,2,L'armoire est ouverte. ,0,0,1,1.37,913.11
+CHA_CLA_051,25,1,0,Il y a plus de 10 pommes.,0,0,1,3.51,922.12
+CHA_CLA_051,26,1,0,Les costumes sont identiques. ,6,6,1,2.52,930.35
+CHA_CLA_051,26,2,0,Les costumes sont identiques. ,6,6,1,1.48,937.79
+CHA_CLA_051,27,1,0,Les �l�phants sont parfaitement sym�triques. ,6,0,0,2.92,946.43
+CHA_CLA_051,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,5.75,960.99
+CHA_CLA_051,27,3,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.23,968.41
+CHA_CLA_051,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,3.79,978.35
+CHA_CLA_051,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,1.49,989.9
+CHA_CLA_051,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,2.72,998.99
+CHA_CLA_051,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.17,1008.45
+CHA_CLA_051,29,3,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.52,1016.57
+CHA_CLA_051,29,4,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.02,1024.2
+CHA_CLA_051,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.09,1033.73
+CHA_CLA_051,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,2.12,1043.58
+CHA_CLA_051,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.97,1053.91
+CHA_CLA_051,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.13,1056.11
+CHA_CLA_051,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.54,1065.58
+CHA_CLA_051,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.85,1067.49

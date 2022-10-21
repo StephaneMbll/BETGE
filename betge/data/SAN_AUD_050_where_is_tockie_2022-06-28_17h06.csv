@@ -1,0 +1,125 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SAN_AUD_050,100,1,0,Les nuages sont gris. ,6,0,0,3.46,73.68
+SAN_AUD_050,100,2,0,Les nuages sont gris. ,0,0,1,1.11,80.2
+SAN_AUD_050,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.09,90.2
+SAN_AUD_050,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.05,96.77
+SAN_AUD_050,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.88,108.2
+SAN_AUD_050,102,2,0,Avez-vous vu un �l�phant ? ,0,6,0,1.02,117.88
+SAN_AUD_050,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.02,141.51
+SAN_AUD_050,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,5.07,146.62
+SAN_AUD_050,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.27,155.67
+SAN_AUD_050,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.01,164.09
+SAN_AUD_050,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.19,178.19
+SAN_AUD_050,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.25,182.48
+SAN_AUD_050,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,3.03,185.55
+SAN_AUD_050,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.38,202.04
+SAN_AUD_050,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.77,204.85
+SAN_AUD_050,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,3.18,208.07
+SAN_AUD_050,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.23,216.36
+SAN_AUD_050,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.94,219.34
+SAN_AUD_050,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.26,228.42
+SAN_AUD_050,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,4.45,232.91
+SAN_AUD_050,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.76,234.71
+SAN_AUD_050,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.93,241.1
+SAN_AUD_050,4,2,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,4.03,245.17
+SAN_AUD_050,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.24,246.44
+SAN_AUD_050,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,2.23,253.34
+SAN_AUD_050,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.94,258.33
+SAN_AUD_050,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,4.33,270.89
+SAN_AUD_050,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,3.66,274.6
+SAN_AUD_050,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,3.2,282.88
+SAN_AUD_050,7,1,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,5.36,288.29
+SAN_AUD_050,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.46,297.2
+SAN_AUD_050,7,2,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,5.42,302.66
+SAN_AUD_050,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.29,310.72
+SAN_AUD_050,7,3,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.65,312.41
+SAN_AUD_050,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,3.21,324.14
+SAN_AUD_050,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,6.05,338.96
+SAN_AUD_050,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,4.45,350.58
+SAN_AUD_050,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.91,353.54
+SAN_AUD_050,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.24,362.67
+SAN_AUD_050,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.95,364.66
+SAN_AUD_050,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.6,372.08
+SAN_AUD_050,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.07,374.2
+SAN_AUD_050,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.96,382.15
+SAN_AUD_050,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.25,384.45
+SAN_AUD_050,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.96,394.79
+SAN_AUD_050,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,3.14,397.99
+SAN_AUD_050,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,3.56,401.61
+SAN_AUD_050,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.88,407.59
+SAN_AUD_050,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.35,419.73
+SAN_AUD_050,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,2.17,421.95
+SAN_AUD_050,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.35,425.34
+SAN_AUD_050,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,5.34,430.74
+SAN_AUD_050,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.48,445.23
+SAN_AUD_050,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.59,446.87
+SAN_AUD_050,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.34,448.25
+SAN_AUD_050,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.98,450.28
+SAN_AUD_050,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.74,463.02
+SAN_AUD_050,14,1,1,Avez-vous vu une �ponge ?,0,6,0,2.5,465.57
+SAN_AUD_050,14,1,2,Avez-vous vu des serviettes usag�es ?,0,6,0,5.18,470.8
+SAN_AUD_050,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,3.7,474.55
+SAN_AUD_050,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.68,491.67
+SAN_AUD_050,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.25,492.96
+SAN_AUD_050,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.51,495.52
+SAN_AUD_050,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.8,497.36
+SAN_AUD_050,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,7.25,515.5
+SAN_AUD_050,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.85,520.4
+SAN_AUD_050,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.58,533.84
+SAN_AUD_050,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.12,536.02
+SAN_AUD_050,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.67,549.65
+SAN_AUD_050,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,2.58,552.28
+SAN_AUD_050,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.87,555.21
+SAN_AUD_050,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,5.11,570.65
+SAN_AUD_050,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.7,573.4
+SAN_AUD_050,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.64,575.09
+SAN_AUD_050,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.12,585.0
+SAN_AUD_050,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.67,596.65
+SAN_AUD_050,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,11.98,608.67
+SAN_AUD_050,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.39,617.19
+SAN_AUD_050,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.39,619.64
+SAN_AUD_050,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.38,630.53
+SAN_AUD_050,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.26,633.84
+SAN_AUD_050,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.79,642.85
+SAN_AUD_050,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.68,645.59
+SAN_AUD_050,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,3.68,662.35
+SAN_AUD_050,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.93,664.33
+SAN_AUD_050,20,1,2,On peut apercevoir un clocher. ,0,0,1,3.16,667.55
+SAN_AUD_050,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.75,678.9
+SAN_AUD_050,20,2,1,La cal�che est tir�e par deux chevaux. ,6,0,0,4.71,683.66
+SAN_AUD_050,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.55,685.26
+SAN_AUD_050,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,1.51,695.36
+SAN_AUD_050,20,3,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.48,697.9
+SAN_AUD_050,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.56,699.51
+SAN_AUD_050,21,1,0,Les toits sont bleus. ,0,6,0,3.3,708.74
+SAN_AUD_050,21,2,0,Les toits sont bleus. ,6,6,1,1.44,718.43
+SAN_AUD_050,22,1,0,Il y a 5 bateaux. ,6,6,1,2.38,730.18
+SAN_AUD_050,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,4.79,735.03
+SAN_AUD_050,22,1,2,On peut voir un chien. ,6,0,0,2.1,737.17
+SAN_AUD_050,22,2,0,Il y a 5 bateaux. ,6,6,1,4.03,751.04
+SAN_AUD_050,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.33,752.42
+SAN_AUD_050,22,2,2,On peut voir un chien. ,0,0,1,3.34,755.81
+SAN_AUD_050,22,3,0,Il y a 5 bateaux. ,6,6,1,2.43,767.63
+SAN_AUD_050,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.14,768.83
+SAN_AUD_050,22,3,2,On peut voir un chien. ,0,0,1,1.13,770.01
+SAN_AUD_050,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,3.41,779.22
+SAN_AUD_050,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,3.62,790.42
+SAN_AUD_050,24,1,0,Les tapis sont align�s. ,0,0,1,2.5,802.79
+SAN_AUD_050,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,3.13,805.97
+SAN_AUD_050,24,1,2,L'armoire est ouverte. ,0,0,1,4.18,810.2
+SAN_AUD_050,24,2,0,Les tapis sont align�s. ,0,0,1,1.27,822.21
+SAN_AUD_050,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.49,823.74
+SAN_AUD_050,24,2,2,L'armoire est ouverte. ,0,0,1,1.16,824.95
+SAN_AUD_050,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.66,832.17
+SAN_AUD_050,26,1,0,Les costumes sont identiques. ,6,6,1,2.22,842.39
+SAN_AUD_050,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,3.65,852.26
+SAN_AUD_050,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.68,861.4
+SAN_AUD_050,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,4.22,870.89
+SAN_AUD_050,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,1.31,878.78
+SAN_AUD_050,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,3.32,887.67
+SAN_AUD_050,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,1.02,895.03
+SAN_AUD_050,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.28,903.75
+SAN_AUD_050,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.82,914.86
+SAN_AUD_050,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.2,918.12
+SAN_AUD_050,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.81,927.51
+SAN_AUD_050,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.45,929.03

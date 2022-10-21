@@ -1,0 +1,105 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+PIN_BRU_022,100,1,0,Les nuages sont gris. ,0,0,1,1.77,51.67
+PIN_BRU_022,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.98,61.39
+PIN_BRU_022,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.81,72.4
+PIN_BRU_022,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.95,80.58
+PIN_BRU_022,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.66,104.03
+PIN_BRU_022,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.5,106.57
+PIN_BRU_022,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.88,112.42
+PIN_BRU_022,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.32,113.77
+PIN_BRU_022,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.5,120.73
+PIN_BRU_022,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.95,133.17
+PIN_BRU_022,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.64,134.85
+PIN_BRU_022,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.15,137.04
+PIN_BRU_022,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.57,148.7
+PIN_BRU_022,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.32,150.06
+PIN_BRU_022,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.05,151.15
+PIN_BRU_022,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,1.45,161.68
+PIN_BRU_022,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.45,163.17
+PIN_BRU_022,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.41,165.63
+PIN_BRU_022,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.16,173.44
+PIN_BRU_022,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.82,175.29
+PIN_BRU_022,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.91,180.11
+PIN_BRU_022,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,3.44,183.6
+PIN_BRU_022,4,1,2,Avez-vous vu une corde à sauter ? ,0,6,0,0.75,184.39
+PIN_BRU_022,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.53,190.54
+PIN_BRU_022,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.0,192.57
+PIN_BRU_022,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.31,193.93
+PIN_BRU_022,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.13,201.81
+PIN_BRU_022,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.45,204.31
+PIN_BRU_022,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.44,214.26
+PIN_BRU_022,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.46,217.76
+PIN_BRU_022,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.69,224.12
+PIN_BRU_022,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.19,228.36
+PIN_BRU_022,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.68,234.43
+PIN_BRU_022,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.99,235.46
+PIN_BRU_022,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,2.45,244.49
+PIN_BRU_022,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,0.78,254.72
+PIN_BRU_022,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.14,263.53
+PIN_BRU_022,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,3.35,266.92
+PIN_BRU_022,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.49,273.76
+PIN_BRU_022,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.99,275.8
+PIN_BRU_022,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.7,283.69
+PIN_BRU_022,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.58,286.32
+PIN_BRU_022,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,4.39,290.75
+PIN_BRU_022,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.67,296.29
+PIN_BRU_022,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.27,307.12
+PIN_BRU_022,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.81,308.97
+PIN_BRU_022,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.9,311.91
+PIN_BRU_022,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,3.35,315.31
+PIN_BRU_022,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.25,326.91
+PIN_BRU_022,14,1,1,Avez-vous vu une éponge ?,6,6,1,2.06,329.0
+PIN_BRU_022,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.21,331.25
+PIN_BRU_022,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.91,333.2
+PIN_BRU_022,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,6.52,350.21
+PIN_BRU_022,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.32,354.57
+PIN_BRU_022,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.8,366.65
+PIN_BRU_022,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,0.87,367.56
+PIN_BRU_022,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.9,381.33
+PIN_BRU_022,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.87,383.25
+PIN_BRU_022,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.69,386.98
+PIN_BRU_022,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.86,395.19
+PIN_BRU_022,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.92,405.43
+PIN_BRU_022,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.91,410.38
+PIN_BRU_022,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.17,417.85
+PIN_BRU_022,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,0.58,418.47
+PIN_BRU_022,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.58,427.51
+PIN_BRU_022,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.62,431.18
+PIN_BRU_022,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.76,439.62
+PIN_BRU_022,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.05,441.71
+PIN_BRU_022,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.94,452.55
+PIN_BRU_022,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,1.88,454.47
+PIN_BRU_022,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.19,456.7
+PIN_BRU_022,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.22,467.16
+PIN_BRU_022,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,0.98,468.19
+PIN_BRU_022,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.78,469.0
+PIN_BRU_022,21,1,0,Les toits sont bleus. ,0,6,0,2.39,477.12
+PIN_BRU_022,21,2,0,Les toits sont bleus. ,6,6,1,1.32,484.08
+PIN_BRU_022,22,1,0,Il y a 5 bateaux. ,6,6,1,2.21,494.66
+PIN_BRU_022,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.0,497.69
+PIN_BRU_022,22,1,2,On peut voir un chien. ,6,0,0,1.45,499.2
+PIN_BRU_022,22,2,0,Il y a 5 bateaux. ,6,6,1,0.84,509.58
+PIN_BRU_022,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.54,511.17
+PIN_BRU_022,22,2,2,On peut voir un chien. ,0,0,1,0.76,511.97
+PIN_BRU_022,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.21,519.9
+PIN_BRU_022,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.81,527.97
+PIN_BRU_022,24,1,0,Les tapis sont alignés. ,6,0,0,2.59,539.8
+PIN_BRU_022,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.64,543.48
+PIN_BRU_022,24,1,2,L'armoire est ouverte. ,0,0,1,1.66,545.19
+PIN_BRU_022,24,2,0,Les tapis sont alignés. ,0,0,1,1.21,555.95
+PIN_BRU_022,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.23,557.24
+PIN_BRU_022,24,2,2,L'armoire est ouverte. ,0,0,1,2.23,559.53
+PIN_BRU_022,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.5,566.47
+PIN_BRU_022,25,2,0,Il y a plus de 10 pommes.,0,0,1,1.34,573.21
+PIN_BRU_022,26,1,0,Les costumes sont identiques. ,6,6,1,3.03,581.17
+PIN_BRU_022,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.97,588.95
+PIN_BRU_022,28,1,0,Les toits sont à la même hauteur. ,6,0,0,3.05,597.68
+PIN_BRU_022,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.06,604.99
+PIN_BRU_022,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.03,612.38
+PIN_BRU_022,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.74,618.96
+PIN_BRU_022,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.89,628.84
+PIN_BRU_022,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.93,637.05
+PIN_BRU_022,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.57,645.85
+PIN_BRU_022,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.85,648.75
+PIN_BRU_022,31,2,0,Il y a du maïs sur l'image. ,6,6,1,2.17,658.15
+PIN_BRU_022,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.86,660.07

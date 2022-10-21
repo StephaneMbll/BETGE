@@ -1,0 +1,106 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+CAL_VIC_046,100,1,0,Les nuages sont gris. ,0,0,1,0.87,67.89
+CAL_VIC_046,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.06,76.91
+CAL_VIC_046,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,2.35,88.18
+CAL_VIC_046,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.1,109.93
+CAL_VIC_046,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.99,113.97
+CAL_VIC_046,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.86,119.39
+CAL_VIC_046,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.03,120.46
+CAL_VIC_046,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.38,126.58
+CAL_VIC_046,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.6,137.98
+CAL_VIC_046,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.38,139.39
+CAL_VIC_046,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.95,141.39
+CAL_VIC_046,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.18,151.93
+CAL_VIC_046,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,0.85,152.82
+CAL_VIC_046,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.22,154.09
+CAL_VIC_046,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.13,159.73
+CAL_VIC_046,3,1,1,Avez-vous vu une corde � sauter ? ,0,6,0,2.01,161.77
+CAL_VIC_046,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.8,166.83
+CAL_VIC_046,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,0.57,167.44
+CAL_VIC_046,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.16,171.76
+CAL_VIC_046,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,1.45,173.25
+CAL_VIC_046,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.91,174.2
+CAL_VIC_046,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.51,180.81
+CAL_VIC_046,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.06,183.93
+CAL_VIC_046,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.22,193.0
+CAL_VIC_046,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.76,194.81
+CAL_VIC_046,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.49,201.69
+CAL_VIC_046,7,1,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,2.42,204.17
+CAL_VIC_046,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.67,209.35
+CAL_VIC_046,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.93,210.34
+CAL_VIC_046,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.75,218.64
+CAL_VIC_046,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,3.15,227.45
+CAL_VIC_046,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,1.45,228.95
+CAL_VIC_046,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.06,236.02
+CAL_VIC_046,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.85,236.9
+CAL_VIC_046,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.59,242.82
+CAL_VIC_046,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.3,244.16
+CAL_VIC_046,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.18,250.48
+CAL_VIC_046,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.28,251.82
+CAL_VIC_046,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,3.62,255.47
+CAL_VIC_046,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.66,259.54
+CAL_VIC_046,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.6,270.67
+CAL_VIC_046,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.13,271.85
+CAL_VIC_046,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.99,273.88
+CAL_VIC_046,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,2.84,276.78
+CAL_VIC_046,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.63,286.95
+CAL_VIC_046,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.54,288.53
+CAL_VIC_046,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,0.8,289.37
+CAL_VIC_046,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,1.89,291.31
+CAL_VIC_046,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,0,6,0,1.75,302.56
+CAL_VIC_046,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.13,303.73
+CAL_VIC_046,14,1,2,Avez-vous vu des serviettes usag�es ?,0,6,0,1.46,305.23
+CAL_VIC_046,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.64,306.92
+CAL_VIC_046,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,0,6,0,1.26,317.6
+CAL_VIC_046,14,2,1,Avez-vous vu une �ponge ?,0,6,0,0.96,318.6
+CAL_VIC_046,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.0,319.63
+CAL_VIC_046,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.3,320.99
+CAL_VIC_046,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,1.77,333.19
+CAL_VIC_046,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.59,334.82
+CAL_VIC_046,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.43,345.82
+CAL_VIC_046,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.7,346.57
+CAL_VIC_046,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.75,358.45
+CAL_VIC_046,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.37,359.86
+CAL_VIC_046,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.2,361.1
+CAL_VIC_046,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.0,371.43
+CAL_VIC_046,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.77,374.24
+CAL_VIC_046,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.09,375.38
+CAL_VIC_046,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.73,382.44
+CAL_VIC_046,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.26,390.74
+CAL_VIC_046,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,1.83,392.62
+CAL_VIC_046,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.0,401.85
+CAL_VIC_046,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.52,404.42
+CAL_VIC_046,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.11,411.76
+CAL_VIC_046,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.42,413.22
+CAL_VIC_046,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.35,422.94
+CAL_VIC_046,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.79,424.78
+CAL_VIC_046,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.32,426.14
+CAL_VIC_046,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,1.19,434.68
+CAL_VIC_046,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,1.32,436.05
+CAL_VIC_046,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.97,437.05
+CAL_VIC_046,21,1,0,Les toits sont bleus. ,0,6,0,1.93,444.26
+CAL_VIC_046,22,1,0,Il y a 5 bateaux. ,6,6,1,1.09,453.46
+CAL_VIC_046,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.54,456.05
+CAL_VIC_046,22,1,2,On peut voir un chien. ,0,0,1,1.58,457.67
+CAL_VIC_046,22,2,0,Il y a 5 bateaux. ,6,6,1,0.75,466.74
+CAL_VIC_046,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.79,467.57
+CAL_VIC_046,22,2,2,On peut voir un chien. ,0,0,1,1.1,468.71
+CAL_VIC_046,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.62,476.46
+CAL_VIC_046,24,1,0,Les tapis sont align�s. ,6,0,0,2.53,488.6
+CAL_VIC_046,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.78,490.42
+CAL_VIC_046,24,1,2,L'armoire est ouverte. ,0,0,1,1.22,491.69
+CAL_VIC_046,24,2,0,Les tapis sont align�s. ,0,0,1,0.41,501.27
+CAL_VIC_046,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,0.86,502.19
+CAL_VIC_046,24,2,2,L'armoire est ouverte. ,0,0,1,0.95,503.18
+CAL_VIC_046,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.13,509.14
+CAL_VIC_046,26,1,0,Les costumes sont identiques. ,6,6,1,1.34,515.36
+CAL_VIC_046,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.44,521.85
+CAL_VIC_046,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,1.83,528.77
+CAL_VIC_046,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,2.36,536.54
+CAL_VIC_046,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,0.65,542.42
+CAL_VIC_046,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.72,551.3
+CAL_VIC_046,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.51,559.05
+CAL_VIC_046,31,1,0,Il y a du ma�s sur l'image. ,0,6,0,1.39,568.08
+CAL_VIC_046,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.66,569.78
+CAL_VIC_046,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,0.53,577.64
+CAL_VIC_046,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.71,578.39

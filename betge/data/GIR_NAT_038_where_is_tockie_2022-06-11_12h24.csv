@@ -1,0 +1,85 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+GIR_NAT_038,100,1,0,Les nuages sont gris. ,0,0,1,2.6,80.5
+GIR_NAT_038,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.31,90.92
+GIR_NAT_038,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,6.64,107.67
+GIR_NAT_038,102,2,0,Avez-vous vu un �l�phant ? ,0,6,0,1.41,116.91
+GIR_NAT_038,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.59,140.29
+GIR_NAT_038,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,0,6,0,5.49,145.82
+GIR_NAT_038,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.09,154.74
+GIR_NAT_038,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,2.65,157.44
+GIR_NAT_038,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.87,165.67
+GIR_NAT_038,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.83,178.4
+GIR_NAT_038,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.37,180.8
+GIR_NAT_038,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.63,183.48
+GIR_NAT_038,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.54,191.25
+GIR_NAT_038,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.28,193.59
+GIR_NAT_038,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.32,200.8
+GIR_NAT_038,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,7.39,208.24
+GIR_NAT_038,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.78,210.07
+GIR_NAT_038,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,6,0,0,2.37,217.62
+GIR_NAT_038,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.5,220.17
+GIR_NAT_038,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,6,0,0,2.65,229.02
+GIR_NAT_038,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.3,232.36
+GIR_NAT_038,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,3.07,243.93
+GIR_NAT_038,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.15,246.12
+GIR_NAT_038,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,4.19,255.61
+GIR_NAT_038,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,6.5,262.15
+GIR_NAT_038,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.53,270.48
+GIR_NAT_038,7,2,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,2.97,273.51
+GIR_NAT_038,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,10.69,291.46
+GIR_NAT_038,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,3.83,301.37
+GIR_NAT_038,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.1,304.5
+GIR_NAT_038,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.81,311.98
+GIR_NAT_038,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.77,313.79
+GIR_NAT_038,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.52,321.02
+GIR_NAT_038,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,0,6,0,1.71,322.79
+GIR_NAT_038,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,5.95,328.79
+GIR_NAT_038,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.69,336.07
+GIR_NAT_038,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.39,348.46
+GIR_NAT_038,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.42,349.93
+GIR_NAT_038,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.64,353.61
+GIR_NAT_038,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.18,355.84
+GIR_NAT_038,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,3.86,369.95
+GIR_NAT_038,14,1,1,Avez-vous vu une �ponge ?,0,6,0,2.21,372.2
+GIR_NAT_038,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,3.22,375.46
+GIR_NAT_038,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.29,377.79
+GIR_NAT_038,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.46,391.5
+GIR_NAT_038,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.41,394.94
+GIR_NAT_038,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.93,408.08
+GIR_NAT_038,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.73,409.86
+GIR_NAT_038,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.08,422.94
+GIR_NAT_038,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.04,425.03
+GIR_NAT_038,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.94,427.01
+GIR_NAT_038,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,5.15,437.57
+GIR_NAT_038,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.86,448.25
+GIR_NAT_038,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,7.69,456.0
+GIR_NAT_038,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.3,467.0
+GIR_NAT_038,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.34,471.38
+GIR_NAT_038,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.29,481.7
+GIR_NAT_038,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.76,483.5
+GIR_NAT_038,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,2.35,493.52
+GIR_NAT_038,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.72,496.29
+GIR_NAT_038,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.16,498.5
+GIR_NAT_038,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,2.01,508.39
+GIR_NAT_038,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,3.66,512.1
+GIR_NAT_038,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.41,513.56
+GIR_NAT_038,21,1,0,Les toits sont bleus. ,6,6,1,1.95,521.47
+GIR_NAT_038,22,1,0,Il y a 5 bateaux. ,6,6,1,4.71,535.12
+GIR_NAT_038,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.46,538.64
+GIR_NAT_038,22,1,2,On peut voir un chien. ,6,0,0,2.25,540.92
+GIR_NAT_038,22,2,0,Il y a 5 bateaux. ,6,6,1,2.58,552.53
+GIR_NAT_038,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.37,554.95
+GIR_NAT_038,22,2,2,On peut voir un chien. ,0,0,1,1.17,556.16
+GIR_NAT_038,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,3.67,565.58
+GIR_NAT_038,24,1,0,Les tapis sont align�s. ,6,0,0,2.81,578.73
+GIR_NAT_038,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,4.12,582.89
+GIR_NAT_038,24,1,2,L'armoire est ouverte. ,0,0,1,1.94,584.88
+GIR_NAT_038,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.59,592.09
+GIR_NAT_038,26,1,0,Les costumes sont identiques. ,6,6,1,3.09,600.68
+GIR_NAT_038,27,1,0,Les �l�phants sont parfaitement sym�triques. ,6,0,0,2.66,609.12
+GIR_NAT_038,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,2.64,617.65
+GIR_NAT_038,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,1.59,626.78
+GIR_NAT_038,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.61,636.15
+GIR_NAT_038,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.59,646.38
+GIR_NAT_038,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.84,655.7
+GIR_NAT_038,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.14,657.89

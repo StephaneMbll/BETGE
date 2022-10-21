@@ -1,0 +1,155 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+PIC_SER_052,100,1,0,Les nuages sont gris. ,0,0,1,4.5,44.52
+PIC_SER_052,100,2,0,Les nuages sont gris. ,0,0,1,0.9,51.45
+PIC_SER_052,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.2,61.8
+PIC_SER_052,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,4.32,78.51
+PIC_SER_052,102,2,0,Avez-vous vu un éléphant ? ,0,6,0,1.14,88.87
+PIC_SER_052,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,5.76,113.74
+PIC_SER_052,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.44,117.23
+PIC_SER_052,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.34,127.58
+PIC_SER_052,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.94,129.56
+PIC_SER_052,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.16,139.3
+PIC_SER_052,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.36,140.7
+PIC_SER_052,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.07,148.49
+PIC_SER_052,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.16,161.53
+PIC_SER_052,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.96,165.53
+PIC_SER_052,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,4.92,170.49
+PIC_SER_052,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.23,180.72
+PIC_SER_052,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.02,182.77
+PIC_SER_052,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.76,185.58
+PIC_SER_052,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,1.87,195.91
+PIC_SER_052,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.38,200.34
+PIC_SER_052,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.35,201.74
+PIC_SER_052,2,4,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.07,216.92
+PIC_SER_052,2,4,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.52,219.5
+PIC_SER_052,2,4,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.47,221.0
+PIC_SER_052,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.93,227.7
+PIC_SER_052,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,5.36,233.11
+PIC_SER_052,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.72,240.17
+PIC_SER_052,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.49,241.71
+PIC_SER_052,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.84,246.87
+PIC_SER_052,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.36,250.27
+PIC_SER_052,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.08,252.39
+PIC_SER_052,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.95,262.68
+PIC_SER_052,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.75,264.47
+PIC_SER_052,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.62,266.14
+PIC_SER_052,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,5.43,276.03
+PIC_SER_052,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.19,279.26
+PIC_SER_052,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.34,289.21
+PIC_SER_052,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.04,292.29
+PIC_SER_052,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.49,299.77
+PIC_SER_052,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.02,303.83
+PIC_SER_052,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.0,318.13
+PIC_SER_052,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.61,320.78
+PIC_SER_052,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.37,333.44
+PIC_SER_052,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.15,336.64
+PIC_SER_052,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.14,344.72
+PIC_SER_052,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.14,348.91
+PIC_SER_052,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.87,359.29
+PIC_SER_052,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.01,360.35
+PIC_SER_052,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.46,370.7
+PIC_SER_052,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.18,379.92
+PIC_SER_052,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,4.81,390.37
+PIC_SER_052,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.26,391.67
+PIC_SER_052,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.26,401.22
+PIC_SER_052,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.49,404.75
+PIC_SER_052,9,3,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.33,411.74
+PIC_SER_052,9,3,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.62,412.39
+PIC_SER_052,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.7,419.61
+PIC_SER_052,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.27,421.93
+PIC_SER_052,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.1,429.1
+PIC_SER_052,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.34,430.48
+PIC_SER_052,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.03,437.89
+PIC_SER_052,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.28,440.22
+PIC_SER_052,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,0.94,441.22
+PIC_SER_052,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.45,450.86
+PIC_SER_052,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.43,453.33
+PIC_SER_052,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.81,457.2
+PIC_SER_052,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.15,463.44
+PIC_SER_052,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.1,476.56
+PIC_SER_052,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.44,479.05
+PIC_SER_052,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.64,482.73
+PIC_SER_052,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,8.92,491.69
+PIC_SER_052,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,3.03,504.78
+PIC_SER_052,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.41,506.23
+PIC_SER_052,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.57,509.85
+PIC_SER_052,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.7,511.59
+PIC_SER_052,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,6.88,528.27
+PIC_SER_052,14,1,1,Avez-vous vu une éponge ?,6,6,1,2.07,530.4
+PIC_SER_052,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.24,532.68
+PIC_SER_052,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.44,536.16
+PIC_SER_052,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.4,548.79
+PIC_SER_052,14,2,1,Avez-vous vu une éponge ?,6,6,1,1.87,550.71
+PIC_SER_052,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,5.58,556.34
+PIC_SER_052,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.8,558.19
+PIC_SER_052,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.15,569.98
+PIC_SER_052,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.22,571.23
+PIC_SER_052,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.99,573.27
+PIC_SER_052,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.58,574.91
+PIC_SER_052,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,4.82,589.52
+PIC_SER_052,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.95,592.51
+PIC_SER_052,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.14,606.37
+PIC_SER_052,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.14,607.55
+PIC_SER_052,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.61,619.3
+PIC_SER_052,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.39,622.73
+PIC_SER_052,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.3,625.08
+PIC_SER_052,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.17,637.22
+PIC_SER_052,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,5.22,642.49
+PIC_SER_052,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.99,644.52
+PIC_SER_052,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.07,656.05
+PIC_SER_052,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,4.91,661.0
+PIC_SER_052,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.54,662.6
+PIC_SER_052,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.5,671.05
+PIC_SER_052,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.64,679.78
+PIC_SER_052,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.05,688.93
+PIC_SER_052,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.82,692.8
+PIC_SER_052,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.6,702.52
+PIC_SER_052,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.23,705.81
+PIC_SER_052,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.21,716.72
+PIC_SER_052,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.21,720.99
+PIC_SER_052,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.2,732.02
+PIC_SER_052,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.46,733.54
+PIC_SER_052,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.61,743.27
+PIC_SER_052,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.73,746.06
+PIC_SER_052,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.5,748.61
+PIC_SER_052,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.24,759.0
+PIC_SER_052,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.74,760.79
+PIC_SER_052,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.74,762.57
+PIC_SER_052,21,1,0,Les toits sont bleus. ,0,6,0,3.37,771.01
+PIC_SER_052,21,2,0,Les toits sont bleus. ,0,6,0,9.53,787.56
+PIC_SER_052,22,1,0,Il y a 5 bateaux. ,0,6,0,3.49,802.42
+PIC_SER_052,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,5.07,807.55
+PIC_SER_052,22,1,2,On peut voir un chien. ,6,0,0,3.02,810.62
+PIC_SER_052,22,2,0,Il y a 5 bateaux. ,6,6,1,3.45,822.64
+PIC_SER_052,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.87,824.57
+PIC_SER_052,22,2,2,On peut voir un chien. ,0,0,1,1.49,826.1
+PIC_SER_052,22,3,0,Il y a 5 bateaux. ,6,6,1,1.53,836.13
+PIC_SER_052,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.62,837.8
+PIC_SER_052,22,3,2,On peut voir un chien. ,0,0,1,1.3,839.15
+PIC_SER_052,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,5.24,849.67
+PIC_SER_052,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,3.59,860.22
+PIC_SER_052,23,3,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.51,868.79
+PIC_SER_052,24,1,0,Les tapis sont alignés. ,6,0,0,3.77,881.72
+PIC_SER_052,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,2.96,884.74
+PIC_SER_052,24,1,2,L'armoire est ouverte. ,0,0,1,1.52,886.3
+PIC_SER_052,24,2,0,Les tapis sont alignés. ,0,0,1,2.64,898.46
+PIC_SER_052,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.8,900.32
+PIC_SER_052,24,2,2,L'armoire est ouverte. ,0,0,1,1.25,901.62
+PIC_SER_052,24,3,0,Les tapis sont alignés. ,0,0,1,1.45,912.41
+PIC_SER_052,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,2.9,915.37
+PIC_SER_052,24,3,2,L'armoire est ouverte. ,0,0,1,1.39,916.81
+PIC_SER_052,25,1,0,Il y a plus de 10 pommes.,0,0,1,5.11,927.61
+PIC_SER_052,26,1,0,Les costumes sont identiques. ,6,6,1,2.92,940.27
+PIC_SER_052,26,2,0,Les costumes sont identiques. ,6,6,1,1.42,947.37
+PIC_SER_052,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,3.22,957.09
+PIC_SER_052,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.28,966.4
+PIC_SER_052,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.81,974.48
+PIC_SER_052,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.16,981.29
+PIC_SER_052,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.05,990.49
+PIC_SER_052,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.36,1000.06
+PIC_SER_052,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.22,1014.03
+PIC_SER_052,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.43,1023.44
+PIC_SER_052,31,1,0,Il y a du maïs sur l'image. ,6,6,1,3.66,1034.49
+PIC_SER_052,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,4.93,1039.48
+PIC_SER_052,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.64,1048.62
+PIC_SER_052,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.09,1050.77

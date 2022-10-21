@@ -1,0 +1,125 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+BOU_EMM_067,100,1,0,Les nuages sont gris. ,0,0,1,2.57,73.88
+BOU_EMM_067,100,2,0,Les nuages sont gris. ,0,0,1,2.86,84.92
+BOU_EMM_067,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.87,96.61
+BOU_EMM_067,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.4,107.28
+BOU_EMM_067,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.91,130.97
+BOU_EMM_067,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.31,135.32
+BOU_EMM_067,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.28,141.17
+BOU_EMM_067,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.82,142.03
+BOU_EMM_067,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.24,147.95
+BOU_EMM_067,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.66,159.17
+BOU_EMM_067,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.6,160.81
+BOU_EMM_067,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.88,163.72
+BOU_EMM_067,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.02,173.73
+BOU_EMM_067,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.69,174.47
+BOU_EMM_067,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.91,175.42
+BOU_EMM_067,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.74,181.47
+BOU_EMM_067,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.98,183.49
+BOU_EMM_067,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.96,189.97
+BOU_EMM_067,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.86,190.87
+BOU_EMM_067,3,3,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.28,194.94
+BOU_EMM_067,3,3,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.36,195.34
+BOU_EMM_067,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.01,198.99
+BOU_EMM_067,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.75,200.78
+BOU_EMM_067,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.18,202.01
+BOU_EMM_067,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.0,208.73
+BOU_EMM_067,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.98,210.76
+BOU_EMM_067,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.34,223.43
+BOU_EMM_067,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.14,227.62
+BOU_EMM_067,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.12,236.24
+BOU_EMM_067,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.18,237.46
+BOU_EMM_067,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.35,244.03
+BOU_EMM_067,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.97,246.05
+BOU_EMM_067,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.11,251.74
+BOU_EMM_067,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.84,252.62
+BOU_EMM_067,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.69,260.82
+BOU_EMM_067,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.49,270.89
+BOU_EMM_067,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.89,273.82
+BOU_EMM_067,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.04,280.54
+BOU_EMM_067,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.59,282.17
+BOU_EMM_067,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.13,288.68
+BOU_EMM_067,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.94,290.67
+BOU_EMM_067,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,0.97,296.37
+BOU_EMM_067,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.86,297.27
+BOU_EMM_067,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.14,303.66
+BOU_EMM_067,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.77,305.48
+BOU_EMM_067,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.11,307.64
+BOU_EMM_067,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.38,313.62
+BOU_EMM_067,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.32,329.02
+BOU_EMM_067,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.34,330.41
+BOU_EMM_067,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.94,333.38
+BOU_EMM_067,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.53,335.98
+BOU_EMM_067,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.82,348.2
+BOU_EMM_067,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.06,349.3
+BOU_EMM_067,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,6.74,356.07
+BOU_EMM_067,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.66,358.78
+BOU_EMM_067,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.18,370.61
+BOU_EMM_067,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.64,372.29
+BOU_EMM_067,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.55,373.88
+BOU_EMM_067,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.19,376.1
+BOU_EMM_067,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.33,388.42
+BOU_EMM_067,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.74,389.21
+BOU_EMM_067,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.66,389.91
+BOU_EMM_067,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,1.03,390.98
+BOU_EMM_067,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.87,401.1
+BOU_EMM_067,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.19,402.32
+BOU_EMM_067,14,3,2,Avez-vous vu des serviettes usagées ?,0,6,0,0.72,403.09
+BOU_EMM_067,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.52,404.65
+BOU_EMM_067,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.95,417.03
+BOU_EMM_067,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.43,419.5
+BOU_EMM_067,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,0.95,430.73
+BOU_EMM_067,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.05,431.83
+BOU_EMM_067,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.23,443.62
+BOU_EMM_067,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.53,447.2
+BOU_EMM_067,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.75,449.0
+BOU_EMM_067,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.53,460.08
+BOU_EMM_067,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.03,461.17
+BOU_EMM_067,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.17,463.39
+BOU_EMM_067,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.03,475.6
+BOU_EMM_067,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,0.8,476.45
+BOU_EMM_067,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.91,477.41
+BOU_EMM_067,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.33,483.99
+BOU_EMM_067,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.25,492.17
+BOU_EMM_067,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.03,494.25
+BOU_EMM_067,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.84,503.61
+BOU_EMM_067,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.02,506.69
+BOU_EMM_067,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.08,515.1
+BOU_EMM_067,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,0.39,515.54
+BOU_EMM_067,19,3,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.42,522.55
+BOU_EMM_067,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,0.65,523.26
+BOU_EMM_067,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.12,534.67
+BOU_EMM_067,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,1.92,536.64
+BOU_EMM_067,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.75,538.43
+BOU_EMM_067,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.7,547.37
+BOU_EMM_067,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.44,548.86
+BOU_EMM_067,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.27,550.17
+BOU_EMM_067,21,1,0,Les toits sont bleus. ,6,6,1,2.05,557.1
+BOU_EMM_067,21,2,0,Les toits sont bleus. ,6,6,1,0.96,563.55
+BOU_EMM_067,22,1,0,Il y a 5 bateaux. ,6,6,1,1.32,573.5
+BOU_EMM_067,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.01,575.56
+BOU_EMM_067,22,1,2,On peut voir un chien. ,6,0,0,1.23,576.84
+BOU_EMM_067,22,2,0,Il y a 5 bateaux. ,6,6,1,0.85,586.08
+BOU_EMM_067,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.58,589.71
+BOU_EMM_067,22,2,2,On peut voir un chien. ,0,0,1,2.77,592.53
+BOU_EMM_067,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.48,600.22
+BOU_EMM_067,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.44,605.96
+BOU_EMM_067,24,1,0,Les tapis sont alignés. ,6,0,0,1.88,616.85
+BOU_EMM_067,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,2.54,619.45
+BOU_EMM_067,24,1,2,L'armoire est ouverte. ,6,0,0,1.66,621.14
+BOU_EMM_067,24,2,0,Les tapis sont alignés. ,0,0,1,1.15,631.12
+BOU_EMM_067,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,0.86,632.03
+BOU_EMM_067,24,2,2,L'armoire est ouverte. ,0,0,1,0.93,633.02
+BOU_EMM_067,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.33,639.34
+BOU_EMM_067,26,1,0,Les costumes sont identiques. ,6,6,1,1.66,646.01
+BOU_EMM_067,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.5,653.8
+BOU_EMM_067,28,1,0,Les toits sont à la même hauteur. ,6,0,0,1.97,660.95
+BOU_EMM_067,28,2,0,Les toits sont à la même hauteur. ,0,0,1,0.87,667.09
+BOU_EMM_067,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.24,674.81
+BOU_EMM_067,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.84,680.85
+BOU_EMM_067,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,1.94,689.49
+BOU_EMM_067,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.93,697.48
+BOU_EMM_067,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.54,706.49
+BOU_EMM_067,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.79,708.33
+BOU_EMM_067,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.53,715.89
+BOU_EMM_067,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.85,716.79

@@ -1,0 +1,125 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+GAU_MAR_044,100,1,0,Les nuages sont gris. ,0,0,1,2.75,78.87
+GAU_MAR_044,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,5.5,93.03
+GAU_MAR_044,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,10.29,114.79
+GAU_MAR_044,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,2.59,126.44
+GAU_MAR_044,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.8,149.0
+GAU_MAR_044,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,4.64,153.69
+GAU_MAR_044,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.0,163.2
+GAU_MAR_044,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.38,164.62
+GAU_MAR_044,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.67,171.72
+GAU_MAR_044,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.68,186.33
+GAU_MAR_044,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.19,189.58
+GAU_MAR_044,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.65,194.26
+GAU_MAR_044,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.24,205.89
+GAU_MAR_044,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.69,208.62
+GAU_MAR_044,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.57,211.24
+GAU_MAR_044,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.45,220.9
+GAU_MAR_044,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.88,223.81
+GAU_MAR_044,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.6,230.09
+GAU_MAR_044,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,5.72,235.86
+GAU_MAR_044,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.32,237.22
+GAU_MAR_044,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.74,245.04
+GAU_MAR_044,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.48,246.57
+GAU_MAR_044,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,0.69,247.29
+GAU_MAR_044,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,4.0,255.67
+GAU_MAR_044,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.99,258.7
+GAU_MAR_044,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,5.94,275.83
+GAU_MAR_044,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,6.0,281.87
+GAU_MAR_044,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.41,291.88
+GAU_MAR_044,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,11.42,303.34
+GAU_MAR_044,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.39,310.13
+GAU_MAR_044,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.38,313.55
+GAU_MAR_044,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.91,319.08
+GAU_MAR_044,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.39,320.53
+GAU_MAR_044,8,1,0,De quelle couleur est le t�l�phone ? ,0,0,1,7.48,334.35
+GAU_MAR_044,8,2,0,De quelle couleur est le t�l�phone ? ,0,0,1,3.14,344.44
+GAU_MAR_044,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,8.0,357.8
+GAU_MAR_044,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,6.33,364.18
+GAU_MAR_044,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.68,372.64
+GAU_MAR_044,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.51,375.19
+GAU_MAR_044,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.91,384.18
+GAU_MAR_044,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.69,387.91
+GAU_MAR_044,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.58,396.74
+GAU_MAR_044,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.55,398.34
+GAU_MAR_044,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.31,407.7
+GAU_MAR_044,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,7.18,414.94
+GAU_MAR_044,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,4.34,419.31
+GAU_MAR_044,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.17,427.43
+GAU_MAR_044,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,5.34,432.81
+GAU_MAR_044,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.93,435.78
+GAU_MAR_044,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.34,443.56
+GAU_MAR_044,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,3.45,457.94
+GAU_MAR_044,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,5.51,463.49
+GAU_MAR_044,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,5.34,468.88
+GAU_MAR_044,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,5.19,474.12
+GAU_MAR_044,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.27,486.68
+GAU_MAR_044,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,3.57,490.29
+GAU_MAR_044,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.95,492.29
+GAU_MAR_044,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,3.74,496.08
+GAU_MAR_044,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,5.28,510.59
+GAU_MAR_044,14,1,1,Avez-vous vu une �ponge ?,6,6,1,2.31,512.93
+GAU_MAR_044,14,1,2,Avez-vous vu des serviettes usag�es ?,0,6,0,3.33,516.3
+GAU_MAR_044,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,6,0,0,3.49,519.85
+GAU_MAR_044,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.32,531.73
+GAU_MAR_044,14,2,1,Avez-vous vu une �ponge ?,0,6,0,3.85,535.62
+GAU_MAR_044,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,3.26,538.94
+GAU_MAR_044,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,6.4,545.39
+GAU_MAR_044,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,7.04,561.48
+GAU_MAR_044,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.47,564.0
+GAU_MAR_044,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,4.5,579.7
+GAU_MAR_044,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.96,582.7
+GAU_MAR_044,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,5.2,597.26
+GAU_MAR_044,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,4.2,601.51
+GAU_MAR_044,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.99,605.55
+GAU_MAR_044,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.06,619.3
+GAU_MAR_044,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,2.53,621.87
+GAU_MAR_044,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,3.56,625.49
+GAU_MAR_044,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.17,633.61
+GAU_MAR_044,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.08,640.19
+GAU_MAR_044,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.98,652.76
+GAU_MAR_044,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,8.49,661.3
+GAU_MAR_044,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.89,670.18
+GAU_MAR_044,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,5.74,675.98
+GAU_MAR_044,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,6.89,692.25
+GAU_MAR_044,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,8.91,701.22
+GAU_MAR_044,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.21,710.47
+GAU_MAR_044,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,5.98,716.49
+GAU_MAR_044,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,6.48,730.84
+GAU_MAR_044,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.9,733.8
+GAU_MAR_044,20,1,2,On peut apercevoir un clocher. ,0,0,1,2.76,736.6
+GAU_MAR_044,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.21,746.34
+GAU_MAR_044,20,2,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.53,747.92
+GAU_MAR_044,20,2,2,On peut apercevoir un clocher. ,0,0,1,3.16,751.12
+GAU_MAR_044,21,1,0,Les toits sont bleus. ,0,6,0,5.65,761.61
+GAU_MAR_044,21,2,0,Les toits sont bleus. ,0,6,0,1.27,768.28
+GAU_MAR_044,22,1,0,Il y a 5 bateaux. ,6,6,1,2.07,778.23
+GAU_MAR_044,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,3.52,781.79
+GAU_MAR_044,22,1,2,On peut voir un chien. ,0,0,1,5.22,787.07
+GAU_MAR_044,22,2,0,Il y a 5 bateaux. ,6,6,1,1.84,797.31
+GAU_MAR_044,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,6.2,803.57
+GAU_MAR_044,22,2,2,On peut voir un chien. ,0,0,1,2.63,806.24
+GAU_MAR_044,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,5.26,816.46
+GAU_MAR_044,24,1,0,Les tapis sont align�s. ,6,0,0,8.31,835.47
+GAU_MAR_044,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,5.02,840.55
+GAU_MAR_044,24,1,2,L'armoire est ouverte. ,0,0,1,2.08,842.68
+GAU_MAR_044,24,2,0,Les tapis sont align�s. ,0,0,1,3.89,855.52
+GAU_MAR_044,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.6,857.18
+GAU_MAR_044,24,2,2,L'armoire est ouverte. ,0,0,1,2.12,859.35
+GAU_MAR_044,25,1,0,Il y a plus de 10 pommes.,0,0,1,4.68,868.91
+GAU_MAR_044,26,1,0,Les costumes sont identiques. ,6,6,1,7.35,881.26
+GAU_MAR_044,26,2,0,Les costumes sont identiques. ,6,6,1,5.36,893.03
+GAU_MAR_044,27,1,0,Les �l�phants sont parfaitement sym�triques. ,6,0,0,4.63,903.04
+GAU_MAR_044,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.83,911.09
+GAU_MAR_044,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,6.56,922.68
+GAU_MAR_044,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,2.43,930.93
+GAU_MAR_044,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,4.33,940.79
+GAU_MAR_044,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,4.34,951.03
+GAU_MAR_044,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.4,961.93
+GAU_MAR_044,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,7.12,976.52
+GAU_MAR_044,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,3.1,986.48
+GAU_MAR_044,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,5.61,992.14
+GAU_MAR_044,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,3.41,1002.96
+GAU_MAR_044,31,2,1,Au moins deux poires figurent sur l'image. ,0,6,0,1.94,1004.95
+GAU_MAR_044,31,3,0,Il y a du ma�s sur l'image. ,6,6,1,2.02,1014.08
+GAU_MAR_044,31,3,1,Au moins deux poires figurent sur l'image. ,6,6,1,16.21,1030.34

@@ -1,0 +1,81 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+JAK_FRA_032,100,1,0,Les nuages sont gris. ,6,0,0,13.78,47.52
+JAK_FRA_032,100,2,0,Les nuages sont gris. ,0,0,1,4.23,60.35
+JAK_FRA_032,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,5.19,73.28
+JAK_FRA_032,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,11.24,94.64
+JAK_FRA_032,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,6.1,123.62
+JAK_FRA_032,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,3.74,127.42
+JAK_FRA_032,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,6.04,140.6
+JAK_FRA_032,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,2.43,143.07
+JAK_FRA_032,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.49,154.85
+JAK_FRA_032,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.44,164.99
+JAK_FRA_032,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,7.02,180.63
+JAK_FRA_032,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.52,184.19
+JAK_FRA_032,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.33,188.56
+JAK_FRA_032,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.72,198.2
+JAK_FRA_032,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,3.46,201.71
+JAK_FRA_032,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.12,208.27
+JAK_FRA_032,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,5.02,213.32
+JAK_FRA_032,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,2.68,216.06
+JAK_FRA_032,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,3.58,224.99
+JAK_FRA_032,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.47,228.49
+JAK_FRA_032,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,6.42,243.32
+JAK_FRA_032,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,0.06,243.42
+JAK_FRA_032,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.47,251.3
+JAK_FRA_032,7,1,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,8.08,259.44
+JAK_FRA_032,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,4.91,272.06
+JAK_FRA_032,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.94,281.18
+JAK_FRA_032,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.73,282.95
+JAK_FRA_032,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.77,292.3
+JAK_FRA_032,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.09,296.43
+JAK_FRA_032,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,6.43,309.84
+JAK_FRA_032,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,5.03,314.93
+JAK_FRA_032,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,0,6,0,3.41,318.39
+JAK_FRA_032,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.98,324.51
+JAK_FRA_032,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,3.2,338.56
+JAK_FRA_032,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,5.84,344.44
+JAK_FRA_032,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,5.85,350.32
+JAK_FRA_032,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,4.59,354.97
+JAK_FRA_032,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,3.02,369.02
+JAK_FRA_032,14,1,1,Avez-vous vu une �ponge ?,6,6,1,1.83,370.89
+JAK_FRA_032,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.67,372.6
+JAK_FRA_032,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.3,374.94
+JAK_FRA_032,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,7.49,393.21
+JAK_FRA_032,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.26,395.52
+JAK_FRA_032,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.66,411.29
+JAK_FRA_032,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.73,414.06
+JAK_FRA_032,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,6.57,430.55
+JAK_FRA_032,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.55,434.14
+JAK_FRA_032,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.76,436.96
+JAK_FRA_032,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.88,449.8
+JAK_FRA_032,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.63,461.73
+JAK_FRA_032,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,8.83,470.61
+JAK_FRA_032,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.32,482.99
+JAK_FRA_032,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.3,486.33
+JAK_FRA_032,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,5.3,500.53
+JAK_FRA_032,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.43,503.01
+JAK_FRA_032,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.88,504.95
+JAK_FRA_032,21,1,0,Les toits sont bleus. ,6,6,1,2.28,512.62
+JAK_FRA_032,21,2,0,Les toits sont bleus. ,6,6,1,2.35,522.38
+JAK_FRA_032,22,1,0,Il y a 5 bateaux. ,6,6,1,2.69,533.52
+JAK_FRA_032,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,6.0,539.57
+JAK_FRA_032,22,1,2,On peut voir un chien. ,6,0,0,2.3,541.92
+JAK_FRA_032,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,6.11,565.54
+JAK_FRA_032,24,1,0,Les tapis sont align�s. ,0,0,1,2.96,578.79
+JAK_FRA_032,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,1.73,580.56
+JAK_FRA_032,24,1,2,L'armoire est ouverte. ,0,0,1,2.51,583.13
+JAK_FRA_032,24,2,0,Les tapis sont align�s. ,6,0,0,2.42,595.55
+JAK_FRA_032,24,2,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,2.83,598.43
+JAK_FRA_032,24,2,2,L'armoire est ouverte. ,0,0,1,3.14,601.61
+JAK_FRA_032,25,1,0,Il y a plus de 10 pommes.,0,0,1,7.02,614.49
+JAK_FRA_032,26,1,0,Les costumes sont identiques. ,6,6,1,5.69,626.11
+JAK_FRA_032,26,2,0,Les costumes sont identiques. ,6,6,1,1.91,634.95
+JAK_FRA_032,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,5.02,645.95
+JAK_FRA_032,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,5.93,657.61
+JAK_FRA_032,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,2.61,665.69
+JAK_FRA_032,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,6.53,677.98
+JAK_FRA_032,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,1.81,686.5
+JAK_FRA_032,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.73,696.8
+JAK_FRA_032,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,2.98,710.67
+JAK_FRA_032,31,1,0,Il y a du ma�s sur l'image. ,0,6,0,2.83,721.32
+JAK_FRA_032,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,1.23,722.6

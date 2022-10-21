@@ -1,0 +1,101 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MEL_JUL_069,100,1,0,Les nuages sont gris. ,0,0,1,2.04,213.56
+MEL_JUL_069,100,2,0,Les nuages sont gris. ,0,0,1,0.91,220.79
+MEL_JUL_069,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.99,229.99
+MEL_JUL_069,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.46,238.41
+MEL_JUL_069,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,3.12,251.32
+MEL_JUL_069,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.84,259.46
+MEL_JUL_069,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.03,301.68
+MEL_JUL_069,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.46,305.19
+MEL_JUL_069,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.33,312.25
+MEL_JUL_069,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.87,313.15
+MEL_JUL_069,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.38,319.23
+MEL_JUL_069,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.61,331.66
+MEL_JUL_069,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.36,333.06
+MEL_JUL_069,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.12,337.22
+MEL_JUL_069,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.27,344.55
+MEL_JUL_069,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,5.37,349.95
+MEL_JUL_069,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.53,356.6
+MEL_JUL_069,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.11,357.76
+MEL_JUL_069,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.95,362.5
+MEL_JUL_069,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.23,364.77
+MEL_JUL_069,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.03,365.84
+MEL_JUL_069,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.52,375.78
+MEL_JUL_069,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,8.71,384.54
+MEL_JUL_069,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.33,395.35
+MEL_JUL_069,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.89,396.29
+MEL_JUL_069,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,11.35,415.46
+MEL_JUL_069,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.27,417.77
+MEL_JUL_069,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.11,424.16
+MEL_JUL_069,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.55,426.77
+MEL_JUL_069,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.05,434.57
+MEL_JUL_069,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.4,436.02
+MEL_JUL_069,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,1.65,446.69
+MEL_JUL_069,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.22,456.32
+MEL_JUL_069,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.04,458.41
+MEL_JUL_069,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.85,465.15
+MEL_JUL_069,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.65,465.86
+MEL_JUL_069,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.5,473.42
+MEL_JUL_069,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,5.74,479.19
+MEL_JUL_069,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.02,486.56
+MEL_JUL_069,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.64,489.25
+MEL_JUL_069,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.15,491.44
+MEL_JUL_069,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.14,497.49
+MEL_JUL_069,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.62,508.84
+MEL_JUL_069,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.31,510.2
+MEL_JUL_069,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.42,512.66
+MEL_JUL_069,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,4.07,516.79
+MEL_JUL_069,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.55,527.89
+MEL_JUL_069,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.32,529.26
+MEL_JUL_069,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.38,530.68
+MEL_JUL_069,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.4,532.14
+MEL_JUL_069,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.19,543.95
+MEL_JUL_069,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.05,545.04
+MEL_JUL_069,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.1,546.18
+MEL_JUL_069,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.89,548.12
+MEL_JUL_069,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.25,560.07
+MEL_JUL_069,14,2,1,Avez-vous vu une éponge ?,6,6,1,1.09,561.21
+MEL_JUL_069,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.13,562.39
+MEL_JUL_069,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.85,564.29
+MEL_JUL_069,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.64,577.72
+MEL_JUL_069,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.82,579.59
+MEL_JUL_069,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.89,592.18
+MEL_JUL_069,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.43,593.67
+MEL_JUL_069,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.05,595.77
+MEL_JUL_069,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.69,601.93
+MEL_JUL_069,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.17,612.69
+MEL_JUL_069,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.48,615.22
+MEL_JUL_069,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.6,623.23
+MEL_JUL_069,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.57,627.85
+MEL_JUL_069,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.67,639.19
+MEL_JUL_069,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,4.29,643.53
+MEL_JUL_069,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.96,645.53
+MEL_JUL_069,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.36,657.42
+MEL_JUL_069,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.03,658.5
+MEL_JUL_069,20,2,2,On peut apercevoir un clocher. ,6,0,0,0.91,659.45
+MEL_JUL_069,21,1,0,Les toits sont bleus. ,0,6,0,1.69,666.33
+MEL_JUL_069,21,2,0,Les toits sont bleus. ,6,6,1,0.82,673.12
+MEL_JUL_069,22,1,0,Il y a 5 bateaux. ,6,6,1,0.92,682.83
+MEL_JUL_069,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.49,686.37
+MEL_JUL_069,22,1,2,On peut voir un chien. ,6,0,0,1.4,687.81
+MEL_JUL_069,22,2,0,Il y a 5 bateaux. ,6,6,1,1.31,698.73
+MEL_JUL_069,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.54,700.31
+MEL_JUL_069,22,2,2,On peut voir un chien. ,0,0,1,0.79,701.15
+MEL_JUL_069,22,3,0,Il y a 5 bateaux. ,6,6,1,1.27,711.01
+MEL_JUL_069,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.81,711.87
+MEL_JUL_069,22,3,2,On peut voir un chien. ,0,0,1,0.8,712.72
+MEL_JUL_069,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.93,719.82
+MEL_JUL_069,24,1,0,Les tapis sont alignés. ,6,0,0,3.08,732.5
+MEL_JUL_069,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,4.74,737.29
+MEL_JUL_069,24,1,2,L'armoire est ouverte. ,6,0,0,1.2,738.54
+MEL_JUL_069,24,2,0,Les tapis sont alignés. ,0,0,1,1.18,750.22
+MEL_JUL_069,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,0.85,751.13
+MEL_JUL_069,24,2,2,L'armoire est ouverte. ,0,0,1,0.91,752.08
+MEL_JUL_069,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.28,759.19
+MEL_JUL_069,26,1,0,Les costumes sont identiques. ,6,6,1,1.62,767.25
+MEL_JUL_069,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.61,774.55
+MEL_JUL_069,28,1,0,Les toits sont à la même hauteur. ,6,0,0,1.65,781.46
+MEL_JUL_069,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,2.77,789.64
+MEL_JUL_069,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.42,799.02
+MEL_JUL_069,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.47,807.53
+MEL_JUL_069,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.79,809.38

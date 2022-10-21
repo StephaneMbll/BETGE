@@ -1,0 +1,228 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+JAL_MAE_061,100,1,0,Les nuages sont gris. ,6,0,0,18.15,91.59
+JAL_MAE_061,100,2,0,Les nuages sont gris. ,6,0,0,3.19,116.0
+JAL_MAE_061,100,3,0,Les nuages sont gris. ,6,0,0,1.11,120.36
+JAL_MAE_061,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,11.19,140.79
+JAL_MAE_061,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.86,147.74
+JAL_MAE_061,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.66,160.69
+JAL_MAE_061,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.93,170.02
+JAL_MAE_061,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.0,196.46
+JAL_MAE_061,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,7.94,204.46
+JAL_MAE_061,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.36,213.88
+JAL_MAE_061,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.41,216.34
+JAL_MAE_061,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.58,224.39
+JAL_MAE_061,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.75,225.2
+JAL_MAE_061,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.29,232.78
+JAL_MAE_061,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.43,239.76
+JAL_MAE_061,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.61,256.69
+JAL_MAE_061,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.74,262.47
+JAL_MAE_061,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.61,266.13
+JAL_MAE_061,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.1,280.93
+JAL_MAE_061,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.17,282.14
+JAL_MAE_061,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.74,283.92
+JAL_MAE_061,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.6,296.71
+JAL_MAE_061,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.62,298.37
+JAL_MAE_061,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.24,299.66
+JAL_MAE_061,2,4,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.34,312.9
+JAL_MAE_061,2,4,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.83,314.78
+JAL_MAE_061,2,4,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.86,315.7
+JAL_MAE_061,2,5,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.94,325.71
+JAL_MAE_061,2,5,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.67,327.42
+JAL_MAE_061,2,5,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.45,328.94
+JAL_MAE_061,2,6,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.1,338.4
+JAL_MAE_061,2,6,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.48,340.93
+JAL_MAE_061,2,6,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.83,341.8
+JAL_MAE_061,2,7,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.17,350.87
+JAL_MAE_061,2,7,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.98,351.89
+JAL_MAE_061,2,7,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.64,353.59
+JAL_MAE_061,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.12,360.13
+JAL_MAE_061,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.69,362.88
+JAL_MAE_061,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.33,368.8
+JAL_MAE_061,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.14,370.0
+JAL_MAE_061,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.6,376.13
+JAL_MAE_061,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.13,378.3
+JAL_MAE_061,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.18,379.53
+JAL_MAE_061,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.51,385.76
+JAL_MAE_061,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.71,387.51
+JAL_MAE_061,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.83,388.4
+JAL_MAE_061,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.35,395.67
+JAL_MAE_061,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.62,398.33
+JAL_MAE_061,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.71,405.61
+JAL_MAE_061,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.66,407.31
+JAL_MAE_061,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.77,414.84
+JAL_MAE_061,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.5,417.39
+JAL_MAE_061,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.35,429.1
+JAL_MAE_061,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.55,431.7
+JAL_MAE_061,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.14,441.07
+JAL_MAE_061,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.48,442.6
+JAL_MAE_061,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.44,449.59
+JAL_MAE_061,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,5.58,455.23
+JAL_MAE_061,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.23,461.04
+JAL_MAE_061,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.05,461.13
+JAL_MAE_061,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.99,466.77
+JAL_MAE_061,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.61,469.43
+JAL_MAE_061,7,4,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.51,475.33
+JAL_MAE_061,7,4,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.28,476.66
+JAL_MAE_061,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.65,486.3
+JAL_MAE_061,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,2.54,495.31
+JAL_MAE_061,8,3,0,De quelle couleur est le téléphone ? ,6,0,0,5.16,506.76
+JAL_MAE_061,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.02,515.4
+JAL_MAE_061,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.6,517.05
+JAL_MAE_061,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.93,524.32
+JAL_MAE_061,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.79,526.14
+JAL_MAE_061,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,2.25,536.24
+JAL_MAE_061,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.97,538.26
+JAL_MAE_061,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.64,545.84
+JAL_MAE_061,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.67,548.56
+JAL_MAE_061,10,3,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.8,555.65
+JAL_MAE_061,10,3,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.85,556.55
+JAL_MAE_061,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.04,565.01
+JAL_MAE_061,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.92,566.99
+JAL_MAE_061,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.01,569.05
+JAL_MAE_061,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.94,576.33
+JAL_MAE_061,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.06,577.45
+JAL_MAE_061,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,0.46,577.97
+JAL_MAE_061,11,3,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.54,585.5
+JAL_MAE_061,11,3,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.56,587.1
+JAL_MAE_061,11,3,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.08,588.23
+JAL_MAE_061,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.24,592.96
+JAL_MAE_061,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.15,599.12
+JAL_MAE_061,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.63,613.81
+JAL_MAE_061,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.77,616.63
+JAL_MAE_061,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.06,619.73
+JAL_MAE_061,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.1,621.89
+JAL_MAE_061,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.54,632.65
+JAL_MAE_061,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.3,634.01
+JAL_MAE_061,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.42,635.48
+JAL_MAE_061,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.61,637.15
+JAL_MAE_061,13,3,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.15,648.37
+JAL_MAE_061,13,3,1,La pièce est-elle rangée ? ,0,0,1,1.19,649.6
+JAL_MAE_061,13,3,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.72,652.36
+JAL_MAE_061,13,3,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.15,653.58
+JAL_MAE_061,13,4,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.84,664.78
+JAL_MAE_061,13,4,1,La pièce est-elle rangée ? ,0,0,1,1.09,665.92
+JAL_MAE_061,13,4,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.07,668.04
+JAL_MAE_061,13,4,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.28,670.37
+JAL_MAE_061,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.78,681.48
+JAL_MAE_061,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.91,683.45
+JAL_MAE_061,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.63,685.14
+JAL_MAE_061,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.61,686.79
+JAL_MAE_061,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.67,697.73
+JAL_MAE_061,14,2,1,Avez-vous vu une éponge ?,0,6,0,1.51,699.28
+JAL_MAE_061,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,3.21,702.53
+JAL_MAE_061,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,2.12,704.69
+JAL_MAE_061,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.34,716.19
+JAL_MAE_061,14,3,1,Avez-vous vu une éponge ?,6,6,1,0.84,717.08
+JAL_MAE_061,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.76,717.89
+JAL_MAE_061,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,1.45,719.39
+JAL_MAE_061,14,4,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.27,730.61
+JAL_MAE_061,14,4,1,Avez-vous vu une éponge ?,6,6,1,0.82,731.48
+JAL_MAE_061,14,4,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.79,732.31
+JAL_MAE_061,14,4,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,4.34,736.72
+JAL_MAE_061,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.52,749.14
+JAL_MAE_061,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.36,751.55
+JAL_MAE_061,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.85,763.34
+JAL_MAE_061,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.97,765.36
+JAL_MAE_061,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.58,778.62
+JAL_MAE_061,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.49,780.17
+JAL_MAE_061,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.69,781.91
+JAL_MAE_061,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.0,793.28
+JAL_MAE_061,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.17,794.51
+JAL_MAE_061,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.03,795.59
+JAL_MAE_061,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.75,808.68
+JAL_MAE_061,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.12,809.84
+JAL_MAE_061,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.74,810.63
+JAL_MAE_061,16,4,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.29,821.5
+JAL_MAE_061,16,4,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,0.79,822.35
+JAL_MAE_061,16,4,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.64,823.05
+JAL_MAE_061,16,5,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.63,833.65
+JAL_MAE_061,16,5,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.02,834.73
+JAL_MAE_061,16,5,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.57,836.36
+JAL_MAE_061,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.4,845.64
+JAL_MAE_061,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.42,853.33
+JAL_MAE_061,17,3,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.86,859.32
+JAL_MAE_061,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.91,867.87
+JAL_MAE_061,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.95,870.87
+JAL_MAE_061,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.31,879.47
+JAL_MAE_061,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,0.93,880.46
+JAL_MAE_061,18,3,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.46,888.14
+JAL_MAE_061,18,3,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.63,890.82
+JAL_MAE_061,18,4,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.98,899.09
+JAL_MAE_061,18,4,1,Il y a moins de trente moutons sur l'image. ,0,0,1,1.35,900.5
+JAL_MAE_061,18,5,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,0.94,907.48
+JAL_MAE_061,18,5,1,Il y a moins de trente moutons sur l'image. ,0,0,1,0.61,908.14
+JAL_MAE_061,18,6,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.09,915.32
+JAL_MAE_061,18,6,1,Il y a moins de trente moutons sur l'image. ,0,0,1,1.25,916.62
+JAL_MAE_061,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.84,926.55
+JAL_MAE_061,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.7,929.31
+JAL_MAE_061,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.71,938.25
+JAL_MAE_061,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.92,940.23
+JAL_MAE_061,19,3,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.72,947.85
+JAL_MAE_061,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.78,949.69
+JAL_MAE_061,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.38,960.75
+JAL_MAE_061,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.87,963.68
+JAL_MAE_061,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.46,966.2
+JAL_MAE_061,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.55,978.29
+JAL_MAE_061,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.24,979.59
+JAL_MAE_061,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.33,980.98
+JAL_MAE_061,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.29,989.72
+JAL_MAE_061,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.03,990.81
+JAL_MAE_061,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.27,992.13
+JAL_MAE_061,20,4,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.23,1000.62
+JAL_MAE_061,20,4,1,La calèche est tirée par deux chevaux. ,0,0,1,0.89,1001.56
+JAL_MAE_061,20,4,2,On peut apercevoir un clocher. ,0,0,1,0.9,1002.51
+JAL_MAE_061,20,5,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.76,1011.44
+JAL_MAE_061,20,5,1,La calèche est tirée par deux chevaux. ,0,0,1,1.09,1012.59
+JAL_MAE_061,20,5,2,On peut apercevoir un clocher. ,0,0,1,0.94,1013.59
+JAL_MAE_061,21,1,0,Les toits sont bleus. ,0,6,0,1.69,1020.38
+JAL_MAE_061,21,2,0,Les toits sont bleus. ,6,6,1,2.45,1029.41
+JAL_MAE_061,21,3,0,Les toits sont bleus. ,0,6,0,1.9,1036.47
+JAL_MAE_061,21,4,0,Les toits sont bleus. ,6,6,1,10.13,1051.47
+JAL_MAE_061,21,5,0,Les toits sont bleus. ,0,6,0,4.29,1060.8
+JAL_MAE_061,22,1,0,Il y a 5 bateaux. ,6,6,1,2.07,1071.29
+JAL_MAE_061,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.46,1073.81
+JAL_MAE_061,22,1,2,On peut voir un chien. ,6,0,0,1.03,1074.89
+JAL_MAE_061,22,2,0,Il y a 5 bateaux. ,6,6,1,0.96,1084.51
+JAL_MAE_061,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.48,1085.04
+JAL_MAE_061,22,2,2,On peut voir un chien. ,6,0,0,1.14,1086.23
+JAL_MAE_061,22,3,0,Il y a 5 bateaux. ,6,6,1,0.76,1094.93
+JAL_MAE_061,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.62,1095.6
+JAL_MAE_061,22,3,2,On peut voir un chien. ,6,0,0,0.54,1096.21
+JAL_MAE_061,22,4,0,Il y a 5 bateaux. ,6,6,1,1.33,1105.42
+JAL_MAE_061,22,4,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.83,1106.31
+JAL_MAE_061,22,4,2,On peut voir un chien. ,6,0,0,0.57,1106.93
+JAL_MAE_061,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.66,1114.76
+JAL_MAE_061,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.19,1122.81
+JAL_MAE_061,24,1,0,Les tapis sont alignés. ,6,0,0,2.28,1135.66
+JAL_MAE_061,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,1.98,1137.7
+JAL_MAE_061,24,1,2,L'armoire est ouverte. ,6,0,0,1.3,1139.05
+JAL_MAE_061,24,2,0,Les tapis sont alignés. ,6,0,0,1.81,1150.47
+JAL_MAE_061,24,2,1,Il y a une brosse à dent près du lit. ,6,0,0,0.95,1151.48
+JAL_MAE_061,24,2,2,L'armoire est ouverte. ,6,0,0,1.52,1153.07
+JAL_MAE_061,24,3,0,Les tapis sont alignés. ,0,0,1,2.36,1164.57
+JAL_MAE_061,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,2.09,1166.72
+JAL_MAE_061,24,3,2,L'armoire est ouverte. ,0,0,1,0.97,1167.75
+JAL_MAE_061,24,4,0,Les tapis sont alignés. ,0,0,1,1.33,1178.13
+JAL_MAE_061,24,4,1,Il y a une brosse à dent près du lit. ,0,0,1,1.05,1179.23
+JAL_MAE_061,24,4,2,L'armoire est ouverte. ,0,0,1,0.82,1180.12
+JAL_MAE_061,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.98,1187.15
+JAL_MAE_061,25,2,0,Il y a plus de 10 pommes.,0,0,1,0.94,1193.34
+JAL_MAE_061,25,3,0,Il y a plus de 10 pommes.,0,0,1,0.97,1199.35
+JAL_MAE_061,26,1,0,Les costumes sont identiques. ,6,6,1,2.41,1206.84
+JAL_MAE_061,26,2,0,Les costumes sont identiques. ,6,6,1,0.84,1213.54
+JAL_MAE_061,26,3,0,Les costumes sont identiques. ,6,6,1,1.03,1219.51
+JAL_MAE_061,26,4,0,Les costumes sont identiques. ,6,6,1,0.7,1225.01
+JAL_MAE_061,26,5,0,Les costumes sont identiques. ,6,6,1,1.37,1231.31
+JAL_MAE_061,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,1.69,1238.03
+JAL_MAE_061,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.12,1244.18
+JAL_MAE_061,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.21,1250.84
+JAL_MAE_061,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.62,1258.61
+JAL_MAE_061,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.24,1265.07
+JAL_MAE_061,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.23,1272.6
+JAL_MAE_061,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.07,1279.79
+JAL_MAE_061,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.9,1289.02
+JAL_MAE_061,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.22,1297.52
+JAL_MAE_061,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.01,1306.81
+JAL_MAE_061,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.32,1309.21
+JAL_MAE_061,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.41,1317.79
+JAL_MAE_061,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.28,1319.13

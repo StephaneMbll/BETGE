@@ -1,0 +1,105 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+YOU_MOH_063,100,1,0,Les nuages sont gris. ,0,0,1,1.68,51.24
+YOU_MOH_063,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.96,62.21
+YOU_MOH_063,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.48,73.75
+YOU_MOH_063,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.08,83.08
+YOU_MOH_063,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.5,106.3
+YOU_MOH_063,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.41,110.76
+YOU_MOH_063,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.56,126.55
+YOU_MOH_063,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.4,140.09
+YOU_MOH_063,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,9.21,149.33
+YOU_MOH_063,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.95,152.32
+YOU_MOH_063,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.04,165.22
+YOU_MOH_063,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.15,166.4
+YOU_MOH_063,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.01,167.47
+YOU_MOH_063,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.62,174.38
+YOU_MOH_063,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.5,175.91
+YOU_MOH_063,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.42,181.72
+YOU_MOH_063,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.15,183.92
+YOU_MOH_063,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.54,185.5
+YOU_MOH_063,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.04,192.47
+YOU_MOH_063,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.23,195.75
+YOU_MOH_063,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.45,207.59
+YOU_MOH_063,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.49,210.11
+YOU_MOH_063,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,4.29,220.48
+YOU_MOH_063,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,6.66,227.18
+YOU_MOH_063,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.92,235.26
+YOU_MOH_063,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.48,237.78
+YOU_MOH_063,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.93,249.3
+YOU_MOH_063,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.38,257.19
+YOU_MOH_063,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.92,260.14
+YOU_MOH_063,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.1,268.7
+YOU_MOH_063,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.86,271.6
+YOU_MOH_063,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.06,281.6
+YOU_MOH_063,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.84,286.48
+YOU_MOH_063,10,3,0,Tous les personnages ont-ils un casque ? ,0,6,0,5.27,300.29
+YOU_MOH_063,10,3,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.98,304.3
+YOU_MOH_063,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.82,313.45
+YOU_MOH_063,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.12,315.61
+YOU_MOH_063,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.58,318.24
+YOU_MOH_063,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.02,324.05
+YOU_MOH_063,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.5,335.64
+YOU_MOH_063,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.62,337.29
+YOU_MOH_063,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.48,340.82
+YOU_MOH_063,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,6.24,347.11
+YOU_MOH_063,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.29,359.18
+YOU_MOH_063,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.5,360.72
+YOU_MOH_063,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,6.33,367.11
+YOU_MOH_063,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.52,368.67
+YOU_MOH_063,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.26,380.47
+YOU_MOH_063,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.93,382.44
+YOU_MOH_063,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.79,384.29
+YOU_MOH_063,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.88,386.2
+YOU_MOH_063,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.54,397.92
+YOU_MOH_063,14,2,1,Avez-vous vu une éponge ?,0,6,0,0.93,398.88
+YOU_MOH_063,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.68,401.6
+YOU_MOH_063,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.73,403.38
+YOU_MOH_063,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.27,416.89
+YOU_MOH_063,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,4.9,421.84
+YOU_MOH_063,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.55,433.58
+YOU_MOH_063,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.67,435.3
+YOU_MOH_063,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.74,449.33
+YOU_MOH_063,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.07,451.45
+YOU_MOH_063,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.13,453.62
+YOU_MOH_063,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.48,468.35
+YOU_MOH_063,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.09,469.48
+YOU_MOH_063,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.11,470.64
+YOU_MOH_063,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.76,477.87
+YOU_MOH_063,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.13,488.64
+YOU_MOH_063,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.83,491.52
+YOU_MOH_063,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,0.87,500.05
+YOU_MOH_063,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,1.32,501.42
+YOU_MOH_063,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.69,509.4
+YOU_MOH_063,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,6.93,516.39
+YOU_MOH_063,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,8.61,532.59
+YOU_MOH_063,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.14,534.78
+YOU_MOH_063,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.42,537.25
+YOU_MOH_063,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.81,548.89
+YOU_MOH_063,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.8,550.73
+YOU_MOH_063,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.21,551.99
+YOU_MOH_063,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.24,560.5
+YOU_MOH_063,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.6,562.14
+YOU_MOH_063,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.36,563.54
+YOU_MOH_063,21,1,0,Les toits sont bleus. ,6,6,1,4.31,575.04
+YOU_MOH_063,22,1,0,Il y a 5 bateaux. ,6,6,1,2.05,585.57
+YOU_MOH_063,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,3.58,589.21
+YOU_MOH_063,22,1,2,On peut voir un chien. ,0,0,1,1.69,590.96
+YOU_MOH_063,22,2,0,Il y a 5 bateaux. ,6,6,1,2.41,601.65
+YOU_MOH_063,22,2,1,Il y a  des bateaux a 2 voiles. ,0,6,0,1.23,602.92
+YOU_MOH_063,22,2,2,On peut voir un chien. ,0,0,1,1.35,604.31
+YOU_MOH_063,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.7,612.18
+YOU_MOH_063,24,1,0,Les tapis sont alignés. ,0,0,1,2.57,624.43
+YOU_MOH_063,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,6.56,631.04
+YOU_MOH_063,24,1,2,L'armoire est ouverte. ,0,0,1,1.52,632.62
+YOU_MOH_063,24,2,0,Les tapis sont alignés. ,0,0,1,1.35,643.98
+YOU_MOH_063,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.18,645.21
+YOU_MOH_063,24,2,2,L'armoire est ouverte. ,0,0,1,1.48,646.73
+YOU_MOH_063,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.63,655.52
+YOU_MOH_063,26,1,0,Les costumes sont identiques. ,6,6,1,3.77,664.96
+YOU_MOH_063,26,2,0,Les costumes sont identiques. ,6,6,1,3.34,674.51
+YOU_MOH_063,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.1,681.61
+YOU_MOH_063,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.78,690.26
+YOU_MOH_063,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,8.23,703.77
+YOU_MOH_063,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.69,715.17
+YOU_MOH_063,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.72,723.97
+YOU_MOH_063,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.45,727.47

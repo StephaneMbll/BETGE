@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: betge
-Version: 1.1.0
-Summary: A simple package to drop inaccurate epochs during EEG analysis
-Author-email: Stephane Mabille <stephane.mabille@epita.fr>, Hugo Boux <hugo.boux@epita.fr>
-License-File: LICENCE

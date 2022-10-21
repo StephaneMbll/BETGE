@@ -1,0 +1,159 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+LEU_SEV_007,100,1,0,Les nuages sont gris. ,0,0,1,3.65,77.68
+LEU_SEV_007,100,2,0,Les nuages sont gris. ,0,0,1,3.15,85.98
+LEU_SEV_007,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.2,97.31
+LEU_SEV_007,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,13.0,120.24
+LEU_SEV_007,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,1.42,132.28
+LEU_SEV_007,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.31,158.44
+LEU_SEV_007,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,6.0,164.48
+LEU_SEV_007,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.22,174.32
+LEU_SEV_007,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.08,175.44
+LEU_SEV_007,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.01,182.71
+LEU_SEV_007,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.1,189.35
+LEU_SEV_007,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.87,204.84
+LEU_SEV_007,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,5.98,210.88
+LEU_SEV_007,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.46,214.38
+LEU_SEV_007,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.74,228.07
+LEU_SEV_007,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.22,231.34
+LEU_SEV_007,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.65,234.03
+LEU_SEV_007,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.1,241.25
+LEU_SEV_007,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.56,243.86
+LEU_SEV_007,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.64,251.0
+LEU_SEV_007,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.86,252.91
+LEU_SEV_007,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.26,260.83
+LEU_SEV_007,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,4.31,265.19
+LEU_SEV_007,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.75,266.98
+LEU_SEV_007,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.04,275.21
+LEU_SEV_007,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.37,277.62
+LEU_SEV_007,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.53,279.19
+LEU_SEV_007,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.06,287.97
+LEU_SEV_007,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.97,291.98
+LEU_SEV_007,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,5.27,302.47
+LEU_SEV_007,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.74,305.26
+LEU_SEV_007,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.77,317.0
+LEU_SEV_007,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.44,322.48
+LEU_SEV_007,5,4,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.87,331.83
+LEU_SEV_007,5,4,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.66,333.54
+LEU_SEV_007,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,6.71,349.03
+LEU_SEV_007,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.81,352.89
+LEU_SEV_007,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.69,363.24
+LEU_SEV_007,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.56,365.84
+LEU_SEV_007,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.67,375.15
+LEU_SEV_007,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.94,379.16
+LEU_SEV_007,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.14,385.97
+LEU_SEV_007,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.2,387.22
+LEU_SEV_007,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.72,396.57
+LEU_SEV_007,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.53,405.08
+LEU_SEV_007,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.27,409.4
+LEU_SEV_007,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.67,419.3
+LEU_SEV_007,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.95,422.3
+LEU_SEV_007,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.89,430.38
+LEU_SEV_007,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.48,432.89
+LEU_SEV_007,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.09,441.47
+LEU_SEV_007,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.7,444.22
+LEU_SEV_007,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.05,453.67
+LEU_SEV_007,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,4.28,458.0
+LEU_SEV_007,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,4.71,462.76
+LEU_SEV_007,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.35,472.35
+LEU_SEV_007,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.05,474.44
+LEU_SEV_007,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.33,476.81
+LEU_SEV_007,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.68,483.08
+LEU_SEV_007,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.75,496.0
+LEU_SEV_007,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.81,498.86
+LEU_SEV_007,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.28,502.18
+LEU_SEV_007,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,6.81,509.06
+LEU_SEV_007,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.2,521.82
+LEU_SEV_007,13,2,1,La pièce est-elle rangée ? ,0,0,1,2.75,524.62
+LEU_SEV_007,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.3,526.97
+LEU_SEV_007,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.69,529.71
+LEU_SEV_007,13,3,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.71,541.48
+LEU_SEV_007,13,3,1,La pièce est-elle rangée ? ,0,0,1,1.87,543.4
+LEU_SEV_007,13,3,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.44,545.89
+LEU_SEV_007,13,3,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,4.04,549.99
+LEU_SEV_007,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.54,563.91
+LEU_SEV_007,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.86,566.83
+LEU_SEV_007,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.53,569.4
+LEU_SEV_007,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.01,572.46
+LEU_SEV_007,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.96,585.9
+LEU_SEV_007,14,2,1,Avez-vous vu une éponge ?,0,6,0,3.31,589.26
+LEU_SEV_007,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.71,591.01
+LEU_SEV_007,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.75,592.82
+LEU_SEV_007,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.79,604.75
+LEU_SEV_007,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.53,606.33
+LEU_SEV_007,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.8,608.19
+LEU_SEV_007,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.54,609.78
+LEU_SEV_007,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.76,622.98
+LEU_SEV_007,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,5.03,628.07
+LEU_SEV_007,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.81,639.8
+LEU_SEV_007,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.85,642.7
+LEU_SEV_007,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.22,656.92
+LEU_SEV_007,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.37,659.34
+LEU_SEV_007,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.15,661.54
+LEU_SEV_007,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.14,675.1
+LEU_SEV_007,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.87,677.01
+LEU_SEV_007,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.05,679.12
+LEU_SEV_007,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.43,691.38
+LEU_SEV_007,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.76,693.2
+LEU_SEV_007,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.23,695.47
+LEU_SEV_007,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.38,704.15
+LEU_SEV_007,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.09,712.12
+LEU_SEV_007,17,3,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.01,718.85
+LEU_SEV_007,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,5.15,730.44
+LEU_SEV_007,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.45,733.95
+LEU_SEV_007,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.68,742.51
+LEU_SEV_007,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.65,745.2
+LEU_SEV_007,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.82,754.42
+LEU_SEV_007,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,12.64,767.11
+LEU_SEV_007,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,8.3,781.92
+LEU_SEV_007,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,6.22,788.19
+LEU_SEV_007,19,3,0,Il y a plus de 7 tentacules visibles. ,0,6,0,7.38,802.32
+LEU_SEV_007,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.84,804.22
+LEU_SEV_007,19,4,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.43,812.15
+LEU_SEV_007,19,4,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.26,815.46
+LEU_SEV_007,19,5,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.27,824.66
+LEU_SEV_007,19,5,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.44,826.16
+LEU_SEV_007,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.68,837.45
+LEU_SEV_007,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.72,840.23
+LEU_SEV_007,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.11,842.38
+LEU_SEV_007,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.5,853.17
+LEU_SEV_007,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.75,855.98
+LEU_SEV_007,20,2,2,On peut apercevoir un clocher. ,6,0,0,2.72,858.75
+LEU_SEV_007,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.87,869.67
+LEU_SEV_007,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.99,871.71
+LEU_SEV_007,20,3,2,On peut apercevoir un clocher. ,6,0,0,1.58,873.35
+LEU_SEV_007,21,1,0,Les toits sont bleus. ,0,6,0,2.83,881.59
+LEU_SEV_007,21,2,0,Les toits sont bleus. ,6,6,1,1.63,888.82
+LEU_SEV_007,22,1,0,Il y a 5 bateaux. ,6,6,1,4.03,902.79
+LEU_SEV_007,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,3.8,906.64
+LEU_SEV_007,22,1,2,On peut voir un chien. ,6,0,0,2.19,908.88
+LEU_SEV_007,22,2,0,Il y a 5 bateaux. ,6,6,1,2.67,920.2
+LEU_SEV_007,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.78,925.02
+LEU_SEV_007,22,2,2,On peut voir un chien. ,0,0,1,2.04,927.11
+LEU_SEV_007,22,3,0,Il y a 5 bateaux. ,6,6,1,3.12,938.64
+LEU_SEV_007,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.54,941.23
+LEU_SEV_007,22,3,2,On peut voir un chien. ,0,0,1,1.05,942.34
+LEU_SEV_007,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.29,950.18
+LEU_SEV_007,24,1,0,Les tapis sont alignés. ,0,0,1,5.26,965.4
+LEU_SEV_007,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,5.16,970.62
+LEU_SEV_007,24,1,2,L'armoire est ouverte. ,0,0,1,2.1,972.78
+LEU_SEV_007,24,2,0,Les tapis sont alignés. ,0,0,1,1.39,984.17
+LEU_SEV_007,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.89,986.12
+LEU_SEV_007,24,2,2,L'armoire est ouverte. ,0,0,1,1.25,987.43
+LEU_SEV_007,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.22,995.33
+LEU_SEV_007,25,2,0,Il y a plus de 10 pommes.,0,0,1,0.96,1001.45
+LEU_SEV_007,25,3,0,Il y a plus de 10 pommes.,0,0,1,1.63,1008.09
+LEU_SEV_007,26,1,0,Les costumes sont identiques. ,6,6,1,4.62,1020.83
+LEU_SEV_007,26,2,0,Les costumes sont identiques. ,6,6,1,1.24,1027.76
+LEU_SEV_007,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.86,1036.6
+LEU_SEV_007,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.07,1044.31
+LEU_SEV_007,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.97,1052.72
+LEU_SEV_007,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.42,1060.05
+LEU_SEV_007,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,5.66,1071.13
+LEU_SEV_007,29,2,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,3.13,1079.7
+LEU_SEV_007,29,3,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,3.93,1092.29
+LEU_SEV_007,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.9,1103.34
+LEU_SEV_007,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,2.34,1113.45
+LEU_SEV_007,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.38,1123.26
+LEU_SEV_007,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.96,1127.29
+LEU_SEV_007,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.51,1137.1
+LEU_SEV_007,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.6,1138.76

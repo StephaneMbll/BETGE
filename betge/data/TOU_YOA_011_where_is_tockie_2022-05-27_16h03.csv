@@ -1,0 +1,74 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+TOU-YOA_011,100,1,0,Les nuages sont gris. ,6,0,0,2.6,62.3
+TOU-YOA_011,100,2,0,Les nuages sont gris. ,6,0,0,3.58,71.87
+TOU-YOA_011,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.46,84.77
+TOU-YOA_011,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,0.43,89.58
+TOU-YOA_011,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,3.75,102.4
+TOU-YOA_011,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.44,109.87
+TOU-YOA_011,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.1,132.68
+TOU-YOA_011,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,0,6,0,2.8,135.53
+TOU-YOA_011,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.64,140.26
+TOU-YOA_011,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.59,141.89
+TOU-YOA_011,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.57,147.87
+TOU-YOA_011,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.14,158.27
+TOU-YOA_011,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.86,160.18
+TOU-YOA_011,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,0.59,160.82
+TOU-YOA_011,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.71,167.88
+TOU-YOA_011,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.39,170.31
+TOU-YOA_011,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.45,176.17
+TOU-YOA_011,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.33,177.54
+TOU-YOA_011,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.28,178.86
+TOU-YOA_011,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,2.95,186.23
+TOU-YOA_011,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.19,189.46
+TOU-YOA_011,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.29,199.03
+TOU-YOA_011,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.57,200.64
+TOU-YOA_011,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.79,206.69
+TOU-YOA_011,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.7,208.43
+TOU-YOA_011,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.45,216.37
+TOU-YOA_011,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.78,224.4
+TOU-YOA_011,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.66,226.11
+TOU-YOA_011,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,1.8,231.9
+TOU-YOA_011,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.25,233.2
+TOU-YOA_011,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.36,239.72
+TOU-YOA_011,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,0,6,0,0.96,240.73
+TOU-YOA_011,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,0.74,241.52
+TOU-YOA_011,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,1.67,246.35
+TOU-YOA_011,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.66,256.13
+TOU-YOA_011,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.62,257.79
+TOU-YOA_011,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.28,259.11
+TOU-YOA_011,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,0.75,259.92
+TOU-YOA_011,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.31,271.25
+TOU-YOA_011,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.66,272.94
+TOU-YOA_011,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.76,273.74
+TOU-YOA_011,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.01,274.8
+TOU-YOA_011,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,1.03,284.93
+TOU-YOA_011,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.45,285.44
+TOU-YOA_011,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.4,295.93
+TOU-YOA_011,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,0.68,296.65
+TOU-YOA_011,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,0.56,297.26
+TOU-YOA_011,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.27,303.44
+TOU-YOA_011,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.18,310.26
+TOU-YOA_011,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.68,317.78
+TOU-YOA_011,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.13,319.97
+TOU-YOA_011,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.58,329.43
+TOU-YOA_011,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,0.83,330.29
+TOU-YOA_011,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,0.73,338.0
+TOU-YOA_011,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,0.33,338.37
+TOU-YOA_011,20,1,2,On peut apercevoir un clocher. ,6,0,0,0.59,338.99
+TOU-YOA_011,21,1,0,Les toits sont bleus. ,6,6,1,0.79,344.76
+TOU-YOA_011,21,2,0,Les toits sont bleus. ,6,6,1,0.77,350.15
+TOU-YOA_011,22,1,0,Il y a 5 bateaux. ,6,6,1,1.57,360.42
+TOU-YOA_011,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.31,360.77
+TOU-YOA_011,22,1,2,On peut voir un chien. ,0,0,1,0.25,361.07
+TOU-YOA_011,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.86,368.78
+TOU-YOA_011,24,1,0,Les tapis sont alignés. ,0,0,1,1.53,380.2
+TOU-YOA_011,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,0.96,381.2
+TOU-YOA_011,24,1,2,L'armoire est ouverte. ,0,0,1,0.37,381.61
+TOU-YOA_011,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.67,388.24
+TOU-YOA_011,26,1,0,Les costumes sont identiques. ,0,6,0,1.9,395.31
+TOU-YOA_011,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.63,402.13
+TOU-YOA_011,28,1,0,Les toits sont à la même hauteur. ,0,0,1,1.5,408.65
+TOU-YOA_011,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.25,415.88
+TOU-YOA_011,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,0.91,423.68
+TOU-YOA_011,31,1,0,Il y a du maïs sur l'image. ,0,6,0,0.58,430.62
+TOU-YOA_011,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,0.35,431.02

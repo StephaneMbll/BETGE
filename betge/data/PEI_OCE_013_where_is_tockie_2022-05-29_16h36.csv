@@ -1,0 +1,133 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+PEI_OCE_013,100,1,0,Les nuages sont gris. ,0,0,1,1.39,93.47
+PEI_OCE_013,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.03,105.7
+PEI_OCE_013,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.14,112.54
+PEI_OCE_013,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.93,125.33
+PEI_OCE_013,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.99,152.84
+PEI_OCE_013,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.55,155.43
+PEI_OCE_013,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.39,162.94
+PEI_OCE_013,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.38,164.36
+PEI_OCE_013,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.99,171.82
+PEI_OCE_013,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.67,180.03
+PEI_OCE_013,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.16,191.64
+PEI_OCE_013,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.36,193.04
+PEI_OCE_013,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.05,195.14
+PEI_OCE_013,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,6.5,212.44
+PEI_OCE_013,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.99,213.48
+PEI_OCE_013,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.85,214.36
+PEI_OCE_013,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.57,220.47
+PEI_OCE_013,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.97,222.49
+PEI_OCE_013,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.89,228.31
+PEI_OCE_013,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.7,229.06
+PEI_OCE_013,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.02,234.71
+PEI_OCE_013,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.78,236.53
+PEI_OCE_013,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.22,237.78
+PEI_OCE_013,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.31,242.48
+PEI_OCE_013,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.23,243.75
+PEI_OCE_013,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.43,245.22
+PEI_OCE_013,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.89,251.64
+PEI_OCE_013,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.27,253.95
+PEI_OCE_013,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.62,260.43
+PEI_OCE_013,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.93,261.4
+PEI_OCE_013,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.63,271.74
+PEI_OCE_013,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.08,273.87
+PEI_OCE_013,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,7.93,289.33
+PEI_OCE_013,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.25,290.64
+PEI_OCE_013,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.41,297.37
+PEI_OCE_013,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.17,299.59
+PEI_OCE_013,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.15,305.15
+PEI_OCE_013,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.61,307.81
+PEI_OCE_013,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.44,318.13
+PEI_OCE_013,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.35,326.57
+PEI_OCE_013,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.16,334.04
+PEI_OCE_013,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.67,336.74
+PEI_OCE_013,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.84,343.18
+PEI_OCE_013,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.69,344.91
+PEI_OCE_013,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.97,351.29
+PEI_OCE_013,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.36,353.7
+PEI_OCE_013,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,0.93,358.8
+PEI_OCE_013,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.73,359.58
+PEI_OCE_013,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.39,366.28
+PEI_OCE_013,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.64,367.96
+PEI_OCE_013,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.98,370.0
+PEI_OCE_013,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.89,377.14
+PEI_OCE_013,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.33,378.51
+PEI_OCE_013,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,0.84,379.41
+PEI_OCE_013,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.27,383.92
+PEI_OCE_013,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.18,397.31
+PEI_OCE_013,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.32,398.68
+PEI_OCE_013,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.0,401.72
+PEI_OCE_013,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.28,404.05
+PEI_OCE_013,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.02,415.18
+PEI_OCE_013,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.41,416.63
+PEI_OCE_013,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,0.94,417.62
+PEI_OCE_013,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.43,419.1
+PEI_OCE_013,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.68,430.4
+PEI_OCE_013,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.51,431.97
+PEI_OCE_013,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.36,433.36
+PEI_OCE_013,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.59,435.0
+PEI_OCE_013,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.52,446.11
+PEI_OCE_013,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.79,446.94
+PEI_OCE_013,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.1,449.09
+PEI_OCE_013,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.2,450.34
+PEI_OCE_013,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.8,464.1
+PEI_OCE_013,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.74,466.9
+PEI_OCE_013,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.47,479.52
+PEI_OCE_013,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.23,480.81
+PEI_OCE_013,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.47,492.59
+PEI_OCE_013,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,4.39,497.03
+PEI_OCE_013,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.91,499.99
+PEI_OCE_013,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.7,511.13
+PEI_OCE_013,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.89,515.07
+PEI_OCE_013,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.33,516.46
+PEI_OCE_013,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.18,523.79
+PEI_OCE_013,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.76,534.11
+PEI_OCE_013,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.89,537.07
+PEI_OCE_013,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.23,545.6
+PEI_OCE_013,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,1.05,546.71
+PEI_OCE_013,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.47,557.37
+PEI_OCE_013,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,6.77,564.18
+PEI_OCE_013,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.43,573.08
+PEI_OCE_013,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.43,575.57
+PEI_OCE_013,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.75,588.08
+PEI_OCE_013,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.99,591.12
+PEI_OCE_013,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.95,593.12
+PEI_OCE_013,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,1.48,602.2
+PEI_OCE_013,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.59,604.83
+PEI_OCE_013,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.63,606.52
+PEI_OCE_013,21,1,0,Les toits sont bleus. ,0,6,0,3.01,615.18
+PEI_OCE_013,21,2,0,Les toits sont bleus. ,0,6,0,1.66,623.02
+PEI_OCE_013,22,1,0,Il y a 5 bateaux. ,6,6,1,1.92,634.12
+PEI_OCE_013,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,2.5,636.67
+PEI_OCE_013,22,1,2,On peut voir un chien. ,6,0,0,2.11,638.84
+PEI_OCE_013,22,2,0,Il y a 5 bateaux. ,6,6,1,1.25,648.81
+PEI_OCE_013,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,7.42,656.28
+PEI_OCE_013,22,2,2,On peut voir un chien. ,0,0,1,1.06,657.41
+PEI_OCE_013,22,3,0,Il y a 5 bateaux. ,6,6,1,0.99,666.5
+PEI_OCE_013,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.97,667.51
+PEI_OCE_013,22,3,2,On peut voir un chien. ,0,0,1,0.91,668.47
+PEI_OCE_013,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.06,675.8
+PEI_OCE_013,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.05,683.33
+PEI_OCE_013,24,1,0,Les tapis sont alignés. ,6,0,0,3.57,695.93
+PEI_OCE_013,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,2.4,698.38
+PEI_OCE_013,24,1,2,L'armoire est ouverte. ,0,0,1,1.96,700.39
+PEI_OCE_013,24,2,0,Les tapis sont alignés. ,0,0,1,0.66,710.89
+PEI_OCE_013,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,2.06,713.0
+PEI_OCE_013,24,2,2,L'armoire est ouverte. ,0,0,1,1.16,714.21
+PEI_OCE_013,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.37,720.84
+PEI_OCE_013,26,1,0,Les costumes sont identiques. ,6,6,1,1.94,730.51
+PEI_OCE_013,26,2,0,Les costumes sont identiques. ,6,6,1,1.09,738.6
+PEI_OCE_013,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.36,746.01
+PEI_OCE_013,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.18,752.98
+PEI_OCE_013,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.27,761.21
+PEI_OCE_013,28,2,0,Les toits sont à la même hauteur. ,0,0,1,0.56,767.69
+PEI_OCE_013,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,3.5,777.46
+PEI_OCE_013,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.93,785.83
+PEI_OCE_013,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.0,795.32
+PEI_OCE_013,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.47,804.48
+PEI_OCE_013,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.55,813.37
+PEI_OCE_013,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.67,816.1
+PEI_OCE_013,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.14,824.42
+PEI_OCE_013,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,5.24,829.72
+PEI_OCE_013,31,3,0,Il y a du maïs sur l'image. ,6,6,1,1.21,838.62
+PEI_OCE_013,31,3,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.86,839.54

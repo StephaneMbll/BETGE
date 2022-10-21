@@ -1,0 +1,155 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+ZIC_NAD_040,100,1,0,Les nuages sont gris. ,0,0,1,10.55,41.06
+ZIC_NAD_040,100,2,0,Les nuages sont gris. ,0,0,1,2.59,50.29
+ZIC_NAD_040,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.29,63.6
+ZIC_NAD_040,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,2.54,78.75
+ZIC_NAD_040,102,2,0,Avez-vous vu un �l�phant ? ,6,6,1,1.66,88.27
+ZIC_NAD_040,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.02,113.52
+ZIC_NAD_040,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,7.65,121.22
+ZIC_NAD_040,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.12,130.6
+ZIC_NAD_040,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,0.78,131.43
+ZIC_NAD_040,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.9,138.06
+ZIC_NAD_040,0,3,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.71,139.82
+ZIC_NAD_040,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.45,148.18
+ZIC_NAD_040,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,7.37,175.77
+ZIC_NAD_040,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.03,178.84
+ZIC_NAD_040,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,3.53,182.41
+ZIC_NAD_040,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.98,194.54
+ZIC_NAD_040,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.53,200.11
+ZIC_NAD_040,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,1.56,201.72
+ZIC_NAD_040,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.07,215.98
+ZIC_NAD_040,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.01,218.04
+ZIC_NAD_040,2,3,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.13,220.21
+ZIC_NAD_040,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.02,227.5
+ZIC_NAD_040,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.41,229.95
+ZIC_NAD_040,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.44,236.88
+ZIC_NAD_040,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,3.43,240.36
+ZIC_NAD_040,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.33,248.83
+ZIC_NAD_040,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.43,251.29
+ZIC_NAD_040,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.74,253.07
+ZIC_NAD_040,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.92,261.7
+ZIC_NAD_040,4,2,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.27,264.02
+ZIC_NAD_040,4,2,2,Avez-vous vu une corde � sauter ? ,6,6,1,4.06,268.12
+ZIC_NAD_040,4,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.8,274.16
+ZIC_NAD_040,4,3,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,3.19,277.39
+ZIC_NAD_040,4,3,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.94,279.38
+ZIC_NAD_040,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,6,0,0,3.25,289.33
+ZIC_NAD_040,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.37,294.75
+ZIC_NAD_040,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,3.47,304.67
+ZIC_NAD_040,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.45,309.16
+ZIC_NAD_040,5,3,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,6.58,323.61
+ZIC_NAD_040,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.17,325.83
+ZIC_NAD_040,5,4,0,Toutes les personnes sont-elles habill�es en blanc ? ,6,0,0,3.09,337.75
+ZIC_NAD_040,5,4,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.87,339.67
+ZIC_NAD_040,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,3.09,351.04
+ZIC_NAD_040,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,5.26,356.35
+ZIC_NAD_040,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.53,366.96
+ZIC_NAD_040,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,4.47,371.47
+ZIC_NAD_040,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.42,389.08
+ZIC_NAD_040,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,7.12,396.27
+ZIC_NAD_040,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.41,404.73
+ZIC_NAD_040,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.2,405.98
+ZIC_NAD_040,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,2.48,415.91
+ZIC_NAD_040,8,2,0,De quelle couleur est le t�l�phone ? ,6,0,0,1.89,429.6
+ZIC_NAD_040,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,6.48,443.98
+ZIC_NAD_040,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,3.58,447.6
+ZIC_NAD_040,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.9,458.63
+ZIC_NAD_040,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.69,461.37
+ZIC_NAD_040,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,4.65,470.85
+ZIC_NAD_040,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.21,472.11
+ZIC_NAD_040,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.02,481.17
+ZIC_NAD_040,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,5.05,486.26
+ZIC_NAD_040,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,5.01,491.33
+ZIC_NAD_040,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.76,499.7
+ZIC_NAD_040,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,3.44,503.19
+ZIC_NAD_040,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,3.15,506.38
+ZIC_NAD_040,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.19,513.62
+ZIC_NAD_040,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.67,531.09
+ZIC_NAD_040,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,3.57,534.71
+ZIC_NAD_040,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.1,537.85
+ZIC_NAD_040,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,7.25,545.15
+ZIC_NAD_040,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.43,559.23
+ZIC_NAD_040,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.83,561.12
+ZIC_NAD_040,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.49,562.65
+ZIC_NAD_040,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.56,565.26
+ZIC_NAD_040,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,3.74,578.87
+ZIC_NAD_040,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.73,580.64
+ZIC_NAD_040,14,1,2,Avez-vous vu des serviettes usag�es ?,0,6,0,2.11,582.79
+ZIC_NAD_040,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,4.82,587.66
+ZIC_NAD_040,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.01,601.52
+ZIC_NAD_040,14,2,1,Avez-vous vu une �ponge ?,0,6,0,2.07,603.63
+ZIC_NAD_040,14,2,2,Avez-vous vu des serviettes usag�es ?,0,6,0,11.48,615.16
+ZIC_NAD_040,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,3.35,618.57
+ZIC_NAD_040,14,3,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,5.89,636.31
+ZIC_NAD_040,14,3,1,Avez-vous vu une �ponge ?,6,6,1,1.32,637.67
+ZIC_NAD_040,14,3,2,Avez-vous vu des serviettes usag�es ?,6,6,1,3.71,641.43
+ZIC_NAD_040,14,3,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.54,643.03
+ZIC_NAD_040,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.24,656.43
+ZIC_NAD_040,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,3.53,660.02
+ZIC_NAD_040,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.58,674.36
+ZIC_NAD_040,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,13.0,687.42
+ZIC_NAD_040,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.66,701.2
+ZIC_NAD_040,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.62,704.87
+ZIC_NAD_040,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,4.21,709.14
+ZIC_NAD_040,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.54,721.66
+ZIC_NAD_040,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,9.38,731.08
+ZIC_NAD_040,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.12,733.26
+ZIC_NAD_040,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.96,745.96
+ZIC_NAD_040,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,3.86,749.88
+ZIC_NAD_040,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,4.89,754.82
+ZIC_NAD_040,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,4.41,765.67
+ZIC_NAD_040,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.24,777.29
+ZIC_NAD_040,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,27.31,804.67
+ZIC_NAD_040,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.55,820.94
+ZIC_NAD_040,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,22.2,843.19
+ZIC_NAD_040,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,12.91,865.45
+ZIC_NAD_040,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.54,870.05
+ZIC_NAD_040,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,5.3,882.71
+ZIC_NAD_040,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.9,885.67
+ZIC_NAD_040,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,5.2,899.17
+ZIC_NAD_040,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,3.39,902.61
+ZIC_NAD_040,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.54,905.2
+ZIC_NAD_040,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,6.35,922.14
+ZIC_NAD_040,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.57,924.77
+ZIC_NAD_040,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.71,926.53
+ZIC_NAD_040,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,3.6,938.39
+ZIC_NAD_040,20,3,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.06,940.5
+ZIC_NAD_040,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.74,942.29
+ZIC_NAD_040,21,1,0,Les toits sont bleus. ,0,6,0,6.58,956.71
+ZIC_NAD_040,21,2,0,Les toits sont bleus. ,6,6,1,1.68,966.0
+ZIC_NAD_040,22,1,0,Il y a 5 bateaux. ,6,6,1,6.92,982.42
+ZIC_NAD_040,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.92,986.41
+ZIC_NAD_040,22,1,2,On peut voir un chien. ,0,0,1,3.2,989.66
+ZIC_NAD_040,22,2,0,Il y a 5 bateaux. ,6,6,1,4.62,1003.36
+ZIC_NAD_040,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.05,1005.46
+ZIC_NAD_040,22,2,2,On peut voir un chien. ,0,0,1,1.56,1007.07
+ZIC_NAD_040,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,3.35,1016.02
+ZIC_NAD_040,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.66,1027.8
+ZIC_NAD_040,24,1,0,Les tapis sont align�s. ,6,0,0,4.77,1042.16
+ZIC_NAD_040,24,1,1,Il y a une brosse � dent pr�s du lit. ,6,0,0,7.72,1049.93
+ZIC_NAD_040,24,1,2,L'armoire est ouverte. ,0,0,1,4.82,1054.81
+ZIC_NAD_040,24,2,0,Les tapis sont align�s. ,6,0,0,2.44,1067.88
+ZIC_NAD_040,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.67,1069.62
+ZIC_NAD_040,24,2,2,L'armoire est ouverte. ,0,0,1,2.09,1071.77
+ZIC_NAD_040,24,3,0,Les tapis sont align�s. ,0,0,1,2.74,1084.5
+ZIC_NAD_040,24,3,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.88,1086.43
+ZIC_NAD_040,24,3,2,L'armoire est ouverte. ,0,0,1,2.16,1088.65
+ZIC_NAD_040,24,4,0,Les tapis sont align�s. ,0,0,1,4.21,1103.19
+ZIC_NAD_040,24,4,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,8.9,1112.15
+ZIC_NAD_040,24,4,2,L'armoire est ouverte. ,0,0,1,1.66,1113.86
+ZIC_NAD_040,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.53,1122.06
+ZIC_NAD_040,26,1,0,Les costumes sont identiques. ,6,6,1,5.45,1133.38
+ZIC_NAD_040,26,2,0,Les costumes sont identiques. ,6,6,1,5.67,1145.0
+ZIC_NAD_040,26,3,0,Les costumes sont identiques. ,0,6,0,2.58,1153.48
+ZIC_NAD_040,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,11.82,1176.75
+ZIC_NAD_040,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,8.07,1190.85
+ZIC_NAD_040,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,3.46,1200.39
+ZIC_NAD_040,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,2.54,1209.07
+ZIC_NAD_040,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,6.24,1220.81
+ZIC_NAD_040,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.28,1230.31
+ZIC_NAD_040,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.61,1240.6
+ZIC_NAD_040,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,3.67,1252.1
+ZIC_NAD_040,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,2.0,1261.49
+ZIC_NAD_040,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.95,1265.52
+ZIC_NAD_040,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,2.0,1275.38
+ZIC_NAD_040,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.23,1277.68

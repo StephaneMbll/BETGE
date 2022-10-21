@@ -1,0 +1,148 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+TAM_MEI_029,100,1,0,Les nuages sont gris. ,0,0,1,3.36,48.21
+TAM_MEI_029,100,2,0,Les nuages sont gris. ,0,0,1,1.64,55.64
+TAM_MEI_029,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.11,65.96
+TAM_MEI_029,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.37,72.21
+TAM_MEI_029,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.75,84.05
+TAM_MEI_029,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.16,111.21
+TAM_MEI_029,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.0,114.26
+TAM_MEI_029,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.2,120.12
+TAM_MEI_029,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.72,120.88
+TAM_MEI_029,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.84,126.16
+TAM_MEI_029,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.75,126.94
+TAM_MEI_029,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.41,132.45
+TAM_MEI_029,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.03,143.89
+TAM_MEI_029,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.29,146.22
+TAM_MEI_029,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.35,148.61
+TAM_MEI_029,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.0,159.28
+TAM_MEI_029,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.56,160.88
+TAM_MEI_029,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.94,161.86
+TAM_MEI_029,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.52,169.08
+TAM_MEI_029,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,2.53,171.66
+TAM_MEI_029,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.03,176.79
+TAM_MEI_029,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.91,177.73
+TAM_MEI_029,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.0,181.97
+TAM_MEI_029,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.71,183.71
+TAM_MEI_029,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.74,186.5
+TAM_MEI_029,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.09,190.87
+TAM_MEI_029,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.27,192.18
+TAM_MEI_029,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.15,193.37
+TAM_MEI_029,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.7,200.98
+TAM_MEI_029,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.4,202.43
+TAM_MEI_029,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.76,214.09
+TAM_MEI_029,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.53,216.66
+TAM_MEI_029,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.0,225.12
+TAM_MEI_029,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.33,226.5
+TAM_MEI_029,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.49,232.33
+TAM_MEI_029,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.41,235.78
+TAM_MEI_029,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.82,246.34
+TAM_MEI_029,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.59,246.98
+TAM_MEI_029,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,2.66,255.84
+TAM_MEI_029,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,0.76,264.29
+TAM_MEI_029,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.22,273.13
+TAM_MEI_029,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.16,275.33
+TAM_MEI_029,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.08,281.88
+TAM_MEI_029,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.82,282.74
+TAM_MEI_029,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.89,291.83
+TAM_MEI_029,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.28,294.16
+TAM_MEI_029,10,2,0,Tous les personnages ont-ils un casque ? ,6,6,1,4.73,303.27
+TAM_MEI_029,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,0.71,304.02
+TAM_MEI_029,10,3,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.31,310.18
+TAM_MEI_029,10,3,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,5.42,315.65
+TAM_MEI_029,10,4,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.56,322.67
+TAM_MEI_029,10,4,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.58,323.29
+TAM_MEI_029,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.41,330.05
+TAM_MEI_029,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.15,333.25
+TAM_MEI_029,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.71,336.0
+TAM_MEI_029,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.64,342.96
+TAM_MEI_029,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.18,344.19
+TAM_MEI_029,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.62,347.84
+TAM_MEI_029,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.59,352.46
+TAM_MEI_029,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,1.21,363.87
+TAM_MEI_029,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.16,366.07
+TAM_MEI_029,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.98,368.09
+TAM_MEI_029,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.25,370.39
+TAM_MEI_029,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,1.33,381.41
+TAM_MEI_029,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.05,382.49
+TAM_MEI_029,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.83,385.38
+TAM_MEI_029,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.11,387.53
+TAM_MEI_029,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,2.4,399.66
+TAM_MEI_029,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.22,400.92
+TAM_MEI_029,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.07,402.04
+TAM_MEI_029,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.36,405.44
+TAM_MEI_029,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.55,416.7
+TAM_MEI_029,14,2,1,Avez-vous vu une éponge ?,0,6,0,1.64,418.38
+TAM_MEI_029,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.15,420.58
+TAM_MEI_029,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.88,422.51
+TAM_MEI_029,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.31,433.19
+TAM_MEI_029,14,3,1,Avez-vous vu une éponge ?,6,6,1,0.71,433.94
+TAM_MEI_029,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.13,435.11
+TAM_MEI_029,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.33,436.49
+TAM_MEI_029,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,2.06,448.11
+TAM_MEI_029,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.61,449.75
+TAM_MEI_029,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.75,461.34
+TAM_MEI_029,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.13,462.5
+TAM_MEI_029,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.99,474.82
+TAM_MEI_029,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.63,476.51
+TAM_MEI_029,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.39,477.95
+TAM_MEI_029,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.36,490.79
+TAM_MEI_029,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.84,492.67
+TAM_MEI_029,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.28,494.0
+TAM_MEI_029,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,0.9,504.9
+TAM_MEI_029,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.02,505.97
+TAM_MEI_029,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.65,507.67
+TAM_MEI_029,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.61,514.74
+TAM_MEI_029,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.59,524.77
+TAM_MEI_029,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.29,529.12
+TAM_MEI_029,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.36,536.71
+TAM_MEI_029,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.89,540.66
+TAM_MEI_029,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.06,549.14
+TAM_MEI_029,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.21,551.41
+TAM_MEI_029,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.53,560.03
+TAM_MEI_029,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.64,564.73
+TAM_MEI_029,19,3,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.96,573.74
+TAM_MEI_029,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.78,575.56
+TAM_MEI_029,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.58,586.48
+TAM_MEI_029,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,1.67,588.2
+TAM_MEI_029,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.45,589.7
+TAM_MEI_029,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.73,600.76
+TAM_MEI_029,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.17,602.99
+TAM_MEI_029,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.0,604.03
+TAM_MEI_029,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.81,613.27
+TAM_MEI_029,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,3.18,616.51
+TAM_MEI_029,20,3,2,On peut apercevoir un clocher. ,6,0,0,0.98,617.55
+TAM_MEI_029,21,1,0,Les toits sont bleus. ,0,6,0,1.39,624.87
+TAM_MEI_029,21,2,0,Les toits sont bleus. ,6,6,1,1.43,634.56
+TAM_MEI_029,22,1,0,Il y a 5 bateaux. ,0,6,0,2.52,645.48
+TAM_MEI_029,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,2.07,647.6
+TAM_MEI_029,22,1,2,On peut voir un chien. ,0,0,1,1.26,648.91
+TAM_MEI_029,22,2,0,Il y a 5 bateaux. ,6,6,1,1.42,658.93
+TAM_MEI_029,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.95,661.93
+TAM_MEI_029,22,2,2,On peut voir un chien. ,0,0,1,1.53,663.51
+TAM_MEI_029,22,3,0,Il y a 5 bateaux. ,6,6,1,1.62,676.5
+TAM_MEI_029,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.89,679.44
+TAM_MEI_029,22,3,2,On peut voir un chien. ,0,0,1,0.76,680.25
+TAM_MEI_029,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.85,688.94
+TAM_MEI_029,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.13,695.4
+TAM_MEI_029,24,1,0,Les tapis sont alignés. ,0,0,1,1.93,706.58
+TAM_MEI_029,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,1.81,708.45
+TAM_MEI_029,24,1,2,L'armoire est ouverte. ,0,0,1,1.49,709.98
+TAM_MEI_029,24,2,0,Les tapis sont alignés. ,0,0,1,1.66,720.86
+TAM_MEI_029,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.14,722.06
+TAM_MEI_029,24,2,2,L'armoire est ouverte. ,0,0,1,2.1,724.2
+TAM_MEI_029,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.54,731.87
+TAM_MEI_029,26,1,0,Les costumes sont identiques. ,6,6,1,2.36,739.7
+TAM_MEI_029,26,2,0,Les costumes sont identiques. ,6,6,1,1.01,746.01
+TAM_MEI_029,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.42,754.54
+TAM_MEI_029,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.99,761.62
+TAM_MEI_029,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.42,768.26
+TAM_MEI_029,28,1,0,Les toits sont à la même hauteur. ,0,0,1,3.15,776.8
+TAM_MEI_029,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.06,782.85
+TAM_MEI_029,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,2.66,790.74
+TAM_MEI_029,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.88,796.64
+TAM_MEI_029,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,2.43,806.12
+TAM_MEI_029,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.73,813.91
+TAM_MEI_029,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.42,822.5
+TAM_MEI_029,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,2.5,825.06
+TAM_MEI_029,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.8,832.86
+TAM_MEI_029,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.71,833.63

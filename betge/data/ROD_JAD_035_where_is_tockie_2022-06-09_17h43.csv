@@ -1,0 +1,97 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+ROD_JAD_035,100,1,0,Les nuages sont gris. ,0,0,1,2.14,56.04
+ROD_JAD_035,100,2,0,Les nuages sont gris. ,0,0,1,1.73,63.16
+ROD_JAD_035,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,4.42,77.19
+ROD_JAD_035,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,0.91,83.8
+ROD_JAD_035,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,3.75,97.67
+ROD_JAD_035,102,2,0,Avez-vous vu un �l�phant ? ,0,6,0,0.92,105.87
+ROD_JAD_035,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.36,128.91
+ROD_JAD_035,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,2.92,131.87
+ROD_JAD_035,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.41,139.52
+ROD_JAD_035,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.6,141.15
+ROD_JAD_035,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.27,147.23
+ROD_JAD_035,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.76,158.43
+ROD_JAD_035,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.32,160.79
+ROD_JAD_035,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.99,163.81
+ROD_JAD_035,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.63,170.75
+ROD_JAD_035,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,3.45,174.24
+ROD_JAD_035,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.81,182.17
+ROD_JAD_035,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,1.31,183.52
+ROD_JAD_035,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.1,187.58
+ROD_JAD_035,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.56,189.18
+ROD_JAD_035,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.76,190.99
+ROD_JAD_035,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.94,197.88
+ROD_JAD_035,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.8,200.75
+ROD_JAD_035,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.64,211.09
+ROD_JAD_035,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.54,213.68
+ROD_JAD_035,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.18,223.74
+ROD_JAD_035,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.12,224.91
+ROD_JAD_035,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.86,231.69
+ROD_JAD_035,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.52,235.27
+ROD_JAD_035,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.78,241.38
+ROD_JAD_035,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,0.78,242.21
+ROD_JAD_035,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,4.0,252.56
+ROD_JAD_035,8,2,0,De quelle couleur est le t�l�phone ? ,0,0,1,1.66,261.92
+ROD_JAD_035,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.74,270.96
+ROD_JAD_035,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.99,274.0
+ROD_JAD_035,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,1.07,281.95
+ROD_JAD_035,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.42,283.41
+ROD_JAD_035,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.26,291.5
+ROD_JAD_035,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,2.3,293.84
+ROD_JAD_035,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.38,301.59
+ROD_JAD_035,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,1.79,303.43
+ROD_JAD_035,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,1.98,305.45
+ROD_JAD_035,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.65,310.88
+ROD_JAD_035,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.13,322.07
+ROD_JAD_035,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.2,323.31
+ROD_JAD_035,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.83,326.19
+ROD_JAD_035,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.02,328.25
+ROD_JAD_035,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,2.18,340.47
+ROD_JAD_035,14,1,1,Avez-vous vu une �ponge ?,0,6,0,1.38,341.89
+ROD_JAD_035,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.92,343.86
+ROD_JAD_035,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.3,346.21
+ROD_JAD_035,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,1.46,357.87
+ROD_JAD_035,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.16,359.07
+ROD_JAD_035,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.23,360.36
+ROD_JAD_035,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.54,361.93
+ROD_JAD_035,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,5.54,377.73
+ROD_JAD_035,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.87,379.65
+ROD_JAD_035,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.21,391.19
+ROD_JAD_035,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.3,392.52
+ROD_JAD_035,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.56,404.5
+ROD_JAD_035,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.42,405.96
+ROD_JAD_035,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.26,408.27
+ROD_JAD_035,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.24,417.01
+ROD_JAD_035,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.63,425.7
+ROD_JAD_035,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.19,427.93
+ROD_JAD_035,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.64,437.21
+ROD_JAD_035,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.12,440.38
+ROD_JAD_035,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.43,451.07
+ROD_JAD_035,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.16,452.29
+ROD_JAD_035,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,3.84,463.63
+ROD_JAD_035,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,1.88,465.56
+ROD_JAD_035,20,1,2,On peut apercevoir un clocher. ,0,0,1,2.06,467.66
+ROD_JAD_035,21,1,0,Les toits sont bleus. ,0,6,0,1.99,475.27
+ROD_JAD_035,21,2,0,Les toits sont bleus. ,6,6,1,1.07,482.19
+ROD_JAD_035,22,1,0,Il y a 5 bateaux. ,6,6,1,1.58,491.92
+ROD_JAD_035,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.65,494.63
+ROD_JAD_035,22,1,2,On peut voir un chien. ,0,0,1,1.67,496.33
+ROD_JAD_035,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,1.33,503.23
+ROD_JAD_035,24,1,0,Les tapis sont align�s. ,0,0,1,2.46,515.12
+ROD_JAD_035,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.16,517.34
+ROD_JAD_035,24,1,2,L'armoire est ouverte. ,0,0,1,1.91,519.29
+ROD_JAD_035,24,2,0,Les tapis sont align�s. ,0,0,1,1.33,531.81
+ROD_JAD_035,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,0.78,532.64
+ROD_JAD_035,24,2,2,L'armoire est ouverte. ,0,0,1,1.07,533.77
+ROD_JAD_035,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.49,541.52
+ROD_JAD_035,26,1,0,Les costumes sont identiques. ,6,6,1,1.84,548.57
+ROD_JAD_035,26,2,0,Les costumes sont identiques. ,6,6,1,1.46,555.84
+ROD_JAD_035,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.56,563.33
+ROD_JAD_035,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,2.36,570.74
+ROD_JAD_035,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,0.89,576.67
+ROD_JAD_035,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,2.05,583.63
+ROD_JAD_035,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.89,592.86
+ROD_JAD_035,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.56,601.34
+ROD_JAD_035,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.35,604.75
+ROD_JAD_035,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,1.19,613.08
+ROD_JAD_035,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.81,614.94

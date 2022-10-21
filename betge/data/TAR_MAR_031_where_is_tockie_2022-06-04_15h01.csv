@@ -1,0 +1,93 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+TAR_MAR_031,100,1,0,Les nuages sont gris. ,0,0,1,1.8,252.74
+TAR_MAR_031,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.17,264.78
+TAR_MAR_031,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,1.68,277.41
+TAR_MAR_031,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.09,300.68
+TAR_MAR_031,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.11,303.83
+TAR_MAR_031,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.76,314.03
+TAR_MAR_031,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.5,326.35
+TAR_MAR_031,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.83,334.22
+TAR_MAR_031,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.4,337.68
+TAR_MAR_031,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.28,348.01
+TAR_MAR_031,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.42,349.48
+TAR_MAR_031,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.75,355.75
+TAR_MAR_031,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.73,357.52
+TAR_MAR_031,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.01,358.57
+TAR_MAR_031,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.8,366.24
+TAR_MAR_031,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.18,372.47
+TAR_MAR_031,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.16,385.17
+TAR_MAR_031,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.14,387.35
+TAR_MAR_031,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.17,393.81
+TAR_MAR_031,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.64,396.5
+TAR_MAR_031,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.68,407.33
+TAR_MAR_031,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,1.05,416.83
+TAR_MAR_031,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.29,426.23
+TAR_MAR_031,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.37,428.64
+TAR_MAR_031,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.3,434.22
+TAR_MAR_031,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.73,438.0
+TAR_MAR_031,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.49,444.92
+TAR_MAR_031,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.58,447.54
+TAR_MAR_031,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,7.66,455.24
+TAR_MAR_031,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.05,461.91
+TAR_MAR_031,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.16,463.12
+TAR_MAR_031,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.78,464.94
+TAR_MAR_031,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.87,469.33
+TAR_MAR_031,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.31,483.24
+TAR_MAR_031,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.24,484.52
+TAR_MAR_031,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.88,487.46
+TAR_MAR_031,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.89,490.4
+TAR_MAR_031,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.37,501.75
+TAR_MAR_031,13,2,1,La pièce est-elle rangée ? ,0,0,1,0.95,502.75
+TAR_MAR_031,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,1.97,504.76
+TAR_MAR_031,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.06,506.87
+TAR_MAR_031,14,1,0,Avez-vous vu des mouchoirs usagés ? ,0,6,0,3.07,519.3
+TAR_MAR_031,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.33,520.67
+TAR_MAR_031,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.64,522.36
+TAR_MAR_031,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.0,525.41
+TAR_MAR_031,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.14,536.1
+TAR_MAR_031,14,2,1,Avez-vous vu une éponge ?,6,6,1,1.01,537.15
+TAR_MAR_031,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.24,538.44
+TAR_MAR_031,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,0.94,539.42
+TAR_MAR_031,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,5.06,553.99
+TAR_MAR_031,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.77,555.82
+TAR_MAR_031,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,4.37,572.05
+TAR_MAR_031,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.98,574.08
+TAR_MAR_031,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.43,576.56
+TAR_MAR_031,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,0.94,586.9
+TAR_MAR_031,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.18,588.12
+TAR_MAR_031,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.08,589.25
+TAR_MAR_031,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.85,595.3
+TAR_MAR_031,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.59,603.3
+TAR_MAR_031,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.42,605.78
+TAR_MAR_031,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.31,613.24
+TAR_MAR_031,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,6.15,619.45
+TAR_MAR_031,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,12.65,639.25
+TAR_MAR_031,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.11,641.4
+TAR_MAR_031,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.15,643.6
+TAR_MAR_031,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.14,654.95
+TAR_MAR_031,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.32,656.32
+TAR_MAR_031,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.6,656.98
+TAR_MAR_031,21,1,0,Les toits sont bleus. ,0,6,0,1.89,664.44
+TAR_MAR_031,22,1,0,Il y a 5 bateaux. ,6,6,1,1.29,677.14
+TAR_MAR_031,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,4.09,681.29
+TAR_MAR_031,22,1,2,On peut voir un chien. ,0,0,1,1.92,683.26
+TAR_MAR_031,22,2,0,Il y a 5 bateaux. ,6,6,1,1.33,693.23
+TAR_MAR_031,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.97,694.25
+TAR_MAR_031,22,2,2,On peut voir un chien. ,0,0,1,0.78,695.08
+TAR_MAR_031,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,5.14,705.48
+TAR_MAR_031,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.13,713.11
+TAR_MAR_031,24,1,0,Les tapis sont alignés. ,0,0,1,2.02,724.34
+TAR_MAR_031,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.67,728.06
+TAR_MAR_031,24,1,2,L'armoire est ouverte. ,0,0,1,1.59,729.69
+TAR_MAR_031,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.56,737.33
+TAR_MAR_031,26,1,0,Les costumes sont identiques. ,6,6,1,1.99,744.42
+TAR_MAR_031,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.55,751.23
+TAR_MAR_031,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.56,759.01
+TAR_MAR_031,28,2,0,Les toits sont à la même hauteur. ,0,0,1,0.74,765.26
+TAR_MAR_031,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,4.45,775.5
+TAR_MAR_031,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.36,782.17
+TAR_MAR_031,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.65,791.05
+TAR_MAR_031,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.6,800.0
+TAR_MAR_031,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.7,803.75
+TAR_MAR_031,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.96,812.79
+TAR_MAR_031,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.78,813.63

@@ -1,9 +1,0 @@
-LICENCE
-README
-pyproject.toml
-src/__init__.py
-src/betge.py
-src/betge.egg-info/PKG-INFO
-src/betge.egg-info/SOURCES.txt
-src/betge.egg-info/dependency_links.txt
-src/betge.egg-info/top_level.txt

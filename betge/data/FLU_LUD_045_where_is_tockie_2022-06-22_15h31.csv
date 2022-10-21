@@ -1,0 +1,117 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+FLU_LUD_045,100,1,0,Les nuages sont gris. ,0,0,1,2.33,48.25
+FLU_LUD_045,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,5.04,61.6
+FLU_LUD_045,102,1,0,Avez-vous vu un �l�phant ? ,6,6,1,2.49,73.57
+FLU_LUD_045,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,6.31,99.43
+FLU_LUD_045,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,6.14,105.62
+FLU_LUD_045,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.05,114.11
+FLU_LUD_045,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,1.11,115.25
+FLU_LUD_045,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.36,122.45
+FLU_LUD_045,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,9.0,139.81
+FLU_LUD_045,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.55,145.41
+FLU_LUD_045,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.51,149.95
+FLU_LUD_045,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.74,162.72
+FLU_LUD_045,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.86,164.61
+FLU_LUD_045,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.92,167.58
+FLU_LUD_045,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,4.77,177.81
+FLU_LUD_045,3,1,1,Avez-vous vu une corde � sauter ? ,6,6,1,2.69,180.53
+FLU_LUD_045,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.51,186.97
+FLU_LUD_045,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,4.99,192.0
+FLU_LUD_045,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,6.16,198.18
+FLU_LUD_045,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,7.7,210.88
+FLU_LUD_045,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.67,213.6
+FLU_LUD_045,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,4.06,223.62
+FLU_LUD_045,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.78,225.44
+FLU_LUD_045,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,4.71,238.22
+FLU_LUD_045,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,4.58,242.84
+FLU_LUD_045,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.51,253.2
+FLU_LUD_045,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,2.74,255.99
+FLU_LUD_045,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.22,264.13
+FLU_LUD_045,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.58,265.76
+FLU_LUD_045,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,4.12,277.33
+FLU_LUD_045,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,6.03,289.46
+FLU_LUD_045,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.2,292.71
+FLU_LUD_045,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,2.22,301.71
+FLU_LUD_045,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.4,304.14
+FLU_LUD_045,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.19,312.25
+FLU_LUD_045,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.8,314.1
+FLU_LUD_045,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.71,322.16
+FLU_LUD_045,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.24,323.45
+FLU_LUD_045,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.97,333.33
+FLU_LUD_045,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,5.11,338.49
+FLU_LUD_045,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,3.06,341.59
+FLU_LUD_045,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.66,350.63
+FLU_LUD_045,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,2.49,353.17
+FLU_LUD_045,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.65,355.88
+FLU_LUD_045,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,8.9,368.9
+FLU_LUD_045,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.48,381.76
+FLU_LUD_045,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,2.0,383.8
+FLU_LUD_045,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,4.07,387.92
+FLU_LUD_045,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,0,6,0,5.55,393.53
+FLU_LUD_045,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,3.11,406.64
+FLU_LUD_045,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,1.82,408.52
+FLU_LUD_045,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,6.53,415.09
+FLU_LUD_045,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,2.52,417.67
+FLU_LUD_045,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,0,6,0,4.67,432.33
+FLU_LUD_045,14,1,1,Avez-vous vu une �ponge ?,0,6,0,2.77,435.15
+FLU_LUD_045,14,1,2,Avez-vous vu des serviettes usag�es ?,0,6,0,2.34,437.54
+FLU_LUD_045,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.45,440.03
+FLU_LUD_045,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,3.04,453.45
+FLU_LUD_045,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.38,454.88
+FLU_LUD_045,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.94,456.86
+FLU_LUD_045,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.82,458.72
+FLU_LUD_045,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.88,472.91
+FLU_LUD_045,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,6.01,478.97
+FLU_LUD_045,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,4.35,493.65
+FLU_LUD_045,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.16,497.86
+FLU_LUD_045,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,5.08,513.16
+FLU_LUD_045,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.36,515.56
+FLU_LUD_045,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.11,517.71
+FLU_LUD_045,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.2,535.55
+FLU_LUD_045,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.24,537.83
+FLU_LUD_045,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.97,540.84
+FLU_LUD_045,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.71,549.56
+FLU_LUD_045,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.59,560.21
+FLU_LUD_045,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,7.75,568.0
+FLU_LUD_045,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.62,578.37
+FLU_LUD_045,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,8.71,587.13
+FLU_LUD_045,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,6.06,600.39
+FLU_LUD_045,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.56,603.01
+FLU_LUD_045,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,5.13,616.9
+FLU_LUD_045,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.64,619.59
+FLU_LUD_045,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.02,621.65
+FLU_LUD_045,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,6.83,638.68
+FLU_LUD_045,20,2,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.1,640.83
+FLU_LUD_045,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.77,643.66
+FLU_LUD_045,20,3,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,4.48,656.68
+FLU_LUD_045,20,3,1,La cal�che est tir�e par deux chevaux. ,6,0,0,2.13,658.85
+FLU_LUD_045,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.86,660.74
+FLU_LUD_045,21,1,0,Les toits sont bleus. ,6,6,1,2.91,669.37
+FLU_LUD_045,21,2,0,Les toits sont bleus. ,6,6,1,2.17,680.74
+FLU_LUD_045,22,1,0,Il y a 5 bateaux. ,0,6,0,2.62,692.44
+FLU_LUD_045,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.66,695.14
+FLU_LUD_045,22,1,2,On peut voir un chien. ,6,0,0,2.29,697.47
+FLU_LUD_045,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,3.43,706.79
+FLU_LUD_045,24,1,0,Les tapis sont align�s. ,6,0,0,5.31,721.96
+FLU_LUD_045,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,6.55,728.55
+FLU_LUD_045,24,1,2,L'armoire est ouverte. ,6,0,0,1.79,730.39
+FLU_LUD_045,24,2,0,Les tapis sont align�s. ,6,0,0,2.59,743.08
+FLU_LUD_045,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.55,744.69
+FLU_LUD_045,24,2,2,L'armoire est ouverte. ,0,0,1,0.1,744.83
+FLU_LUD_045,24,3,0,Les tapis sont align�s. ,0,0,1,4.64,759.61
+FLU_LUD_045,24,3,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.09,760.76
+FLU_LUD_045,24,3,2,L'armoire est ouverte. ,0,0,1,1.75,762.55
+FLU_LUD_045,24,4,0,Les tapis sont align�s. ,0,0,1,2.14,773.94
+FLU_LUD_045,24,4,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.32,775.31
+FLU_LUD_045,24,4,2,L'armoire est ouverte. ,0,0,1,1.63,776.98
+FLU_LUD_045,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.31,785.79
+FLU_LUD_045,26,1,0,Les costumes sont identiques. ,6,6,1,4.34,795.82
+FLU_LUD_045,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,3.54,805.13
+FLU_LUD_045,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,1.77,812.79
+FLU_LUD_045,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,5.95,824.15
+FLU_LUD_045,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,1.44,831.7
+FLU_LUD_045,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,4.74,842.21
+FLU_LUD_045,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,3.06,851.63
+FLU_LUD_045,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,4.42,864.58
+FLU_LUD_045,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,3.59,875.81
+FLU_LUD_045,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.71,878.58

@@ -1,0 +1,116 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MAR_CEC_015,100,1,0,Les nuages sont gris. ,0,0,1,3.94,183.44
+MAR_CEC_015,100,2,0,Les nuages sont gris. ,6,0,0,0.76,189.4
+MAR_CEC_015,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,4.35,200.73
+MAR_CEC_015,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.76,206.75
+MAR_CEC_015,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.42,219.05
+MAR_CEC_015,102,2,0,Avez-vous vu un éléphant ? ,0,6,0,2.14,228.21
+MAR_CEC_015,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.74,274.79
+MAR_CEC_015,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.96,277.79
+MAR_CEC_015,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.76,284.01
+MAR_CEC_015,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.39,285.44
+MAR_CEC_015,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.35,292.93
+MAR_CEC_015,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.23,303.98
+MAR_CEC_015,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.02,306.06
+MAR_CEC_015,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.79,307.89
+MAR_CEC_015,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.19,318.27
+MAR_CEC_015,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,1.65,319.97
+MAR_CEC_015,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.89,322.91
+MAR_CEC_015,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.54,330.11
+MAR_CEC_015,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,2.04,332.2
+MAR_CEC_015,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.14,339.02
+MAR_CEC_015,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.04,340.11
+MAR_CEC_015,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.87,346.48
+MAR_CEC_015,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.74,349.28
+MAR_CEC_015,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.41,350.74
+MAR_CEC_015,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.88,356.97
+MAR_CEC_015,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,22.37,379.39
+MAR_CEC_015,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.4,386.3
+MAR_CEC_015,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.09,387.44
+MAR_CEC_015,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,5.62,400.86
+MAR_CEC_015,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.24,404.14
+MAR_CEC_015,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.73,413.14
+MAR_CEC_015,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,0.65,413.84
+MAR_CEC_015,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,6,0,0,3.19,421.3
+MAR_CEC_015,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.95,425.31
+MAR_CEC_015,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.9,433.72
+MAR_CEC_015,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.03,434.8
+MAR_CEC_015,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,4.79,447.48
+MAR_CEC_015,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,2.65,457.85
+MAR_CEC_015,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,6.26,469.61
+MAR_CEC_015,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.93,473.58
+MAR_CEC_015,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.95,482.39
+MAR_CEC_015,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.29,484.73
+MAR_CEC_015,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,6.5,496.38
+MAR_CEC_015,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.12,500.55
+MAR_CEC_015,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.95,507.46
+MAR_CEC_015,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.37,507.89
+MAR_CEC_015,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.78,515.15
+MAR_CEC_015,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.98,517.18
+MAR_CEC_015,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.49,519.73
+MAR_CEC_015,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,6.62,531.04
+MAR_CEC_015,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.44,536.81
+MAR_CEC_015,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,6,0,9.35,555.36
+MAR_CEC_015,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.62,559.03
+MAR_CEC_015,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,5.38,564.46
+MAR_CEC_015,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.94,567.44
+MAR_CEC_015,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,3.07,580.29
+MAR_CEC_015,14,1,1,Avez-vous vu une éponge ?,0,6,0,3.56,583.9
+MAR_CEC_015,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.69,585.63
+MAR_CEC_015,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.52,588.21
+MAR_CEC_015,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,4.22,603.04
+MAR_CEC_015,14,2,1,Avez-vous vu une éponge ?,0,6,0,2.77,605.86
+MAR_CEC_015,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.9,606.8
+MAR_CEC_015,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.18,608.04
+MAR_CEC_015,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,2.93,620.18
+MAR_CEC_015,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,3.11,623.35
+MAR_CEC_015,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.09,635.43
+MAR_CEC_015,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.02,637.51
+MAR_CEC_015,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,8.71,655.88
+MAR_CEC_015,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,4.91,660.83
+MAR_CEC_015,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.47,662.36
+MAR_CEC_015,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,6.38,678.44
+MAR_CEC_015,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.04,680.53
+MAR_CEC_015,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.77,682.37
+MAR_CEC_015,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.73,691.49
+MAR_CEC_015,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,4.72,702.82
+MAR_CEC_015,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,9.38,712.25
+MAR_CEC_015,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.24,721.8
+MAR_CEC_015,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.13,725.98
+MAR_CEC_015,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.79,749.45
+MAR_CEC_015,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.15,753.66
+MAR_CEC_015,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.88,762.36
+MAR_CEC_015,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.18,763.59
+MAR_CEC_015,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,31.45,802.74
+MAR_CEC_015,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,1.51,804.3
+MAR_CEC_015,20,1,2,On peut apercevoir un clocher. ,0,0,1,1.18,805.54
+MAR_CEC_015,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,1.64,815.09
+MAR_CEC_015,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,2.79,817.93
+MAR_CEC_015,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.24,819.22
+MAR_CEC_015,21,1,0,Les toits sont bleus. ,6,6,1,1.67,826.69
+MAR_CEC_015,22,1,0,Il y a 5 bateaux. ,6,6,1,27.3,863.51
+MAR_CEC_015,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,5.23,868.79
+MAR_CEC_015,22,1,2,On peut voir un chien. ,0,0,1,1.86,870.71
+MAR_CEC_015,22,2,0,Il y a 5 bateaux. ,6,6,1,1.49,881.2
+MAR_CEC_015,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.46,882.71
+MAR_CEC_015,22,2,2,On peut voir un chien. ,0,0,1,0.9,883.66
+MAR_CEC_015,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,3.33,892.05
+MAR_CEC_015,24,1,0,Les tapis sont alignés. ,6,0,0,21.63,924.01
+MAR_CEC_015,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,4.01,928.08
+MAR_CEC_015,24,1,2,L'armoire est ouverte. ,6,0,0,2.03,930.16
+MAR_CEC_015,24,2,0,Les tapis sont alignés. ,6,0,0,4.46,944.01
+MAR_CEC_015,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.72,945.78
+MAR_CEC_015,24,2,2,L'armoire est ouverte. ,0,0,1,1.84,947.67
+MAR_CEC_015,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.47,955.64
+MAR_CEC_015,26,1,0,Les costumes sont identiques. ,6,6,1,1.94,963.3
+MAR_CEC_015,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,8.03,976.83
+MAR_CEC_015,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,22.07,1007.82
+MAR_CEC_015,28,1,0,Les toits sont à la même hauteur. ,6,0,0,2.25,1015.91
+MAR_CEC_015,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.14,1022.59
+MAR_CEC_015,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,14.02,1042.18
+MAR_CEC_015,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.63,1049.39
+MAR_CEC_015,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,3.4,1059.89
+MAR_CEC_015,31,1,0,Il y a du maïs sur l'image. ,0,6,0,3.57,1071.39
+MAR_CEC_015,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.07,1073.52
+MAR_CEC_015,31,2,0,Il y a du maïs sur l'image. ,6,6,1,19.99,1100.7
+MAR_CEC_015,31,2,1,Au moins deux poires figurent sur l'image. ,0,6,0,2.16,1102.93

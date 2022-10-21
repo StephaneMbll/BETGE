@@ -1,0 +1,82 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+ROM_MON_006,100,1,0,Les nuages sont gris. ,0,0,1,1.52,14.23
+ROM_MON_006,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.05,23.86
+ROM_MON_006,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,2.12,36.69
+ROM_MON_006,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.03,63.66
+ROM_MON_006,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,10.51,74.23
+ROM_MON_006,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.39,85.55
+ROM_MON_006,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.64,87.24
+ROM_MON_006,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.03,96.11
+ROM_MON_006,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.07,108.82
+ROM_MON_006,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.89,111.75
+ROM_MON_006,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.11,113.91
+ROM_MON_006,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.41,122.19
+ROM_MON_006,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,10.66,132.89
+ROM_MON_006,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.54,140.28
+ROM_MON_006,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.36,141.68
+ROM_MON_006,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.89,146.11
+ROM_MON_006,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.95,148.16
+ROM_MON_006,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.62,149.83
+ROM_MON_006,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.92,157.72
+ROM_MON_006,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.59,159.36
+ROM_MON_006,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.72,168.95
+ROM_MON_006,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.3,171.3
+ROM_MON_006,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.19,177.45
+ROM_MON_006,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,7.78,185.3
+ROM_MON_006,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.1,191.85
+ROM_MON_006,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.94,192.84
+ROM_MON_006,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.98,205.95
+ROM_MON_006,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.63,215.48
+ROM_MON_006,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,3.71,219.24
+ROM_MON_006,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,3.49,227.22
+ROM_MON_006,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.94,229.21
+ROM_MON_006,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.93,236.94
+ROM_MON_006,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.16,239.14
+ROM_MON_006,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,0,6,0,0.62,239.81
+ROM_MON_006,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.26,247.66
+ROM_MON_006,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.7,249.42
+ROM_MON_006,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.1,252.57
+ROM_MON_006,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.32,257.26
+ROM_MON_006,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.05,269.56
+ROM_MON_006,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.7,271.3
+ROM_MON_006,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,4.19,275.54
+ROM_MON_006,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.66,278.26
+ROM_MON_006,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,8.3,296.77
+ROM_MON_006,14,1,1,Avez-vous vu une éponge ?,0,6,0,2.74,299.62
+ROM_MON_006,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,2.41,302.07
+ROM_MON_006,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.42,304.54
+ROM_MON_006,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.33,316.32
+ROM_MON_006,14,2,1,Avez-vous vu une éponge ?,6,6,1,2.87,319.24
+ROM_MON_006,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.95,320.23
+ROM_MON_006,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.9,322.18
+ROM_MON_006,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.0,334.82
+ROM_MON_006,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.49,338.36
+ROM_MON_006,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.46,350.45
+ROM_MON_006,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.24,353.74
+ROM_MON_006,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.53,355.34
+ROM_MON_006,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.51,362.46
+ROM_MON_006,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.42,372.3
+ROM_MON_006,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,5.27,377.62
+ROM_MON_006,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.57,388.52
+ROM_MON_006,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.91,393.48
+ROM_MON_006,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.09,405.1
+ROM_MON_006,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,1.77,406.92
+ROM_MON_006,20,1,2,On peut apercevoir un clocher. ,0,0,1,3.81,410.78
+ROM_MON_006,21,1,0,Les toits sont bleus. ,6,6,1,2.5,419.23
+ROM_MON_006,22,1,0,Il y a 5 bateaux. ,0,6,0,1.35,428.78
+ROM_MON_006,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.74,430.57
+ROM_MON_006,22,1,2,On peut voir un chien. ,0,0,1,1.38,432.0
+ROM_MON_006,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.11,439.49
+ROM_MON_006,24,1,0,Les tapis sont alignés. ,0,0,1,3.19,452.02
+ROM_MON_006,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,5.05,457.12
+ROM_MON_006,24,1,2,L'armoire est ouverte. ,0,0,1,1.3,458.46
+ROM_MON_006,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.58,465.05
+ROM_MON_006,26,1,0,Les costumes sont identiques. ,0,6,0,2.79,472.81
+ROM_MON_006,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.47,480.47
+ROM_MON_006,28,1,0,Les toits sont à la même hauteur. ,0,0,1,4.92,492.59
+ROM_MON_006,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,5.84,503.62
+ROM_MON_006,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.85,513.85
+ROM_MON_006,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.88,523.08
+ROM_MON_006,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,2.4,525.54
+ROM_MON_006,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.43,534.47
+ROM_MON_006,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.42,535.94

@@ -1,0 +1,136 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+ZIG_ALI_042,100,1,0,Les nuages sont gris. ,6,0,0,5.49,35.24
+ZIG_ALI_042,100,2,0,Les nuages sont gris. ,6,0,0,4.55,46.85
+ZIG_ALI_042,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,7.29,70.65
+ZIG_ALI_042,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,5.42,88.94
+ZIG_ALI_042,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.78,118.18
+ZIG_ALI_042,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,0,6,0,10.47,128.7
+ZIG_ALI_042,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,5.67,143.73
+ZIG_ALI_042,0,2,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,7.43,151.21
+ZIG_ALI_042,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.39,160.4
+ZIG_ALI_042,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,10.69,188.63
+ZIG_ALI_042,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,18.84,207.52
+ZIG_ALI_042,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,7.48,215.04
+ZIG_ALI_042,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,5.63,231.08
+ZIG_ALI_042,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,1,0,0,2.33,233.44
+ZIG_ALI_042,2,2,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,8.99,242.47
+ZIG_ALI_042,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,5,0,0,3.35,255.22
+ZIG_ALI_042,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.6,257.86
+ZIG_ALI_042,2,3,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,7.95,265.85
+ZIG_ALI_042,2,4,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,5.86,279.44
+ZIG_ALI_042,2,4,1,Combien y a-t-il de personnes sur cette photo ? ,5,0,0,4.38,283.85
+ZIG_ALI_042,2,4,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,5,0,0,5.72,289.62
+ZIG_ALI_042,2,5,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.25,300.53
+ZIG_ALI_042,2,5,1,Combien y a-t-il de personnes sur cette photo ? ,1,0,0,2.04,302.62
+ZIG_ALI_042,2,5,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,4.83,307.49
+ZIG_ALI_042,2,6,0,Combien y a-t-il de personnes assises sur cette photo ? ,5,0,0,3.67,319.07
+ZIG_ALI_042,2,6,1,Combien y a-t-il de personnes sur cette photo ? ,5,0,0,1.13,320.24
+ZIG_ALI_042,2,6,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.41,322.7
+ZIG_ALI_042,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,6.4,336.92
+ZIG_ALI_042,3,1,1,Avez-vous vu une corde � sauter ? ,0,6,0,9.34,346.3
+ZIG_ALI_042,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,5,6,0,4.31,357.85
+ZIG_ALI_042,3,2,1,Avez-vous vu une corde � sauter ? ,5,6,0,3.26,361.16
+ZIG_ALI_042,3,3,0,Combien y a-t-il de personnes sur cette photo ? ,5,6,0,6.23,373.73
+ZIG_ALI_042,3,3,1,Avez-vous vu une corde � sauter ? ,5,6,0,2.13,375.91
+ZIG_ALI_042,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.17,385.75
+ZIG_ALI_042,4,1,1,Avez-vous vu une balle sur cette photo ? ,5,6,0,7.69,393.48
+ZIG_ALI_042,4,1,2,Avez-vous vu une corde � sauter ? ,5,6,0,5.17,398.7
+ZIG_ALI_042,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,6.36,411.44
+ZIG_ALI_042,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,1,0,0,8.92,420.4
+ZIG_ALI_042,5,2,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,4.96,433.61
+ZIG_ALI_042,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,1,0,0,2.85,436.52
+ZIG_ALI_042,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,1,0,0,5.99,451.18
+ZIG_ALI_042,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,9.24,460.48
+ZIG_ALI_042,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,5.41,475.41
+ZIG_ALI_042,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,4.81,480.26
+ZIG_ALI_042,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,10.04,496.13
+ZIG_ALI_042,7,1,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,14.63,510.82
+ZIG_ALI_042,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,5.15,522.88
+ZIG_ALI_042,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,3.85,526.78
+ZIG_ALI_042,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,8.22,543.72
+ZIG_ALI_042,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,21.71,575.58
+ZIG_ALI_042,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,5,0,0,3.63,579.25
+ZIG_ALI_042,9,2,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,5,6,0,3.55,592.58
+ZIG_ALI_042,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,5.89,598.52
+ZIG_ALI_042,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,6.53,611.26
+ZIG_ALI_042,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,6.35,617.65
+ZIG_ALI_042,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,5.25,629.1
+ZIG_ALI_042,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,6.77,635.92
+ZIG_ALI_042,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.44,647.39
+ZIG_ALI_042,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,11.15,658.6
+ZIG_ALI_042,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,4.33,662.99
+ZIG_ALI_042,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.57,672.77
+ZIG_ALI_042,11,2,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,6,6,1,4.97,677.79
+ZIG_ALI_042,11,2,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,5.21,683.06
+ZIG_ALI_042,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,4.55,693.05
+ZIG_ALI_042,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,6.3,710.9
+ZIG_ALI_042,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,4.55,715.5
+ZIG_ALI_042,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,7.82,723.37
+ZIG_ALI_042,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,5,6,0,3.77,727.19
+ZIG_ALI_042,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,6.78,745.61
+ZIG_ALI_042,13,2,1,La pi�ce est-elle rang�e ? ,0,0,1,4.09,749.75
+ZIG_ALI_042,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,2.88,752.68
+ZIG_ALI_042,13,2,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,12.61,765.34
+ZIG_ALI_042,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,5.52,782.79
+ZIG_ALI_042,14,1,1,Avez-vous vu une �ponge ?,6,6,1,3.76,786.59
+ZIG_ALI_042,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,3.02,789.65
+ZIG_ALI_042,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,7.71,797.41
+ZIG_ALI_042,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,4.35,815.52
+ZIG_ALI_042,14,2,1,Avez-vous vu une �ponge ?,6,6,1,0.63,816.2
+ZIG_ALI_042,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,5.05,821.31
+ZIG_ALI_042,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,2.93,824.28
+ZIG_ALI_042,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,13.06,849.2
+ZIG_ALI_042,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,7.18,856.44
+ZIG_ALI_042,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,6.8,881.24
+ZIG_ALI_042,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.53,885.82
+ZIG_ALI_042,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,12.71,909.54
+ZIG_ALI_042,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,8.21,917.8
+ZIG_ALI_042,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,6.31,924.16
+ZIG_ALI_042,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,5.72,943.09
+ZIG_ALI_042,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,6.51,949.65
+ZIG_ALI_042,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,4.56,954.27
+ZIG_ALI_042,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,10.98,971.34
+ZIG_ALI_042,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,5.15,983.64
+ZIG_ALI_042,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,11.69,1001.38
+ZIG_ALI_042,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,11.86,1013.3
+ZIG_ALI_042,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,6.03,1028.74
+ZIG_ALI_042,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.29,1033.08
+ZIG_ALI_042,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,10.55,1050.51
+ZIG_ALI_042,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,8.84,1059.42
+ZIG_ALI_042,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.97,1069.96
+ZIG_ALI_042,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,5.26,1075.26
+ZIG_ALI_042,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,6,0,0,9.51,1093.82
+ZIG_ALI_042,20,1,1,La cal�che est tir�e par deux chevaux. ,6,0,0,8.08,1101.96
+ZIG_ALI_042,20,1,2,On peut apercevoir un clocher. ,0,0,1,8.29,1110.3
+ZIG_ALI_042,21,1,0,Les toits sont bleus. ,0,6,0,9.39,1128.6
+ZIG_ALI_042,21,2,0,Les toits sont bleus. ,6,6,1,2.31,1141.62
+ZIG_ALI_042,22,1,0,Il y a 5 bateaux. ,6,6,1,9.39,1161.46
+ZIG_ALI_042,22,1,1,Il y a  des bateaux a 2 voiles. ,1,6,0,9.55,1171.08
+ZIG_ALI_042,22,1,2,On peut voir un chien. ,6,0,0,7.51,1178.64
+ZIG_ALI_042,22,2,0,Il y a 5 bateaux. ,6,6,1,4.75,1194.29
+ZIG_ALI_042,22,2,1,Il y a  des bateaux a 2 voiles. ,1,6,0,9.59,1203.94
+ZIG_ALI_042,22,2,2,On peut voir un chien. ,6,0,0,4.98,1208.97
+ZIG_ALI_042,23,1,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,7.18,1222.62
+ZIG_ALI_042,23,2,0,Toutes les lunes sont dans le m�me sens. ,6,0,0,2.47,1234.9
+ZIG_ALI_042,24,1,0,Les tapis sont align�s. ,0,0,1,8.34,1255.69
+ZIG_ALI_042,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,7.21,1262.96
+ZIG_ALI_042,24,1,2,L'armoire est ouverte. ,0,0,1,3.42,1266.45
+ZIG_ALI_042,24,2,0,Les tapis sont align�s. ,0,0,1,3.99,1282.12
+ZIG_ALI_042,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,2.22,1284.4
+ZIG_ALI_042,24,2,2,L'armoire est ouverte. ,0,0,1,2.76,1287.2
+ZIG_ALI_042,25,1,0,Il y a plus de 10 pommes.,0,0,1,7.73,1301.85
+ZIG_ALI_042,26,1,0,Les costumes sont identiques. ,6,6,1,6.05,1314.28
+ZIG_ALI_042,26,2,0,Les costumes sont identiques. ,6,6,1,5.39,1326.5
+ZIG_ALI_042,26,3,0,Les costumes sont identiques. ,6,6,1,4.88,1338.28
+ZIG_ALI_042,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,4.86,1349.27
+ZIG_ALI_042,27,2,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,2.44,1358.62
+ZIG_ALI_042,28,1,0,Les toits sont � la m�me hauteur. ,6,0,0,4.8,1369.63
+ZIG_ALI_042,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,0.77,1376.61
+ZIG_ALI_042,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,9.3,1392.28
+ZIG_ALI_042,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,1.93,1401.09
+ZIG_ALI_042,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,4.72,1414.25
+ZIG_ALI_042,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,2.53,1425.98
+ZIG_ALI_042,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,3.65,1438.66
+ZIG_ALI_042,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,4.7,1443.43
+ZIG_ALI_042,31,2,0,Il y a du ma�s sur l'image. ,6,6,1,2.45,1454.43
+ZIG_ALI_042,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.29,1456.79

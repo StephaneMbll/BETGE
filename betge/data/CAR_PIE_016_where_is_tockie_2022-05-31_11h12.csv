@@ -1,0 +1,128 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+CAR_PIE_016,100,1,0,Les nuages sont gris. ,0,0,1,2.31,36.54
+CAR_PIE_016,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,1.93,45.34
+CAR_PIE_016,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.44,55.4
+CAR_PIE_016,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.31,80.67
+CAR_PIE_016,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,5.46,86.17
+CAR_PIE_016,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.04,93.68
+CAR_PIE_016,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.7,94.43
+CAR_PIE_016,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.51,101.19
+CAR_PIE_016,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.87,113.0
+CAR_PIE_016,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.12,115.16
+CAR_PIE_016,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.75,115.94
+CAR_PIE_016,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,1.38,125.5
+CAR_PIE_016,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.31,126.84
+CAR_PIE_016,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.65,129.54
+CAR_PIE_016,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.74,136.13
+CAR_PIE_016,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.12,137.29
+CAR_PIE_016,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.25,143.15
+CAR_PIE_016,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.54,145.72
+CAR_PIE_016,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.21,146.96
+CAR_PIE_016,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.34,151.71
+CAR_PIE_016,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.34,153.08
+CAR_PIE_016,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.76,154.88
+CAR_PIE_016,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.44,162.92
+CAR_PIE_016,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.26,165.23
+CAR_PIE_016,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,1.39,171.62
+CAR_PIE_016,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.6,175.27
+CAR_PIE_016,5,3,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,0.65,180.91
+CAR_PIE_016,5,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.12,182.07
+CAR_PIE_016,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.05,193.53
+CAR_PIE_016,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,3.67,197.25
+CAR_PIE_016,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,2.27,207.35
+CAR_PIE_016,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.74,209.14
+CAR_PIE_016,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.28,216.11
+CAR_PIE_016,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,5.21,221.37
+CAR_PIE_016,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.05,227.28
+CAR_PIE_016,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.68,230.01
+CAR_PIE_016,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.16,240.05
+CAR_PIE_016,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.42,249.4
+CAR_PIE_016,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.87,258.75
+CAR_PIE_016,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.78,261.56
+CAR_PIE_016,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.25,267.96
+CAR_PIE_016,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,0.98,268.98
+CAR_PIE_016,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.71,277.48
+CAR_PIE_016,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.88,281.39
+CAR_PIE_016,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.51,288.62
+CAR_PIE_016,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.7,290.36
+CAR_PIE_016,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.14,292.54
+CAR_PIE_016,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.02,297.04
+CAR_PIE_016,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.14,307.66
+CAR_PIE_016,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.59,309.29
+CAR_PIE_016,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.63,311.96
+CAR_PIE_016,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.74,314.75
+CAR_PIE_016,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.08,325.48
+CAR_PIE_016,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.11,326.62
+CAR_PIE_016,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.12,327.79
+CAR_PIE_016,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.54,329.37
+CAR_PIE_016,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,10.48,349.93
+CAR_PIE_016,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.43,351.4
+CAR_PIE_016,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.19,352.63
+CAR_PIE_016,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,4.62,357.29
+CAR_PIE_016,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.93,368.13
+CAR_PIE_016,14,2,1,Avez-vous vu une éponge ?,0,6,0,1.88,370.04
+CAR_PIE_016,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.57,370.66
+CAR_PIE_016,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.57,372.27
+CAR_PIE_016,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.7,383.3
+CAR_PIE_016,14,3,1,Avez-vous vu une éponge ?,0,6,0,1.3,384.65
+CAR_PIE_016,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.44,386.14
+CAR_PIE_016,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.29,388.48
+CAR_PIE_016,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.23,401.31
+CAR_PIE_016,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.88,403.23
+CAR_PIE_016,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.03,413.92
+CAR_PIE_016,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.7,414.66
+CAR_PIE_016,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.62,427.54
+CAR_PIE_016,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.52,429.1
+CAR_PIE_016,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.7,430.85
+CAR_PIE_016,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.78,443.3
+CAR_PIE_016,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.39,444.74
+CAR_PIE_016,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.21,446.0
+CAR_PIE_016,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.61,453.1
+CAR_PIE_016,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.17,461.09
+CAR_PIE_016,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.04,465.19
+CAR_PIE_016,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.05,473.9
+CAR_PIE_016,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,3.2,477.16
+CAR_PIE_016,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,3.79,487.52
+CAR_PIE_016,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.26,489.83
+CAR_PIE_016,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.76,498.13
+CAR_PIE_016,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.85,500.02
+CAR_PIE_016,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.43,509.68
+CAR_PIE_016,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,1.77,511.5
+CAR_PIE_016,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.23,512.78
+CAR_PIE_016,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.75,522.36
+CAR_PIE_016,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,3.09,525.49
+CAR_PIE_016,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.5,527.03
+CAR_PIE_016,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.83,536.58
+CAR_PIE_016,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,0.97,537.61
+CAR_PIE_016,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.0,538.65
+CAR_PIE_016,21,1,0,Les toits sont bleus. ,0,6,0,2.54,546.4
+CAR_PIE_016,21,2,0,Les toits sont bleus. ,6,6,1,0.96,552.73
+CAR_PIE_016,22,1,0,Il y a 5 bateaux. ,6,6,1,1.61,562.88
+CAR_PIE_016,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.88,565.81
+CAR_PIE_016,22,1,2,On peut voir un chien. ,0,0,1,2.54,568.39
+CAR_PIE_016,22,2,0,Il y a 5 bateaux. ,6,6,1,1.23,578.07
+CAR_PIE_016,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.74,578.85
+CAR_PIE_016,22,2,2,On peut voir un chien. ,0,0,1,0.82,579.71
+CAR_PIE_016,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.61,586.45
+CAR_PIE_016,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.61,592.73
+CAR_PIE_016,24,1,0,Les tapis sont alignés. ,0,0,1,2.78,605.75
+CAR_PIE_016,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,4.69,610.49
+CAR_PIE_016,24,1,2,L'armoire est ouverte. ,0,0,1,1.07,611.61
+CAR_PIE_016,24,2,0,Les tapis sont alignés. ,0,0,1,1.71,622.76
+CAR_PIE_016,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.04,623.85
+CAR_PIE_016,24,2,2,L'armoire est ouverte. ,0,0,1,0.94,624.83
+CAR_PIE_016,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.36,632.7
+CAR_PIE_016,25,2,0,Il y a plus de 10 pommes.,0,0,1,1.05,639.26
+CAR_PIE_016,26,1,0,Les costumes sont identiques. ,6,6,1,3.05,647.37
+CAR_PIE_016,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,7.6,660.41
+CAR_PIE_016,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.74,666.53
+CAR_PIE_016,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,0.64,672.52
+CAR_PIE_016,28,1,0,Les toits sont à la même hauteur. ,0,0,1,1.83,679.57
+CAR_PIE_016,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.99,688.41
+CAR_PIE_016,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.74,694.51
+CAR_PIE_016,30,1,0,Il y a plus de 30 papillons.  ,6,0,0,1.68,703.6
+CAR_PIE_016,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.76,713.1
+CAR_PIE_016,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.45,722.16
+CAR_PIE_016,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.29,724.5
+CAR_PIE_016,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.13,733.02
+CAR_PIE_016,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.44,733.51

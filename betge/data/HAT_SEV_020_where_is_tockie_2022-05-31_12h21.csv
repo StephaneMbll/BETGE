@@ -1,0 +1,123 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+HAT_SEV_020,100,1,0,Les nuages sont gris. ,0,0,1,2.37,59.13
+HAT_SEV_020,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,2.71,69.34
+HAT_SEV_020,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,3.07,81.53
+HAT_SEV_020,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.66,103.97
+HAT_SEV_020,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.6,108.63
+HAT_SEV_020,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.45,115.93
+HAT_SEV_020,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.61,116.58
+HAT_SEV_020,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.61,123.14
+HAT_SEV_020,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.61,134.73
+HAT_SEV_020,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,3.35,138.13
+HAT_SEV_020,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.86,139.04
+HAT_SEV_020,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.75,150.96
+HAT_SEV_020,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.02,154.03
+HAT_SEV_020,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.92,156.0
+HAT_SEV_020,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.45,162.21
+HAT_SEV_020,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.4,163.64
+HAT_SEV_020,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.52,168.63
+HAT_SEV_020,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.34,171.0
+HAT_SEV_020,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.87,172.9
+HAT_SEV_020,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,4.54,182.34
+HAT_SEV_020,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.16,189.54
+HAT_SEV_020,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.07,196.82
+HAT_SEV_020,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.61,198.48
+HAT_SEV_020,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.27,209.91
+HAT_SEV_020,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.25,212.21
+HAT_SEV_020,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.96,222.16
+HAT_SEV_020,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.57,223.76
+HAT_SEV_020,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.34,230.84
+HAT_SEV_020,7,1,1,Le nom inscrit sur la première tombe est : ,6,0,0,7.08,237.98
+HAT_SEV_020,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,3.9,246.75
+HAT_SEV_020,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.73,251.51
+HAT_SEV_020,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.45,258.21
+HAT_SEV_020,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.68,259.94
+HAT_SEV_020,7,4,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.0,265.51
+HAT_SEV_020,7,4,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.95,266.51
+HAT_SEV_020,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,4.08,276.76
+HAT_SEV_020,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.82,285.53
+HAT_SEV_020,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,1.79,293.44
+HAT_SEV_020,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,4.46,297.94
+HAT_SEV_020,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.74,304.09
+HAT_SEV_020,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.02,306.15
+HAT_SEV_020,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.83,313.47
+HAT_SEV_020,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.16,315.69
+HAT_SEV_020,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.52,318.25
+HAT_SEV_020,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.48,323.31
+HAT_SEV_020,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.78,335.04
+HAT_SEV_020,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.6,336.68
+HAT_SEV_020,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.27,340.0
+HAT_SEV_020,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.47,342.52
+HAT_SEV_020,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.84,354.22
+HAT_SEV_020,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.17,355.43
+HAT_SEV_020,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,0.88,356.36
+HAT_SEV_020,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.22,357.64
+HAT_SEV_020,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.32,369.61
+HAT_SEV_020,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.99,371.63
+HAT_SEV_020,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,3.83,375.51
+HAT_SEV_020,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,3.38,378.95
+HAT_SEV_020,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.8,390.42
+HAT_SEV_020,14,2,1,Avez-vous vu une éponge ?,0,6,0,2.78,393.24
+HAT_SEV_020,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.58,394.86
+HAT_SEV_020,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,1.47,396.38
+HAT_SEV_020,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.58,408.08
+HAT_SEV_020,14,3,1,Avez-vous vu une éponge ?,6,6,1,1.05,409.17
+HAT_SEV_020,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.02,410.24
+HAT_SEV_020,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,0.87,411.15
+HAT_SEV_020,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,2.63,423.41
+HAT_SEV_020,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,4.71,428.16
+HAT_SEV_020,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.24,440.47
+HAT_SEV_020,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.14,442.65
+HAT_SEV_020,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.68,455.96
+HAT_SEV_020,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.98,459.98
+HAT_SEV_020,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.72,461.75
+HAT_SEV_020,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.15,473.96
+HAT_SEV_020,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,0.76,474.78
+HAT_SEV_020,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,0.59,475.42
+HAT_SEV_020,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.86,482.76
+HAT_SEV_020,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.37,491.82
+HAT_SEV_020,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.54,494.42
+HAT_SEV_020,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.67,503.52
+HAT_SEV_020,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.86,507.42
+HAT_SEV_020,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.12,515.87
+HAT_SEV_020,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,2.29,518.2
+HAT_SEV_020,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.33,527.93
+HAT_SEV_020,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,3.47,531.46
+HAT_SEV_020,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.84,533.34
+HAT_SEV_020,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.14,543.1
+HAT_SEV_020,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.23,544.38
+HAT_SEV_020,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.09,545.5
+HAT_SEV_020,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.33,555.43
+HAT_SEV_020,20,3,1,La calèche est tirée par deux chevaux. ,0,0,1,1.29,556.77
+HAT_SEV_020,20,3,2,On peut apercevoir un clocher. ,0,0,1,0.57,557.39
+HAT_SEV_020,21,1,0,Les toits sont bleus. ,0,6,0,3.47,566.02
+HAT_SEV_020,21,2,0,Les toits sont bleus. ,6,6,1,1.5,573.62
+HAT_SEV_020,22,1,0,Il y a 5 bateaux. ,6,6,1,2.04,584.59
+HAT_SEV_020,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.98,587.62
+HAT_SEV_020,22,1,2,On peut voir un chien. ,0,0,1,2.31,589.97
+HAT_SEV_020,22,2,0,Il y a 5 bateaux. ,6,6,1,1.27,599.8
+HAT_SEV_020,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.6,601.45
+HAT_SEV_020,22,2,2,On peut voir un chien. ,0,0,1,0.93,602.43
+HAT_SEV_020,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.84,611.29
+HAT_SEV_020,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.83,618.97
+HAT_SEV_020,24,1,0,Les tapis sont alignés. ,6,0,0,5.06,633.81
+HAT_SEV_020,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,4.62,638.47
+HAT_SEV_020,24,1,2,L'armoire est ouverte. ,0,0,1,2.62,641.13
+HAT_SEV_020,24,2,0,Les tapis sont alignés. ,0,0,1,1.53,652.29
+HAT_SEV_020,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,0.67,653.02
+HAT_SEV_020,24,2,2,L'armoire est ouverte. ,0,0,1,0.56,653.62
+HAT_SEV_020,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.24,660.84
+HAT_SEV_020,26,1,0,Les costumes sont identiques. ,6,6,1,3.3,669.27
+HAT_SEV_020,26,2,0,Les costumes sont identiques. ,6,6,1,2.53,677.31
+HAT_SEV_020,26,3,0,Les costumes sont identiques. ,6,6,1,0.5,682.96
+HAT_SEV_020,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.34,690.24
+HAT_SEV_020,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.64,698.49
+HAT_SEV_020,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.75,705.52
+HAT_SEV_020,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,4.13,714.6
+HAT_SEV_020,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.84,720.74
+HAT_SEV_020,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.68,729.46
+HAT_SEV_020,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.71,739.33
+HAT_SEV_020,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.74,749.26
+HAT_SEV_020,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.26,751.59
+HAT_SEV_020,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.71,759.68
+HAT_SEV_020,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.01,760.75

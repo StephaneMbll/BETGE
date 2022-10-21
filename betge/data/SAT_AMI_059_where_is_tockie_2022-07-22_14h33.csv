@@ -1,0 +1,167 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SAT_AMI_059,100,1,0,Les nuages sont gris. ,0,0,1,1.81,32.91
+SAT_AMI_059,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.62,43.05
+SAT_AMI_059,101,2,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,2.18,49.93
+SAT_AMI_059,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.2,62.78
+SAT_AMI_059,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,0.91,71.35
+SAT_AMI_059,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.27,97.25
+SAT_AMI_059,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.51,99.8
+SAT_AMI_059,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.81,110.42
+SAT_AMI_059,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.66,112.12
+SAT_AMI_059,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.07,119.73
+SAT_AMI_059,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.59,130.8
+SAT_AMI_059,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.0,142.21
+SAT_AMI_059,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.75,146.0
+SAT_AMI_059,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,3.85,149.9
+SAT_AMI_059,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.24,163.34
+SAT_AMI_059,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.61,165.99
+SAT_AMI_059,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.35,167.38
+SAT_AMI_059,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.28,177.66
+SAT_AMI_059,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.69,180.38
+SAT_AMI_059,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.42,181.85
+SAT_AMI_059,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.27,188.44
+SAT_AMI_059,3,1,1,Avez-vous vu une corde à sauter ? ,0,6,0,2.89,191.37
+SAT_AMI_059,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,0.72,196.83
+SAT_AMI_059,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.1,197.98
+SAT_AMI_059,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.71,203.01
+SAT_AMI_059,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.25,205.3
+SAT_AMI_059,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.43,205.78
+SAT_AMI_059,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.19,211.8
+SAT_AMI_059,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.22,213.07
+SAT_AMI_059,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,3.28,216.37
+SAT_AMI_059,4,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.48,220.84
+SAT_AMI_059,4,3,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.43,222.31
+SAT_AMI_059,4,3,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.91,223.27
+SAT_AMI_059,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.74,230.63
+SAT_AMI_059,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.54,232.22
+SAT_AMI_059,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.09,238.08
+SAT_AMI_059,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.85,238.98
+SAT_AMI_059,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,4.06,250.36
+SAT_AMI_059,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.41,252.83
+SAT_AMI_059,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.97,262.25
+SAT_AMI_059,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.64,263.93
+SAT_AMI_059,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.98,270.43
+SAT_AMI_059,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.86,275.34
+SAT_AMI_059,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.42,282.5
+SAT_AMI_059,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.73,286.28
+SAT_AMI_059,7,3,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.41,291.21
+SAT_AMI_059,7,3,1,Le nom inscrit sur la première tombe est : ,0,0,1,0.94,292.18
+SAT_AMI_059,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,1.88,300.29
+SAT_AMI_059,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,0.6,308.17
+SAT_AMI_059,8,3,0,De quelle couleur est le téléphone ? ,6,0,0,0.26,314.17
+SAT_AMI_059,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,3.11,322.02
+SAT_AMI_059,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.8,323.87
+SAT_AMI_059,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.74,329.96
+SAT_AMI_059,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.14,331.12
+SAT_AMI_059,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.08,337.41
+SAT_AMI_059,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.01,339.48
+SAT_AMI_059,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,0.85,344.57
+SAT_AMI_059,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.76,345.38
+SAT_AMI_059,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.65,352.28
+SAT_AMI_059,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.37,354.7
+SAT_AMI_059,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,3.03,357.78
+SAT_AMI_059,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.22,364.48
+SAT_AMI_059,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.72,366.26
+SAT_AMI_059,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.22,367.51
+SAT_AMI_059,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.55,372.73
+SAT_AMI_059,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.45,376.98
+SAT_AMI_059,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.11,387.45
+SAT_AMI_059,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.63,389.13
+SAT_AMI_059,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.98,392.17
+SAT_AMI_059,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.63,394.85
+SAT_AMI_059,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.22,406.3
+SAT_AMI_059,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.14,407.47
+SAT_AMI_059,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.23,408.74
+SAT_AMI_059,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.31,410.09
+SAT_AMI_059,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.3,422.27
+SAT_AMI_059,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.22,423.54
+SAT_AMI_059,14,1,2,Avez-vous vu des serviettes usagées ?,0,6,0,1.62,425.21
+SAT_AMI_059,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.47,427.74
+SAT_AMI_059,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.55,439.25
+SAT_AMI_059,14,2,1,Avez-vous vu une éponge ?,6,6,1,0.65,439.95
+SAT_AMI_059,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.26,442.26
+SAT_AMI_059,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.16,443.46
+SAT_AMI_059,14,3,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,0.69,453.74
+SAT_AMI_059,14,3,1,Avez-vous vu une éponge ?,6,6,1,0.68,454.46
+SAT_AMI_059,14,3,2,Avez-vous vu des serviettes usagées ?,6,6,1,0.92,455.42
+SAT_AMI_059,14,3,3,Les rebords de la fenêtre sont-ils propres ? ,6,0,0,0.93,456.39
+SAT_AMI_059,14,4,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.67,469.17
+SAT_AMI_059,14,4,1,Avez-vous vu une éponge ?,6,6,1,1.17,470.37
+SAT_AMI_059,14,4,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.19,471.59
+SAT_AMI_059,14,4,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.83,473.46
+SAT_AMI_059,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.61,487.28
+SAT_AMI_059,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,3.42,490.76
+SAT_AMI_059,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.74,502.01
+SAT_AMI_059,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.57,503.62
+SAT_AMI_059,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.0,516.23
+SAT_AMI_059,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.8,519.07
+SAT_AMI_059,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,1.69,520.81
+SAT_AMI_059,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.43,532.33
+SAT_AMI_059,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.29,533.66
+SAT_AMI_059,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,0.86,534.58
+SAT_AMI_059,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.27,542.44
+SAT_AMI_059,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.93,550.22
+SAT_AMI_059,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.83,558.63
+SAT_AMI_059,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.5,563.18
+SAT_AMI_059,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.2,571.17
+SAT_AMI_059,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,0.69,571.89
+SAT_AMI_059,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,2.51,580.58
+SAT_AMI_059,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.64,584.28
+SAT_AMI_059,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.45,592.57
+SAT_AMI_059,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,0.95,593.57
+SAT_AMI_059,19,3,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.01,600.83
+SAT_AMI_059,19,3,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,5.66,606.55
+SAT_AMI_059,19,4,0,Il y a plus de 7 tentacules visibles. ,6,6,1,2.13,614.67
+SAT_AMI_059,19,4,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.35,616.07
+SAT_AMI_059,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.91,626.91
+SAT_AMI_059,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.6,629.55
+SAT_AMI_059,20,1,2,On peut apercevoir un clocher. ,0,0,1,1.82,631.43
+SAT_AMI_059,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.5,641.13
+SAT_AMI_059,20,2,1,La calèche est tirée par deux chevaux. ,6,0,0,1.56,642.75
+SAT_AMI_059,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.99,644.78
+SAT_AMI_059,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,2.17,654.67
+SAT_AMI_059,20,3,1,La calèche est tirée par deux chevaux. ,6,0,0,1.08,655.8
+SAT_AMI_059,20,3,2,On peut apercevoir un clocher. ,0,0,1,0.7,656.53
+SAT_AMI_059,21,1,0,Les toits sont bleus. ,0,6,0,2.17,664.25
+SAT_AMI_059,21,2,0,Les toits sont bleus. ,6,6,1,1.11,671.1
+SAT_AMI_059,22,1,0,Il y a 5 bateaux. ,0,6,0,1.45,680.72
+SAT_AMI_059,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,3.07,683.84
+SAT_AMI_059,22,1,2,On peut voir un chien. ,6,0,0,1.46,685.35
+SAT_AMI_059,22,2,0,Il y a 5 bateaux. ,6,6,1,2.31,696.13
+SAT_AMI_059,22,2,1,Il y a  des bateaux a 2 voiles. ,0,6,0,1.3,697.49
+SAT_AMI_059,22,2,2,On peut voir un chien. ,0,0,1,1.02,698.56
+SAT_AMI_059,22,3,0,Il y a 5 bateaux. ,6,6,1,0.92,707.75
+SAT_AMI_059,22,3,1,Il y a  des bateaux a 2 voiles. ,6,6,1,4.66,712.46
+SAT_AMI_059,22,3,2,On peut voir un chien. ,0,0,1,0.8,713.31
+SAT_AMI_059,22,4,0,Il y a 5 bateaux. ,6,6,1,0.8,722.23
+SAT_AMI_059,22,4,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.94,723.23
+SAT_AMI_059,22,4,2,On peut voir un chien. ,0,0,1,0.74,724.01
+SAT_AMI_059,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,2.03,731.4
+SAT_AMI_059,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.26,737.54
+SAT_AMI_059,23,3,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.57,742.73
+SAT_AMI_059,24,1,0,Les tapis sont alignés. ,6,0,0,2.48,753.72
+SAT_AMI_059,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,2.05,755.82
+SAT_AMI_059,24,1,2,L'armoire est ouverte. ,0,0,1,1.15,757.02
+SAT_AMI_059,24,2,0,Les tapis sont alignés. ,0,0,1,2.73,769.22
+SAT_AMI_059,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.15,770.41
+SAT_AMI_059,24,2,2,L'armoire est ouverte. ,0,0,1,0.79,771.25
+SAT_AMI_059,24,3,0,Les tapis sont alignés. ,0,0,1,1.17,781.64
+SAT_AMI_059,24,3,1,Il y a une brosse à dent près du lit. ,0,0,1,1.32,783.01
+SAT_AMI_059,24,3,2,L'armoire est ouverte. ,0,0,1,1.07,784.12
+SAT_AMI_059,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.68,791.1
+SAT_AMI_059,26,1,0,Les costumes sont identiques. ,6,6,1,1.64,799.1
+SAT_AMI_059,26,2,0,Les costumes sont identiques. ,6,6,1,0.75,805.63
+SAT_AMI_059,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.53,812.96
+SAT_AMI_059,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,0.7,819.14
+SAT_AMI_059,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.4,825.86
+SAT_AMI_059,27,4,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.8,832.87
+SAT_AMI_059,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.32,840.35
+SAT_AMI_059,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.49,847.5
+SAT_AMI_059,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.85,854.29
+SAT_AMI_059,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.01,860.68
+SAT_AMI_059,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.3,868.99
+SAT_AMI_059,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,1.9,878.4
+SAT_AMI_059,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.55,888.21
+SAT_AMI_059,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,3.86,892.12
+SAT_AMI_059,31,2,0,Il y a du maïs sur l'image. ,6,6,1,0.92,900.12
+SAT_AMI_059,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.17,901.35

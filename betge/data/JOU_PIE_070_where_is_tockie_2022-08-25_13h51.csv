@@ -1,0 +1,129 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+JOU_PIE_070,100,1,0,Les nuages sont gris. ,6,0,0,2.23,45.03
+JOU_PIE_070,100,2,0,Les nuages sont gris. ,0,0,1,1.87,52.57
+JOU_PIE_070,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.22,63.64
+JOU_PIE_070,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.63,77.77
+JOU_PIE_070,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.45,113.7
+JOU_PIE_070,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.51,117.25
+JOU_PIE_070,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.59,125.72
+JOU_PIE_070,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.51,129.27
+JOU_PIE_070,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.92,137.31
+JOU_PIE_070,1,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.8,145.66
+JOU_PIE_070,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,3.32,156.5
+JOU_PIE_070,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.3,158.83
+JOU_PIE_070,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.28,161.14
+JOU_PIE_070,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.06,172.03
+JOU_PIE_070,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.08,175.15
+JOU_PIE_070,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,0.94,176.12
+JOU_PIE_070,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.27,182.34
+JOU_PIE_070,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.96,185.35
+JOU_PIE_070,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.03,190.81
+JOU_PIE_070,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.94,191.79
+JOU_PIE_070,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.24,196.09
+JOU_PIE_070,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,2.02,198.15
+JOU_PIE_070,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.76,199.96
+JOU_PIE_070,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,0.8,205.52
+JOU_PIE_070,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.4,206.95
+JOU_PIE_070,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,0.93,207.92
+JOU_PIE_070,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.62,214.32
+JOU_PIE_070,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.55,215.92
+JOU_PIE_070,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.5,223.69
+JOU_PIE_070,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.75,224.48
+JOU_PIE_070,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.48,233.35
+JOU_PIE_070,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.93,235.33
+JOU_PIE_070,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,0.65,243.58
+JOU_PIE_070,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.42,245.04
+JOU_PIE_070,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.04,251.65
+JOU_PIE_070,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.1,255.8
+JOU_PIE_070,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.14,261.57
+JOU_PIE_070,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.24,262.86
+JOU_PIE_070,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,3.18,273.35
+JOU_PIE_070,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,1.13,281.34
+JOU_PIE_070,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.88,291.82
+JOU_PIE_070,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,1.99,293.84
+JOU_PIE_070,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.58,301.09
+JOU_PIE_070,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.53,302.67
+JOU_PIE_070,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.79,310.0
+JOU_PIE_070,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.57,311.62
+JOU_PIE_070,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.06,319.31
+JOU_PIE_070,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.69,320.04
+JOU_PIE_070,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.48,327.5
+JOU_PIE_070,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.24,329.77
+JOU_PIE_070,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.06,331.88
+JOU_PIE_070,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.23,339.73
+JOU_PIE_070,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,1.48,341.25
+JOU_PIE_070,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.43,343.73
+JOU_PIE_070,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.07,348.64
+JOU_PIE_070,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.46,360.53
+JOU_PIE_070,13,1,1,La pièce est-elle rangée ? ,0,0,1,3.14,363.71
+JOU_PIE_070,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.44,366.2
+JOU_PIE_070,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.75,369.0
+JOU_PIE_070,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.39,381.0
+JOU_PIE_070,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.63,382.67
+JOU_PIE_070,13,2,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,1.04,383.76
+JOU_PIE_070,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.35,386.16
+JOU_PIE_070,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.59,397.69
+JOU_PIE_070,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.41,399.15
+JOU_PIE_070,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.63,401.81
+JOU_PIE_070,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.86,403.73
+JOU_PIE_070,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.13,414.95
+JOU_PIE_070,14,2,1,Avez-vous vu une éponge ?,0,6,0,2.58,417.57
+JOU_PIE_070,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.28,418.9
+JOU_PIE_070,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.44,420.38
+JOU_PIE_070,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.01,432.8
+JOU_PIE_070,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.83,434.67
+JOU_PIE_070,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,3.47,448.51
+JOU_PIE_070,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,0.97,449.53
+JOU_PIE_070,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.04,462.83
+JOU_PIE_070,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.65,464.52
+JOU_PIE_070,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.7,466.27
+JOU_PIE_070,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.1,478.17
+JOU_PIE_070,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,0.9,479.1
+JOU_PIE_070,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,0,0,1,2.76,481.92
+JOU_PIE_070,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.27,493.84
+JOU_PIE_070,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.4,495.29
+JOU_PIE_070,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.96,498.3
+JOU_PIE_070,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.69,505.46
+JOU_PIE_070,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.14,513.52
+JOU_PIE_070,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.8,516.37
+JOU_PIE_070,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.42,527.11
+JOU_PIE_070,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,4.08,531.24
+JOU_PIE_070,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.35,538.94
+JOU_PIE_070,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.06,540.05
+JOU_PIE_070,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.81,552.22
+JOU_PIE_070,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,2.19,554.46
+JOU_PIE_070,20,1,2,On peut apercevoir un clocher. ,0,0,1,1.89,556.4
+JOU_PIE_070,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.17,566.74
+JOU_PIE_070,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.68,568.47
+JOU_PIE_070,20,2,2,On peut apercevoir un clocher. ,0,0,1,0.99,569.52
+JOU_PIE_070,21,1,0,Les toits sont bleus. ,0,6,0,2.43,577.34
+JOU_PIE_070,21,2,0,Les toits sont bleus. ,6,6,1,0.82,583.48
+JOU_PIE_070,22,1,0,Il y a 5 bateaux. ,6,6,1,1.02,592.74
+JOU_PIE_070,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.83,595.62
+JOU_PIE_070,22,1,2,On peut voir un chien. ,6,0,0,1.33,597.0
+JOU_PIE_070,22,2,0,Il y a 5 bateaux. ,6,6,1,1.04,606.57
+JOU_PIE_070,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.54,607.15
+JOU_PIE_070,22,2,2,On peut voir un chien. ,0,0,1,0.54,607.73
+JOU_PIE_070,23,1,0,Toutes les lunes sont dans le même sens. ,6,0,0,4.25,617.37
+JOU_PIE_070,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.66,623.21
+JOU_PIE_070,24,1,0,Les tapis sont alignés. ,0,0,1,2.61,634.77
+JOU_PIE_070,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,2.58,637.39
+JOU_PIE_070,24,1,2,L'armoire est ouverte. ,0,0,1,1.69,639.13
+JOU_PIE_070,24,2,0,Les tapis sont alignés. ,0,0,1,1.67,650.13
+JOU_PIE_070,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,0.81,650.99
+JOU_PIE_070,24,2,2,L'armoire est ouverte. ,0,0,1,0.88,651.92
+JOU_PIE_070,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.26,659.26
+JOU_PIE_070,26,1,0,Les costumes sont identiques. ,6,6,1,2.16,666.47
+JOU_PIE_070,26,2,0,Les costumes sont identiques. ,0,6,0,2.4,675.91
+JOU_PIE_070,26,3,0,Les costumes sont identiques. ,6,6,1,1.31,683.65
+JOU_PIE_070,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.76,691.57
+JOU_PIE_070,27,2,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.29,699.08
+JOU_PIE_070,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.3,710.11
+JOU_PIE_070,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.14,716.5
+JOU_PIE_070,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.23,725.6
+JOU_PIE_070,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.88,735.82
+JOU_PIE_070,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.91,744.75
+JOU_PIE_070,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.72,753.48
+JOU_PIE_070,31,1,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.2,756.73
+JOU_PIE_070,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.04,764.96
+JOU_PIE_070,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.76,765.77

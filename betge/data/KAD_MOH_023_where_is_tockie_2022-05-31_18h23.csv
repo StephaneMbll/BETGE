@@ -1,0 +1,135 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+KAD_MOH_023,100,1,0,Les nuages sont gris. ,0,0,1,1.96,46.73
+KAD_MOH_023,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,6,0,0,3.13,56.55
+KAD_MOH_023,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,1.94,69.94
+KAD_MOH_023,102,2,0,Avez-vous vu un éléphant ? ,6,6,1,2.36,81.5
+KAD_MOH_023,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,5.51,107.31
+KAD_MOH_023,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,0,6,0,6.41,113.76
+KAD_MOH_023,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,4.43,122.91
+KAD_MOH_023,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,1.16,124.11
+KAD_MOH_023,0,3,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.36,130.01
+KAD_MOH_023,0,3,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.35,132.4
+KAD_MOH_023,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.96,139.12
+KAD_MOH_023,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.3,152.75
+KAD_MOH_023,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.1,156.88
+KAD_MOH_023,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,5.46,162.38
+KAD_MOH_023,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.79,174.41
+KAD_MOH_023,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.99,176.44
+KAD_MOH_023,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.18,177.67
+KAD_MOH_023,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.4,184.21
+KAD_MOH_023,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.23,186.48
+KAD_MOH_023,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.17,195.06
+KAD_MOH_023,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,1.13,196.23
+KAD_MOH_023,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.5,201.57
+KAD_MOH_023,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.72,203.32
+KAD_MOH_023,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.16,204.51
+KAD_MOH_023,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.27,211.34
+KAD_MOH_023,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.59,215.97
+KAD_MOH_023,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.66,222.28
+KAD_MOH_023,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.56,222.88
+KAD_MOH_023,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.82,231.97
+KAD_MOH_023,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.94,233.95
+KAD_MOH_023,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,0.72,243.36
+KAD_MOH_023,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.58,244.99
+KAD_MOH_023,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.17,251.58
+KAD_MOH_023,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.59,255.22
+KAD_MOH_023,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.9,262.62
+KAD_MOH_023,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,2.61,265.28
+KAD_MOH_023,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,2.79,276.01
+KAD_MOH_023,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,6,6,1,2.63,284.37
+KAD_MOH_023,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,2.97,287.37
+KAD_MOH_023,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,6,6,1,3.51,298.61
+KAD_MOH_023,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,0.63,299.28
+KAD_MOH_023,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.58,305.83
+KAD_MOH_023,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,3.75,309.64
+KAD_MOH_023,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,0.62,315.02
+KAD_MOH_023,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.79,315.86
+KAD_MOH_023,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.25,324.51
+KAD_MOH_023,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.47,327.04
+KAD_MOH_023,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.67,329.75
+KAD_MOH_023,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.21,338.02
+KAD_MOH_023,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,3.5,341.55
+KAD_MOH_023,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,1.22,342.82
+KAD_MOH_023,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.52,347.21
+KAD_MOH_023,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.99,359.18
+KAD_MOH_023,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.38,360.61
+KAD_MOH_023,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.73,363.37
+KAD_MOH_023,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,0,6,0,2.59,366.01
+KAD_MOH_023,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.33,376.77
+KAD_MOH_023,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.55,378.37
+KAD_MOH_023,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.38,381.8
+KAD_MOH_023,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.16,384.02
+KAD_MOH_023,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.44,396.63
+KAD_MOH_023,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.7,398.38
+KAD_MOH_023,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.97,400.39
+KAD_MOH_023,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.37,402.81
+KAD_MOH_023,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.71,416.86
+KAD_MOH_023,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.38,419.3
+KAD_MOH_023,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.25,431.49
+KAD_MOH_023,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.95,433.47
+KAD_MOH_023,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.34,446.06
+KAD_MOH_023,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,0,6,0,1.97,448.07
+KAD_MOH_023,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,4.06,452.18
+KAD_MOH_023,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,2.49,464.59
+KAD_MOH_023,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.7,467.33
+KAD_MOH_023,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.51,468.9
+KAD_MOH_023,16,3,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.17,479.37
+KAD_MOH_023,16,3,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.72,481.14
+KAD_MOH_023,16,3,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.19,482.38
+KAD_MOH_023,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.07,489.29
+KAD_MOH_023,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.83,496.97
+KAD_MOH_023,17,3,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.4,503.71
+KAD_MOH_023,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.87,513.21
+KAD_MOH_023,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,4.4,517.67
+KAD_MOH_023,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.29,526.69
+KAD_MOH_023,18,2,1,Il y a moins de trente moutons sur l'image. ,6,0,0,3.76,530.5
+KAD_MOH_023,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.42,541.09
+KAD_MOH_023,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.91,546.05
+KAD_MOH_023,19,2,0,Il y a plus de 7 tentacules visibles. ,0,6,0,1.33,555.87
+KAD_MOH_023,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,0.85,556.78
+KAD_MOH_023,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.09,567.67
+KAD_MOH_023,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,3.14,570.86
+KAD_MOH_023,20,1,2,On peut apercevoir un clocher. ,0,0,1,2.16,573.07
+KAD_MOH_023,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,8.39,589.09
+KAD_MOH_023,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.12,591.26
+KAD_MOH_023,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.46,592.77
+KAD_MOH_023,20,3,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.74,601.91
+KAD_MOH_023,20,3,1,La calèche est tirée par deux chevaux. ,6,0,0,1.66,603.62
+KAD_MOH_023,20,3,2,On peut apercevoir un clocher. ,0,0,1,1.13,604.79
+KAD_MOH_023,21,1,0,Les toits sont bleus. ,0,6,0,2.58,612.79
+KAD_MOH_023,21,2,0,Les toits sont bleus. ,6,6,1,0.92,619.55
+KAD_MOH_023,22,1,0,Il y a 5 bateaux. ,6,6,1,1.42,629.3
+KAD_MOH_023,22,1,1,Il y a  des bateaux a 2 voiles. ,0,6,0,3.88,633.23
+KAD_MOH_023,22,1,2,On peut voir un chien. ,0,0,1,1.76,635.04
+KAD_MOH_023,22,2,0,Il y a 5 bateaux. ,6,6,1,2.47,645.79
+KAD_MOH_023,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.54,647.39
+KAD_MOH_023,22,2,2,On peut voir un chien. ,0,0,1,0.85,648.28
+KAD_MOH_023,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.14,656.45
+KAD_MOH_023,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.33,663.25
+KAD_MOH_023,24,1,0,Les tapis sont alignés. ,0,0,1,3.26,675.89
+KAD_MOH_023,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,0.7,676.64
+KAD_MOH_023,24,1,2,L'armoire est ouverte. ,0,0,1,0.96,677.64
+KAD_MOH_023,24,2,0,Les tapis sont alignés. ,0,0,1,3.86,691.42
+KAD_MOH_023,24,2,1,Il y a une brosse à dent près du lit. ,6,0,0,2.1,693.58
+KAD_MOH_023,24,2,2,L'armoire est ouverte. ,0,0,1,2.06,695.68
+KAD_MOH_023,24,3,0,Les tapis sont alignés. ,0,0,1,2.48,708.85
+KAD_MOH_023,24,3,1,Il y a une brosse à dent près du lit. ,6,0,0,1.23,710.14
+KAD_MOH_023,24,3,2,L'armoire est ouverte. ,0,0,1,1.09,711.29
+KAD_MOH_023,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.06,719.71
+KAD_MOH_023,26,1,0,Les costumes sont identiques. ,6,6,1,2.11,726.99
+KAD_MOH_023,26,2,0,Les costumes sont identiques. ,6,6,1,2.24,735.47
+KAD_MOH_023,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,3.64,744.73
+KAD_MOH_023,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.43,753.0
+KAD_MOH_023,27,3,0,Les éléphants sont parfaitement symétriques. ,0,0,1,1.57,762.17
+KAD_MOH_023,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.41,770.69
+KAD_MOH_023,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.21,777.58
+KAD_MOH_023,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,3.25,785.95
+KAD_MOH_023,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.96,792.01
+KAD_MOH_023,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.51,800.81
+KAD_MOH_023,30,2,0,Il y a plus de 30 papillons.  ,0,0,1,0.96,808.89
+KAD_MOH_023,31,1,0,Il y a du maïs sur l'image. ,0,6,0,1.92,818.9
+KAD_MOH_023,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,0.62,819.56
+KAD_MOH_023,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.04,830.12
+KAD_MOH_023,31,2,1,Au moins deux poires figurent sur l'image. ,0,6,0,3.73,833.91
+KAD_MOH_023,31,3,0,Il y a du maïs sur l'image. ,6,6,1,1.59,843.08
+KAD_MOH_023,31,3,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.35,845.5

@@ -1,0 +1,100 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+SMI_PAU_068,100,1,0,Les nuages sont gris. ,0,0,1,3.31,56.27
+SMI_PAU_068,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,4.13,70.02
+SMI_PAU_068,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,2.3,81.44
+SMI_PAU_068,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.74,113.77
+SMI_PAU_068,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,7.52,121.33
+SMI_PAU_068,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.66,129.75
+SMI_PAU_068,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,4.21,144.38
+SMI_PAU_068,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,4.8,149.22
+SMI_PAU_068,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.87,152.13
+SMI_PAU_068,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,3.79,161.78
+SMI_PAU_068,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,4.38,166.19
+SMI_PAU_068,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.07,172.74
+SMI_PAU_068,3,2,1,Avez-vous vu une corde à sauter ? ,6,6,1,0.93,173.71
+SMI_PAU_068,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.82,179.54
+SMI_PAU_068,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,2.61,182.18
+SMI_PAU_068,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.67,183.88
+SMI_PAU_068,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.87,191.07
+SMI_PAU_068,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.3,192.41
+SMI_PAU_068,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.09,193.55
+SMI_PAU_068,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,2.36,200.75
+SMI_PAU_068,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.58,203.38
+SMI_PAU_068,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,5.13,215.94
+SMI_PAU_068,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,2.18,218.16
+SMI_PAU_068,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.41,224.51
+SMI_PAU_068,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,3.21,227.77
+SMI_PAU_068,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,6.17,240.78
+SMI_PAU_068,8,2,0,De quelle couleur est le téléphone ? ,0,0,1,3.95,252.17
+SMI_PAU_068,8,3,0,De quelle couleur est le téléphone ? ,0,0,1,0.75,260.15
+SMI_PAU_068,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,5.78,272.42
+SMI_PAU_068,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,3.66,276.12
+SMI_PAU_068,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.75,282.18
+SMI_PAU_068,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.36,283.59
+SMI_PAU_068,10,1,0,Tous les personnages ont-ils un casque ? ,6,6,1,3.55,291.62
+SMI_PAU_068,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.86,293.52
+SMI_PAU_068,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.56,300.29
+SMI_PAU_068,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.29,302.62
+SMI_PAU_068,10,3,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.94,310.49
+SMI_PAU_068,10,3,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.72,311.25
+SMI_PAU_068,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.59,317.69
+SMI_PAU_068,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,5.35,323.08
+SMI_PAU_068,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.49,325.62
+SMI_PAU_068,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.08,330.41
+SMI_PAU_068,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,0.92,341.97
+SMI_PAU_068,13,1,1,La pièce est-elle rangée ? ,0,0,1,1.53,343.53
+SMI_PAU_068,13,1,2,Combien y a-t-il de posters sur les murs ? ,6,0,0,9.03,352.61
+SMI_PAU_068,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.66,355.32
+SMI_PAU_068,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.07,366.5
+SMI_PAU_068,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.66,368.2
+SMI_PAU_068,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,1.16,369.41
+SMI_PAU_068,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,1.39,370.85
+SMI_PAU_068,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.29,383.36
+SMI_PAU_068,14,1,1,Avez-vous vu une éponge ?,0,6,0,1.7,385.1
+SMI_PAU_068,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,2.79,387.94
+SMI_PAU_068,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.82,389.8
+SMI_PAU_068,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.93,402.25
+SMI_PAU_068,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,2.38,404.68
+SMI_PAU_068,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,1.61,415.97
+SMI_PAU_068,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,1.33,417.34
+SMI_PAU_068,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.37,429.99
+SMI_PAU_068,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.05,433.08
+SMI_PAU_068,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.32,435.45
+SMI_PAU_068,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,0.93,446.52
+SMI_PAU_068,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.31,447.88
+SMI_PAU_068,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.64,449.57
+SMI_PAU_068,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.99,456.53
+SMI_PAU_068,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.25,466.38
+SMI_PAU_068,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,6.36,472.79
+SMI_PAU_068,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.26,481.49
+SMI_PAU_068,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,2.12,483.65
+SMI_PAU_068,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.46,494.23
+SMI_PAU_068,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.1,497.38
+SMI_PAU_068,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,3.04,508.96
+SMI_PAU_068,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.68,511.69
+SMI_PAU_068,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.79,513.52
+SMI_PAU_068,21,1,0,Les toits sont bleus. ,0,6,0,2.78,521.55
+SMI_PAU_068,21,2,0,Les toits sont bleus. ,6,6,1,1.88,529.46
+SMI_PAU_068,22,1,0,Il y a 5 bateaux. ,6,6,1,4.62,544.7
+SMI_PAU_068,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.41,547.15
+SMI_PAU_068,22,1,2,On peut voir un chien. ,6,0,0,1.42,548.62
+SMI_PAU_068,22,2,0,Il y a 5 bateaux. ,6,6,1,1.13,558.68
+SMI_PAU_068,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.07,559.8
+SMI_PAU_068,22,2,2,On peut voir un chien. ,6,0,0,0.83,560.67
+SMI_PAU_068,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,2.09,567.71
+SMI_PAU_068,24,1,0,Les tapis sont alignés. ,0,0,1,3.59,580.94
+SMI_PAU_068,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.16,584.15
+SMI_PAU_068,24,1,2,L'armoire est ouverte. ,6,0,0,1.75,585.95
+SMI_PAU_068,24,2,0,Les tapis sont alignés. ,0,0,1,1.97,597.35
+SMI_PAU_068,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.32,598.72
+SMI_PAU_068,24,2,2,L'armoire est ouverte. ,0,0,1,1.7,600.45
+SMI_PAU_068,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.04,606.84
+SMI_PAU_068,26,1,0,Les costumes sont identiques. ,6,6,1,3.77,615.72
+SMI_PAU_068,26,2,0,Les costumes sont identiques. ,6,6,1,1.68,626.61
+SMI_PAU_068,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,2.28,634.2
+SMI_PAU_068,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.88,642.53
+SMI_PAU_068,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,3.12,650.86
+SMI_PAU_068,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,0.66,657.28
+SMI_PAU_068,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.76,665.76
+SMI_PAU_068,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.64,674.96
+SMI_PAU_068,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,4.49,679.49

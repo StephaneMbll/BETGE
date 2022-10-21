@@ -1,0 +1,127 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+MAA_FAR_025,100,1,0,Les nuages sont gris. ,0,0,1,4.56,57.48
+MAA_FAR_025,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,6.73,76.29
+MAA_FAR_025,102,1,0,Avez-vous vu un éléphant ? ,0,6,0,5.82,93.15
+MAA_FAR_025,102,2,0,Avez-vous vu un éléphant ? ,0,6,0,3.56,104.07
+MAA_FAR_025,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,9.27,136.75
+MAA_FAR_025,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,3.85,140.64
+MAA_FAR_025,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.28,150.34
+MAA_FAR_025,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,2.77,153.15
+MAA_FAR_025,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.15,160.69
+MAA_FAR_025,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,7.4,177.18
+MAA_FAR_025,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,2.76,179.97
+MAA_FAR_025,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,4.05,184.06
+MAA_FAR_025,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,2.94,196.72
+MAA_FAR_025,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.16,201.93
+MAA_FAR_025,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.68,203.64
+MAA_FAR_025,2,3,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,3.14,218.08
+MAA_FAR_025,2,3,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.16,220.29
+MAA_FAR_025,2,3,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.09,222.42
+MAA_FAR_025,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,2.19,229.22
+MAA_FAR_025,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.97,232.23
+MAA_FAR_025,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.13,238.01
+MAA_FAR_025,4,1,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,4.35,242.39
+MAA_FAR_025,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.17,244.6
+MAA_FAR_025,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.59,252.42
+MAA_FAR_025,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.99,254.45
+MAA_FAR_025,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.67,256.17
+MAA_FAR_025,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,6,0,0,3.01,264.1
+MAA_FAR_025,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,3.15,267.3
+MAA_FAR_025,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,3.15,275.75
+MAA_FAR_025,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.89,277.69
+MAA_FAR_025,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,6.56,292.62
+MAA_FAR_025,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,5.23,297.9
+MAA_FAR_025,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,3.11,308.66
+MAA_FAR_025,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.91,310.63
+MAA_FAR_025,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.6,317.98
+MAA_FAR_025,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,4.25,322.3
+MAA_FAR_025,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.01,330.46
+MAA_FAR_025,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.71,332.23
+MAA_FAR_025,8,1,0,De quelle couleur est le téléphone ? ,6,0,0,7.47,346.67
+MAA_FAR_025,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.05,354.81
+MAA_FAR_025,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.9,364.16
+MAA_FAR_025,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,2.43,366.63
+MAA_FAR_025,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.53,375.63
+MAA_FAR_025,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,5.36,381.03
+MAA_FAR_025,10,2,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.86,388.13
+MAA_FAR_025,10,2,1,Combien y a-t-il de personnages sur cette photo ? ,6,0,0,2.8,390.99
+MAA_FAR_025,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.73,399.4
+MAA_FAR_025,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,4.19,403.64
+MAA_FAR_025,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.25,405.94
+MAA_FAR_025,11,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.18,415.29
+MAA_FAR_025,11,2,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.28,417.62
+MAA_FAR_025,11,2,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.84,420.52
+MAA_FAR_025,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.06,427.61
+MAA_FAR_025,12,2,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,0.89,432.86
+MAA_FAR_025,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.56,444.18
+MAA_FAR_025,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.18,446.41
+MAA_FAR_025,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.62,450.09
+MAA_FAR_025,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,3.02,453.17
+MAA_FAR_025,13,2,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.13,465.38
+MAA_FAR_025,13,2,1,La pièce est-elle rangée ? ,0,0,1,1.59,467.03
+MAA_FAR_025,13,2,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,3.3,470.37
+MAA_FAR_025,13,2,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.15,472.57
+MAA_FAR_025,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.8,485.19
+MAA_FAR_025,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.67,486.91
+MAA_FAR_025,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.93,488.88
+MAA_FAR_025,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.57,491.51
+MAA_FAR_025,14,2,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,1.75,504.1
+MAA_FAR_025,14,2,1,Avez-vous vu une éponge ?,6,6,1,1.51,505.66
+MAA_FAR_025,14,2,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.59,507.29
+MAA_FAR_025,14,2,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,1.82,509.15
+MAA_FAR_025,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,5.91,524.42
+MAA_FAR_025,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.86,527.33
+MAA_FAR_025,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,3.44,541.6
+MAA_FAR_025,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,2.84,544.5
+MAA_FAR_025,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.26,558.53
+MAA_FAR_025,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.34,560.91
+MAA_FAR_025,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.38,563.33
+MAA_FAR_025,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,0,6,0,2.51,575.63
+MAA_FAR_025,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.16,577.83
+MAA_FAR_025,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.82,579.7
+MAA_FAR_025,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,3.72,588.98
+MAA_FAR_025,17,2,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,0.69,596.1
+MAA_FAR_025,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,3.43,606.15
+MAA_FAR_025,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,6.27,612.47
+MAA_FAR_025,18,2,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,2.4,621.64
+MAA_FAR_025,18,2,1,Il y a moins de trente moutons sur l'image. ,0,0,1,4.08,625.77
+MAA_FAR_025,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.16,636.65
+MAA_FAR_025,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,4.06,640.77
+MAA_FAR_025,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,3.24,651.1
+MAA_FAR_025,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,2.15,653.31
+MAA_FAR_025,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,6,0,0,3.08,664.08
+MAA_FAR_025,20,1,1,La calèche est tirée par deux chevaux. ,0,0,1,3.12,667.25
+MAA_FAR_025,20,1,2,On peut apercevoir un clocher. ,6,0,0,2.08,669.38
+MAA_FAR_025,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,4.88,681.87
+MAA_FAR_025,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,2.08,684.0
+MAA_FAR_025,20,2,2,On peut apercevoir un clocher. ,0,0,1,1.49,685.54
+MAA_FAR_025,21,1,0,Les toits sont bleus. ,0,6,0,2.77,694.19
+MAA_FAR_025,21,2,0,Les toits sont bleus. ,6,6,1,1.27,702.24
+MAA_FAR_025,22,1,0,Il y a 5 bateaux. ,6,6,1,1.79,714.91
+MAA_FAR_025,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,6.16,721.11
+MAA_FAR_025,22,1,2,On peut voir un chien. ,0,0,1,2.8,723.95
+MAA_FAR_025,22,2,0,Il y a 5 bateaux. ,6,6,1,1.63,734.15
+MAA_FAR_025,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,1.18,735.39
+MAA_FAR_025,22,2,2,On peut voir un chien. ,0,0,1,1.87,737.31
+MAA_FAR_025,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,5.18,748.14
+MAA_FAR_025,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,0.85,755.71
+MAA_FAR_025,24,1,0,Les tapis sont alignés. ,0,0,1,4.89,771.08
+MAA_FAR_025,24,1,1,Il y a une brosse à dent près du lit. ,0,0,1,3.37,774.51
+MAA_FAR_025,24,1,2,L'armoire est ouverte. ,0,0,1,1.89,776.45
+MAA_FAR_025,24,2,0,Les tapis sont alignés. ,0,0,1,2.41,788.4
+MAA_FAR_025,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,2.15,790.6
+MAA_FAR_025,24,2,2,L'armoire est ouverte. ,0,0,1,3.66,794.32
+MAA_FAR_025,25,1,0,Il y a plus de 10 pommes.,0,0,1,4.86,804.5
+MAA_FAR_025,26,1,0,Les costumes sont identiques. ,6,6,1,2.02,812.41
+MAA_FAR_025,26,2,0,Les costumes sont identiques. ,6,6,1,2.24,822.11
+MAA_FAR_025,27,1,0,Les éléphants sont parfaitement symétriques. ,0,0,1,6.69,834.47
+MAA_FAR_025,27,2,0,Les éléphants sont parfaitement symétriques. ,6,0,0,1.13,841.63
+MAA_FAR_025,28,1,0,Les toits sont à la même hauteur. ,6,0,0,4.86,852.02
+MAA_FAR_025,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.91,859.68
+MAA_FAR_025,29,1,0,Le deuxième éléphant porte une pyramide.  ,0,6,0,5.76,870.88
+MAA_FAR_025,29,2,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,1.28,877.6
+MAA_FAR_025,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,2.95,888.27
+MAA_FAR_025,31,1,0,Il y a du maïs sur l'image. ,6,6,1,2.31,899.14
+MAA_FAR_025,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,4.77,903.96
+MAA_FAR_025,31,2,0,Il y a du maïs sur l'image. ,6,6,1,1.73,913.39
+MAA_FAR_025,31,2,1,Au moins deux poires figurent sur l'image. ,6,6,1,1.4,914.84

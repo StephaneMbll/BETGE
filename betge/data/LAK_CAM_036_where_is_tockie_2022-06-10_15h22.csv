@@ -1,0 +1,96 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+LAK_CAM_036,100,1,0,Les nuages sont gris. ,0,0,1,1.43,35.95
+LAK_CAM_036,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.38,46.35
+LAK_CAM_036,102,1,0,Avez-vous vu un �l�phant ? ,0,6,0,1.37,57.55
+LAK_CAM_036,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,7.64,84.56
+LAK_CAM_036,0,1,1,Combien y a-t-il de cafeti�res sur la photo ? ,6,6,1,2.54,87.14
+LAK_CAM_036,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.99,94.67
+LAK_CAM_036,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,0,0,1,4.23,106.79
+LAK_CAM_036,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,5.2,112.03
+LAK_CAM_036,2,1,2,Avez-vous vu une personne habill�e d'une robe blanche ? ,6,0,0,2.22,114.29
+LAK_CAM_036,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.58,121.83
+LAK_CAM_036,3,1,1,Avez-vous vu une corde � sauter ? ,0,6,0,4.25,126.11
+LAK_CAM_036,3,2,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.05,131.97
+LAK_CAM_036,3,2,1,Avez-vous vu une corde � sauter ? ,6,6,1,0.67,132.67
+LAK_CAM_036,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,0.64,136.84
+LAK_CAM_036,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,1.97,138.85
+LAK_CAM_036,4,1,2,Avez-vous vu une corde � sauter ? ,6,6,1,1.6,140.5
+LAK_CAM_036,5,1,0,Toutes les personnes sont-elles habill�es en blanc ? ,0,0,1,1.91,148.44
+LAK_CAM_036,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.15,150.63
+LAK_CAM_036,6,1,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,2.3,160.94
+LAK_CAM_036,6,1,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,2.57,163.57
+LAK_CAM_036,6,2,0,Combien y a-t-il de personnes diplom�es sur la photo ? ,0,0,1,1.01,171.91
+LAK_CAM_036,6,2,1,Avez-vous vu une personne habill�e d'une robe blanche ? ,0,0,1,1.14,173.09
+LAK_CAM_036,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.52,178.67
+LAK_CAM_036,7,1,1,Le nom inscrit sur la premi�re tombe est : ,6,0,0,7.27,185.99
+LAK_CAM_036,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,0.65,192.28
+LAK_CAM_036,7,2,1,Le nom inscrit sur la premi�re tombe est : ,0,0,1,1.52,193.85
+LAK_CAM_036,8,1,0,De quelle couleur est le t�l�phone ? ,6,0,0,3.41,203.79
+LAK_CAM_036,9,1,0,Combien y a-t-il de femmes en bas � gauche de l'image ? ,0,6,0,3.27,213.28
+LAK_CAM_036,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,3.06,216.39
+LAK_CAM_036,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,1.94,223.04
+LAK_CAM_036,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,3.28,226.37
+LAK_CAM_036,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.88,234.57
+LAK_CAM_036,11,1,1,Avez-vous vu des t�ches de peinture sur le v�hicule ? ,0,6,0,0.11,234.72
+LAK_CAM_036,11,1,2,Avez-vous vu des pots de peinture sur le capot du v�hicule ? ,6,6,1,2.86,237.63
+LAK_CAM_036,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.11,242.19
+LAK_CAM_036,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,1.29,253.5
+LAK_CAM_036,13,1,1,La pi�ce est-elle rang�e ? ,0,0,1,1.56,255.11
+LAK_CAM_036,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,6.11,261.26
+LAK_CAM_036,13,1,3,Avez-vous remarqu� des v�tements qui ne sont pas pli�s ? ,6,6,1,3.96,265.26
+LAK_CAM_036,14,1,0,Avez-vous vu des mouchoirs usag�s ? ,6,6,1,3.3,278.7
+LAK_CAM_036,14,1,1,Avez-vous vu une �ponge ?,6,6,1,1.69,280.42
+LAK_CAM_036,14,1,2,Avez-vous vu des serviettes usag�es ?,6,6,1,2.24,282.71
+LAK_CAM_036,14,1,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.56,284.32
+LAK_CAM_036,14,2,0,Avez-vous vu des mouchoirs usag�s ? ,0,6,0,1.79,296.65
+LAK_CAM_036,14,2,1,Avez-vous vu une �ponge ?,6,6,1,1.12,297.81
+LAK_CAM_036,14,2,2,Avez-vous vu des serviettes usag�es ?,6,6,1,1.02,298.87
+LAK_CAM_036,14,2,3,Les rebords de la fen�tre sont-ils propres ? ,0,0,1,1.24,300.16
+LAK_CAM_036,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,0,6,0,2.77,312.37
+LAK_CAM_036,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.97,314.39
+LAK_CAM_036,15,2,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.56,326.78
+LAK_CAM_036,15,2,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,0,6,0,1.43,328.25
+LAK_CAM_036,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,3.1,340.54
+LAK_CAM_036,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.76,343.35
+LAK_CAM_036,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,3.92,347.31
+LAK_CAM_036,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.51,359.53
+LAK_CAM_036,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,3.41,362.98
+LAK_CAM_036,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.32,364.36
+LAK_CAM_036,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,1.46,371.14
+LAK_CAM_036,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.77,379.98
+LAK_CAM_036,18,1,1,Il y a moins de trente moutons sur l'image. ,6,0,0,2.18,382.21
+LAK_CAM_036,19,1,0,Il y a plus de 7 tentacules visibles. ,0,6,0,4.05,392.64
+LAK_CAM_036,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,3.33,396.01
+LAK_CAM_036,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.92,405.04
+LAK_CAM_036,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,6,6,1,1.34,406.43
+LAK_CAM_036,20,1,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,4.24,418.1
+LAK_CAM_036,20,1,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.44,420.58
+LAK_CAM_036,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.64,422.26
+LAK_CAM_036,20,2,0,Il y a autant de grands arbres � gauche qu'� droite. ,0,0,1,2.12,432.14
+LAK_CAM_036,20,2,1,La cal�che est tir�e par deux chevaux. ,0,0,1,2.04,434.23
+LAK_CAM_036,20,2,2,On peut apercevoir un clocher. ,6,0,0,1.09,435.36
+LAK_CAM_036,21,1,0,Les toits sont bleus. ,6,6,1,2.34,442.88
+LAK_CAM_036,21,2,0,Les toits sont bleus. ,6,6,1,0.57,449.51
+LAK_CAM_036,22,1,0,Il y a 5 bateaux. ,6,6,1,2.63,460.18
+LAK_CAM_036,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,3.06,463.3
+LAK_CAM_036,22,1,2,On peut voir un chien. ,6,0,0,1.61,464.94
+LAK_CAM_036,22,2,0,Il y a 5 bateaux. ,6,6,1,1.23,477.02
+LAK_CAM_036,22,2,1,Il y a  des bateaux a 2 voiles. ,6,6,1,0.74,477.81
+LAK_CAM_036,22,2,2,On peut voir un chien. ,0,0,1,1.18,479.03
+LAK_CAM_036,23,1,0,Toutes les lunes sont dans le m�me sens. ,0,0,1,2.66,487.48
+LAK_CAM_036,24,1,0,Les tapis sont align�s. ,0,0,1,2.8,499.97
+LAK_CAM_036,24,1,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.68,501.7
+LAK_CAM_036,24,1,2,L'armoire est ouverte. ,0,0,1,2.15,503.88
+LAK_CAM_036,24,2,0,Les tapis sont align�s. ,0,0,1,1.4,514.86
+LAK_CAM_036,24,2,1,Il y a une brosse � dent pr�s du lit. ,0,0,1,1.52,516.43
+LAK_CAM_036,24,2,2,L'armoire est ouverte. ,0,0,1,1.38,517.85
+LAK_CAM_036,25,1,0,Il y a plus de 10 pommes.,0,0,1,2.95,526.25
+LAK_CAM_036,26,1,0,Les costumes sont identiques. ,6,6,1,2.27,534.06
+LAK_CAM_036,27,1,0,Les �l�phants sont parfaitement sym�triques. ,0,0,1,3.09,542.67
+LAK_CAM_036,28,1,0,Les toits sont � la m�me hauteur. ,0,0,1,2.27,550.14
+LAK_CAM_036,28,2,0,Les toits sont � la m�me hauteur. ,0,0,1,0.55,555.87
+LAK_CAM_036,29,1,0,Le deuxi�me �l�phant porte une pyramide.  ,0,6,0,3.86,564.77
+LAK_CAM_036,29,2,0,Le deuxi�me �l�phant porte une pyramide.  ,6,6,1,0.8,570.86
+LAK_CAM_036,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.51,579.42
+LAK_CAM_036,31,1,0,Il y a du ma�s sur l'image. ,6,6,1,1.76,588.8
+LAK_CAM_036,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.21,591.07

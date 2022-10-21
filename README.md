@@ -1,16 +1,22 @@
 #Bad Events to Good Epochs
 
 ## Installation
-From source
+Build from source
 
 ```bash
 python3 -m build .
-python3 -m pip install dist/betge-1.1.0-py3-none-any.whl
+```
+
+Install
+(preferably inside a virtual environment such as venv, conda, etc..)
+
+```bash
+python3 -m pip install dist/betge-x.x.x-py3-none-any.whl
 ```
 
 ## Utilisation
 ```python
-from betge import *
+from betge.betge import *
 
 symmetry = "Neuroscans_OCD_metacognition/sub-044_task-symmetry.cnt"
 epochs_sym = betge_symmetry(symmetry)

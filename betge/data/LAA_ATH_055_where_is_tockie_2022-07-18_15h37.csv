@@ -1,0 +1,97 @@
+id_candidate,no_trial,count_image,no_question,question,ans_candidate,good_ans,result,reaction_time,time_stamp
+LAA_ATH_055,100,1,0,Les nuages sont gris. ,0,0,1,2.3,39.6
+LAA_ATH_055,101,1,0,Les deux protagonistes portent-ils des lunettes ? ,0,0,1,3.64,50.91
+LAA_ATH_055,102,1,0,Avez-vous vu un éléphant ? ,6,6,1,1.63,61.88
+LAA_ATH_055,0,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,0,0,4.21,87.26
+LAA_ATH_055,0,1,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,4.8,92.1
+LAA_ATH_055,0,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.37,99.65
+LAA_ATH_055,0,2,1,Combien y a-t-il de cafetières sur la photo ? ,6,6,1,0.9,100.58
+LAA_ATH_055,1,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.75,107.72
+LAA_ATH_055,2,1,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.92,118.8
+LAA_ATH_055,2,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.72,120.57
+LAA_ATH_055,2,1,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,2.1,122.72
+LAA_ATH_055,2,2,0,Combien y a-t-il de personnes assises sur cette photo ? ,6,0,0,2.44,133.42
+LAA_ATH_055,2,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,2.57,136.03
+LAA_ATH_055,2,2,2,Avez-vous vu une personne habillée d'une robe blanche ? ,6,0,0,1.77,137.83
+LAA_ATH_055,3,1,0,Combien y a-t-il de personnes sur cette photo ? ,6,6,1,1.55,144.62
+LAA_ATH_055,3,1,1,Avez-vous vu une corde à sauter ? ,6,6,1,2.58,147.23
+LAA_ATH_055,4,1,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.45,152.48
+LAA_ATH_055,4,1,1,Avez-vous vu une balle sur cette photo ? ,0,6,0,1.75,154.27
+LAA_ATH_055,4,1,2,Avez-vous vu une corde à sauter ? ,6,6,1,1.52,155.82
+LAA_ATH_055,4,2,0,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.19,162.49
+LAA_ATH_055,4,2,1,Avez-vous vu une balle sur cette photo ? ,6,6,1,1.32,163.85
+LAA_ATH_055,4,2,2,Avez-vous vu une corde à sauter ? ,6,6,1,2.18,166.06
+LAA_ATH_055,5,1,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.82,172.54
+LAA_ATH_055,5,1,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.93,174.51
+LAA_ATH_055,5,2,0,Toutes les personnes sont-elles habillées en blanc ? ,0,0,1,1.8,181.33
+LAA_ATH_055,5,2,1,Combien y a-t-il de personnes sur cette photo ? ,0,0,1,1.98,183.36
+LAA_ATH_055,6,1,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.65,192.75
+LAA_ATH_055,6,1,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.75,194.54
+LAA_ATH_055,6,2,0,Combien y a-t-il de personnes diplomées sur la photo ? ,0,0,1,1.39,203.44
+LAA_ATH_055,6,2,1,Avez-vous vu une personne habillée d'une robe blanche ? ,0,0,1,1.65,205.13
+LAA_ATH_055,7,1,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,2.51,212.51
+LAA_ATH_055,7,1,1,Le nom inscrit sur la première tombe est : ,0,0,1,5.01,217.57
+LAA_ATH_055,7,2,0,Combien y a-t-il de drapeaux sur cette photo ? ,0,0,1,1.38,223.79
+LAA_ATH_055,7,2,1,Le nom inscrit sur la première tombe est : ,0,0,1,1.78,225.62
+LAA_ATH_055,8,1,0,De quelle couleur est le téléphone ? ,0,0,1,2.84,234.94
+LAA_ATH_055,8,2,0,De quelle couleur est le téléphone ? ,6,0,0,1.83,243.59
+LAA_ATH_055,9,1,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,2.2,252.02
+LAA_ATH_055,9,1,1,Avez-vous vu un point rouge sur cette photo ? ,0,0,1,1.84,253.91
+LAA_ATH_055,9,2,0,Combien y a-t-il de femmes en bas à gauche de l'image ? ,0,6,0,0.69,259.99
+LAA_ATH_055,9,2,1,Avez-vous vu un point rouge sur cette photo ? ,6,0,0,1.18,261.22
+LAA_ATH_055,10,1,0,Tous les personnages ont-ils un casque ? ,0,6,0,2.28,267.95
+LAA_ATH_055,10,1,1,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.57,269.55
+LAA_ATH_055,11,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,2.26,277.84
+LAA_ATH_055,11,1,1,Avez-vous vu des tâches de peinture sur le véhicule ? ,6,6,1,2.8,280.69
+LAA_ATH_055,11,1,2,Avez-vous vu des pots de peinture sur le capot du véhicule ? ,6,6,1,2.3,283.03
+LAA_ATH_055,12,1,0,Combien y a-t-il de personnages sur cette photo ? ,0,0,1,1.25,288.85
+LAA_ATH_055,13,1,0,Combien y a-t-il de personnages sur cette photo ? ,6,6,1,2.53,302.51
+LAA_ATH_055,13,1,1,La pièce est-elle rangée ? ,0,0,1,2.85,305.4
+LAA_ATH_055,13,1,2,Combien y a-t-il de posters sur les murs ? ,0,0,1,2.47,307.92
+LAA_ATH_055,13,1,3,Avez-vous remarqué des vêtements qui ne sont pas pliés ? ,6,6,1,2.53,310.5
+LAA_ATH_055,14,1,0,Avez-vous vu des mouchoirs usagés ? ,6,6,1,2.76,325.0
+LAA_ATH_055,14,1,1,Avez-vous vu une éponge ?,6,6,1,1.22,326.26
+LAA_ATH_055,14,1,2,Avez-vous vu des serviettes usagées ?,6,6,1,1.3,327.6
+LAA_ATH_055,14,1,3,Les rebords de la fenêtre sont-ils propres ? ,0,0,1,2.52,330.17
+LAA_ATH_055,15,1,0,Avez-vous vu une pile de livres sur la droite de l'image ? ,6,6,1,2.17,342.09
+LAA_ATH_055,15,1,1,Avez-vous vu un ceintre sur la gauche de l'image ? ,6,6,1,3.36,345.49
+LAA_ATH_055,16,1,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,4.1,359.33
+LAA_ATH_055,16,1,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,2.15,361.52
+LAA_ATH_055,16,1,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,1.79,363.36
+LAA_ATH_055,16,2,0,Combien y a-t-il de tasses sur cette photo ? ,6,6,1,1.37,374.62
+LAA_ATH_055,16,2,1,Avez-vous vu du linge sale sur cette photo ? ,6,6,1,1.71,376.38
+LAA_ATH_055,16,2,2,Avez-vous vu des restes alimentaires sur cette photo ? ,6,0,0,2.36,378.78
+LAA_ATH_055,17,1,0,Combien avez-vous vu de pinguins sur cette photo ? ,6,6,1,2.53,386.71
+LAA_ATH_055,18,1,0,Combien avez-vous vu d'humains sur cette photo ? ,0,0,1,1.84,395.36
+LAA_ATH_055,18,1,1,Il y a moins de trente moutons sur l'image. ,0,0,1,5.57,400.99
+LAA_ATH_055,19,1,0,Il y a plus de 7 tentacules visibles. ,6,6,1,4.67,412.16
+LAA_ATH_055,19,1,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,3.08,415.28
+LAA_ATH_055,19,2,0,Il y a plus de 7 tentacules visibles. ,6,6,1,1.49,423.37
+LAA_ATH_055,19,2,1,Il y a autant de tentacules de part et d'autre du clocher. ,0,6,0,1.61,425.01
+LAA_ATH_055,20,1,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,2.7,435.14
+LAA_ATH_055,20,1,1,La calèche est tirée par deux chevaux. ,6,0,0,2.67,437.86
+LAA_ATH_055,20,1,2,On peut apercevoir un clocher. ,6,0,0,1.28,439.19
+LAA_ATH_055,20,2,0,Il y a autant de grands arbres à gauche qu'à droite. ,0,0,1,1.83,448.7
+LAA_ATH_055,20,2,1,La calèche est tirée par deux chevaux. ,0,0,1,1.82,450.56
+LAA_ATH_055,20,2,2,On peut apercevoir un clocher. ,0,0,1,2.01,452.6
+LAA_ATH_055,21,1,0,Les toits sont bleus. ,6,6,1,1.51,459.5
+LAA_ATH_055,22,1,0,Il y a 5 bateaux. ,6,6,1,1.86,470.63
+LAA_ATH_055,22,1,1,Il y a  des bateaux a 2 voiles. ,6,6,1,2.84,473.51
+LAA_ATH_055,22,1,2,On peut voir un chien. ,0,0,1,1.62,475.18
+LAA_ATH_055,23,1,0,Toutes les lunes sont dans le même sens. ,0,0,1,1.89,482.43
+LAA_ATH_055,23,2,0,Toutes les lunes sont dans le même sens. ,6,0,0,1.52,491.9
+LAA_ATH_055,24,1,0,Les tapis sont alignés. ,0,0,1,2.6,503.59
+LAA_ATH_055,24,1,1,Il y a une brosse à dent près du lit. ,6,0,0,1.86,505.5
+LAA_ATH_055,24,1,2,L'armoire est ouverte. ,6,0,0,1.19,506.73
+LAA_ATH_055,24,2,0,Les tapis sont alignés. ,6,0,0,1.75,517.72
+LAA_ATH_055,24,2,1,Il y a une brosse à dent près du lit. ,0,0,1,1.21,518.98
+LAA_ATH_055,24,2,2,L'armoire est ouverte. ,0,0,1,1.34,520.37
+LAA_ATH_055,25,1,0,Il y a plus de 10 pommes.,0,0,1,1.62,527.46
+LAA_ATH_055,26,1,0,Les costumes sont identiques. ,6,6,1,1.55,534.77
+LAA_ATH_055,27,1,0,Les éléphants sont parfaitement symétriques. ,6,0,0,2.29,542.47
+LAA_ATH_055,28,1,0,Les toits sont à la même hauteur. ,0,0,1,2.76,551.4
+LAA_ATH_055,28,2,0,Les toits sont à la même hauteur. ,0,0,1,1.96,558.75
+LAA_ATH_055,29,1,0,Le deuxième éléphant porte une pyramide.  ,6,6,1,2.74,566.97
+LAA_ATH_055,30,1,0,Il y a plus de 30 papillons.  ,0,0,1,1.98,576.09
+LAA_ATH_055,31,1,0,Il y a du maïs sur l'image. ,6,6,1,1.69,585.25
+LAA_ATH_055,31,1,1,Au moins deux poires figurent sur l'image. ,6,6,1,2.21,587.52
