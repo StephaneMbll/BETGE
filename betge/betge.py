@@ -67,9 +67,8 @@ def betge_general(task, filepath):
     tmp = df['new_col'].to_numpy()
 
     answer_array = tmp[3:-1]
+    print("Answer array length: " + str(len(answer_array)))
     events, events_id = mne.events_from_annotations(raw_ref_downsampled)
-    #print(len(events))
-    #print(len(answer_array))
     annotations = mne.annotations_from_events(events, 256)
     annotations_df = annotations.to_data_frame()
     L = [annotations_df["onset"][0]]
@@ -105,7 +104,12 @@ def betge_general(task, filepath):
     for i in ['2', '4', '16', '32']:
         if i not in events_id.keys():
             del events_id[i]
+    if (len(events) < 100):
+        print("SKIPPING FILE " + filepath)
+        print("ONLY " + str(len(events)) + " EVENTS FOUND")
+        return
 
+    print("Events array length: " + str(len(events)))
     for i in range(1, 100):
         print(i, events[i, 2], answer_array[i - 1], events[i, 2] == answer_array[i - 1], events[i, 3])
     # for i in range(1, len(events[:, 2])):
