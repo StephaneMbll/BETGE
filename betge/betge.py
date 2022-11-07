@@ -46,6 +46,8 @@ def betge_general(task, filepath):
     raw_ref = raw.copy().set_eeg_reference('average')
     raw_ref_downsampled = raw_ref.resample(256, npad='auto')
 
+    #Filter !
+
     reg = "[0-9]{3}_"
     tmp = []
     csv = ""
@@ -127,7 +129,7 @@ def betge_general(task, filepath):
             del_list.append(j)
         j += 1
     print("check_events = ",
-          check_events(events, answer_array))  # check si les nouveaux events fittent bien avec answer_array
+            check_events(events, answer_array))  # check si les nouveaux events fittent bien avec answer_array
     print("patient_id : ", patient_number, "| task : ", task)
     if len(del_list) == 0:
         print("Aucun bad event a été supprimé !\n")
@@ -144,10 +146,10 @@ def build_epoch(raw_ref_downsampled, eeg_events, events_id):
     picks = mne.pick_types(raw_ref_downsampled.info, eeg=True, stim=False, exclude='bads')
     tmin = -0.2
     tmax = 0.4
-    baseline = None
+    baseline = (None, None)
     reject = dict(eeg=150e-6)
     epochs = mne.Epochs(raw_ref_downsampled, eeg_events, events_id, tmin, tmax,
-                        picks=picks,
-                        baseline=baseline)
+            picks=picks,
+            baseline=baseline)
     epochs.drop_bad()
-    return epochs
+    return epochs, eeg_events
