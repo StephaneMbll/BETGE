@@ -44,9 +44,9 @@ def betge_general(task, filepath):
     data_dir = os.path.join(package_dir, 'data', '*')
     raw = mne.io.read_raw_cnt(filepath, preload=True)
     raw_ref = raw.copy().set_eeg_reference('average')
+    raw_ref_filtered = raw_ref.filter(0.01, 40, method='fir', phase='zero')
     raw_ref_downsampled = raw_ref.resample(256, npad='auto')
 
-    #Filter !
 
     reg = "[0-9]{3}_"
     tmp = []
