@@ -144,8 +144,8 @@ def betge_general(task, filepath):
 
 def build_epoch(raw_ref_downsampled, eeg_events, events_id):
     picks = mne.pick_types(raw_ref_downsampled.info, eeg=True, stim=False, exclude='bads')
-    tmin = -0.2
-    tmax = 0.4
+    tmin = -0.1
+    tmax = 0.5
     baseline = (None, None)
     reject = dict(eeg=150e-6)
     epochs = mne.Epochs(raw_ref_downsampled, eeg_events, events_id, tmin, tmax,
