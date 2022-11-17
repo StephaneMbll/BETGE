@@ -1,0 +1,5 @@
+dist/
+dist/*
+
+betge.egg-info/
+betge.egg-info/*
