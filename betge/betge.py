@@ -35,7 +35,6 @@ def time_between_events(task, events, j, df):
         stim_dur = 2
     bad_event = False
     if (events[j, 3]) < stim_dur:
-        #print(stim_dur)
         bad_event = True
     return bad_event
 
@@ -101,7 +100,6 @@ def betge_general(task, filepath):
                 events[i, 2] = 4
 
     events = events[found:-1, ]  # on a les nouveaux events, qu'il faut nettoyer
-    #print('len(events) after cleaning : ', len(events))
     events_id = {'1': 1, '2': 1, '4': 1, '16': 4, '32': 4, '64': 4, '8': 9}
     for i in ['2', '4', '16', '32']:
         if i not in events_id.keys():
@@ -112,10 +110,8 @@ def betge_general(task, filepath):
         return
 
     print("Events array length: " + str(len(events)))
-    for i in range(1, 100):
-        print(i, events[i, 2], answer_array[i - 1], events[i, 2] == answer_array[i - 1], events[i, 3])
-    # for i in range(1, len(events[:, 2])):
-    #    print(i, events[i, 2], answer_array[i+1], events[i, 2] == answer_array[i+1])
+    #for i in range(1, 100):
+    #    print(i, events[i, 2], answer_array[i - 1], events[i, 2] == answer_array[i - 1], events[i, 3])
 
     # on sélectionne le premier flag car apparition première image,
     # et on enlève le dernier event car ne nous sert à rien
